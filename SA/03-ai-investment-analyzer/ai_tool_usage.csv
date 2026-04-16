@@ -1,0 +1,97 @@
+team_name,week,active_users,total_sessions,tokens_consumed,estimated_cost,top_use_cases
+Commerce Core,W01,9,174,825514,$0.01,code review; test writing; documentation
+Commerce Core,W02,9,166,786736,$0.01,test writing; debugging; code generation
+Commerce Core,W03,10,219,1038728,$0.02,debugging; documentation; code review
+Commerce Core,W04,11,219,1035570,$0.02,debugging; code review; documentation
+Commerce Core,W05,10,206,974606,$0.01,documentation; architecture analysis; code generation
+Commerce Core,W06,12,244,1156738,$0.02,code generation; debugging; architecture analysis
+Commerce Core,W07,11,216,1023209,$0.02,code generation; debugging; code review
+Commerce Core,W08,12,220,1043130,$0.02,code generation; debugging; code review
+Commerce Core,W09,12,245,1157514,$0.02,architecture analysis; code review; documentation
+Commerce Core,W10,12,278,1312901,$0.02,test writing; debugging; code review
+Commerce Core,W11,12,285,1348476,$0.02,code generation; test writing; documentation
+Commerce Core,W12,12,233,1103259,$0.02,debugging; code generation; test writing
+Discovery,W01,7,155,748515,$0.01,documentation; code generation; debugging
+Discovery,W02,8,148,710543,$0.01,code review; code generation; test writing
+Discovery,W03,8,159,764296,$0.01,code review; architecture analysis; debugging
+Discovery,W04,8,189,908538,$0.01,test writing; documentation; code review
+Discovery,W05,9,179,862269,$0.01,code generation; test writing; code review
+Discovery,W06,9,168,811116,$0.01,debugging; code review; documentation
+Discovery,W07,9,207,994694,$0.01,debugging; code review; architecture analysis
+Discovery,W08,9,169,815767,$0.01,code review; code generation; architecture analysis
+Discovery,W09,9,168,811018,$0.01,architecture analysis; code review; debugging
+Discovery,W10,9,197,949559,$0.01,debugging; test writing; documentation
+Discovery,W11,9,229,1102859,$0.02,code review; code generation; architecture analysis
+Discovery,W12,9,230,1105745,$0.02,debugging; code review; architecture analysis
+Supply Chain,W01,4,88,387126,$0.01,documentation; debugging; code generation
+Supply Chain,W02,5,90,397080,$0.01,code generation; documentation; debugging
+Supply Chain,W03,5,78,341764,$0.01,code generation; debugging; documentation
+Supply Chain,W04,5,96,422621,$0.01,documentation; debugging; code generation
+Supply Chain,W05,5,93,410682,$0.01,debugging; documentation; code generation
+Supply Chain,W06,5,85,374527,$0.01,documentation; code generation; debugging
+Supply Chain,W07,5,86,377765,$0.01,documentation; debugging; code generation
+Supply Chain,W08,6,87,384614,$0.01,debugging; code generation; documentation
+Supply Chain,W09,6,98,429670,$0.01,code review; architecture analysis; code generation
+Supply Chain,W10,5,102,448868,$0.01,debugging; architecture analysis; code generation
+Supply Chain,W11,6,93,408438,$0.01,debugging; code generation; architecture analysis
+Supply Chain,W12,5,97,427212,$0.01,architecture analysis; debugging; code generation
+Platform,W01,9,200,953168,$0.01,code review; architecture analysis; debugging
+Platform,W02,9,206,978522,$0.01,documentation; test writing; architecture analysis
+Platform,W03,8,196,933747,$0.01,code generation; architecture analysis; test writing
+Platform,W04,10,229,1089699,$0.02,debugging; architecture analysis; documentation
+Platform,W05,10,264,1257649,$0.02,test writing; documentation; architecture analysis
+Platform,W06,9,217,1035349,$0.02,debugging; test writing; code review
+Platform,W07,10,230,1094880,$0.02,code review; debugging; documentation
+Platform,W08,10,249,1186145,$0.02,code review; architecture analysis; documentation
+Platform,W09,10,240,1144003,$0.02,test writing; debugging; code review
+Platform,W10,10,298,1418615,$0.02,debugging; documentation; test writing
+Platform,W11,10,293,1395839,$0.02,documentation; code review; debugging
+Platform,W12,10,290,1377510,$0.02,debugging; code generation; architecture analysis
+Growth Platform,W01,1,26,94189,$0.00,ad-hoc queries; documentation
+Growth Platform,W02,1,25,92700,$0.00,documentation; ad-hoc queries
+Growth Platform,W03,1,25,93303,$0.00,documentation; ad-hoc queries
+Growth Platform,W04,1,24,87030,$0.00,ad-hoc queries; documentation
+Growth Platform,W05,1,28,101103,$0.00,ad-hoc queries; documentation
+Growth Platform,W06,1,27,100700,$0.00,documentation; ad-hoc queries
+Growth Platform,W07,2,24,86456,$0.00,documentation; ad-hoc queries
+Growth Platform,W08,2,27,98789,$0.00,documentation; ad-hoc queries
+Growth Platform,W09,2,27,99910,$0.00,documentation; ad-hoc queries
+Growth Platform,W10,2,22,80875,$0.00,ad-hoc queries; documentation
+Growth Platform,W11,2,25,90358,$0.00,documentation; ad-hoc queries
+Growth Platform,W12,1,25,90395,$0.00,ad-hoc queries; documentation
+SRE,W01,3,54,253791,$0.00,code generation; documentation; debugging
+SRE,W02,4,63,297843,$0.00,code generation; documentation; debugging
+SRE,W03,4,70,327612,$0.00,code generation; debugging; documentation
+SRE,W04,3,70,330317,$0.00,code generation; debugging; documentation
+SRE,W05,4,59,279992,$0.00,documentation; debugging; code generation
+SRE,W06,4,62,289578,$0.00,code generation; debugging; documentation
+SRE,W07,4,62,293852,$0.00,code generation; documentation; debugging
+SRE,W08,4,61,287020,$0.00,debugging; documentation; code generation
+SRE,W09,4,67,312781,$0.00,code review; architecture analysis; code generation
+SRE,W10,4,74,349592,$0.01,architecture analysis; debugging; code review
+SRE,W11,5,70,327845,$0.00,code review; code generation; debugging
+SRE,W12,4,83,391983,$0.01,architecture analysis; code generation; debugging
+Data Engineering,W01,5,68,303928,$0.00,code generation; documentation; debugging
+Data Engineering,W02,4,79,354198,$0.01,debugging; code generation; documentation
+Data Engineering,W03,5,65,291762,$0.00,code generation; documentation; debugging
+Data Engineering,W04,5,74,328893,$0.00,debugging; code generation; documentation
+Data Engineering,W05,5,77,343661,$0.01,code generation; debugging; documentation
+Data Engineering,W06,5,73,327657,$0.00,documentation; debugging; code generation
+Data Engineering,W07,5,83,369643,$0.01,documentation; code generation; debugging
+Data Engineering,W08,5,71,314661,$0.00,code generation; documentation; debugging
+Data Engineering,W09,5,73,323766,$0.00,code generation; debugging; architecture analysis
+Data Engineering,W10,6,83,368487,$0.01,debugging; code review; code generation
+Data Engineering,W11,5,77,343164,$0.01,architecture analysis; code review; code generation
+Data Engineering,W12,6,75,332479,$0.00,code generation; code review; debugging
+Mobile,W01,3,28,113346,$0.00,ad-hoc queries; documentation
+Mobile,W02,3,28,112214,$0.00,ad-hoc queries; documentation
+Mobile,W03,2,31,124008,$0.00,ad-hoc queries; documentation
+Mobile,W04,2,27,109350,$0.00,ad-hoc queries; documentation
+Mobile,W05,2,27,111314,$0.00,documentation; ad-hoc queries
+Mobile,W06,3,28,113096,$0.00,ad-hoc queries; documentation
+Mobile,W07,2,29,118365,$0.00,ad-hoc queries; documentation
+Mobile,W08,3,31,125627,$0.00,documentation; ad-hoc queries
+Mobile,W09,2,28,112667,$0.00,ad-hoc queries; documentation
+Mobile,W10,3,32,130855,$0.00,ad-hoc queries; documentation
+Mobile,W11,3,33,133252,$0.00,ad-hoc queries; documentation
+Mobile,W12,3,30,123704,$0.00,ad-hoc queries; documentation

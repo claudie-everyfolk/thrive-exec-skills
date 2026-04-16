@@ -1,0 +1,28 @@
+function,initiative_name,owner,target_quarter,estimated_hours_saved_monthly,estimated_cost_savings_annual,status,cross_functional_dependencies,risk_level
+Finance,Month-End Close Automation Agent,VP Finance,Q3 2026,80,185000,in_progress,Tech Ops (DAP access); Legal (SOX review),high
+Finance,AP Invoice Processing Automation,Controller,Q2 2026,45,95000,piloting,None,medium
+Finance,Budget Variance Analysis Bot,FP&A Director,Q4 2026,30,65000,not_started,Engineering (data pipeline),low
+Merchandising,Replace Novi with In-House AI ($175K savings),VP Merchandising,Q2 2026,35,175000,piloting,Engineering (API integration),medium
+Merchandising,Automated Vendor Scorecard Generation,Category Director,Q3 2026,25,55000,in_progress,Operations (supply chain data),low
+Merchandising,Demand Forecasting Enhancement,Demand Planner,Q4 2026,40,120000,not_started,Operations; Finance (historical data),medium
+Operations,Mission Control Real-Time Dashboard,VP Operations,Q1 2026,48,110000,production,Engineering (data feeds); All functions (KPI inputs),low
+Operations,Supply Planning Automation Suite,Supply Planning Lead,Q2 2026,24,78000,in_progress,Merchandising (demand signals),medium
+Operations,Warehouse Task Prioritization AI,Fulfillment Director,Q3 2026,30,92000,not_started,Tech Ops (WMS integration),medium
+Marketing,Bayesian MMM Compression (1 week to 1 day),Marketing Analytics Lead,Q1 2026,32,85000,production,Finance (spend data),low
+Marketing,AI Creative Production Pipeline,Creative Director,Q2 2026,60,140000,in_progress,Legal (brand compliance review),medium
+Marketing,Personalized Member Communication Engine,CRM Director,Q3 2026,45,165000,not_started,Engineering (member data); Legal (CCPA),high
+Legal & People Ops,Contract Review Accelerator,General Counsel,Q2 2026,50,130000,in_progress,None,high
+Legal & People Ops,Workday HCM AI Integration,HR Director,Q3 2026,35,95000,not_started,Tech Ops (system integration); Engineering,medium
+Legal & People Ops,Employee Policy Q&A Bot,People Ops Manager,Q2 2026,20,42000,in_progress,None,low
+Member Services,Sierra Voice Channel Expansion (68% to 88%),VP Member Services,Q3 2026,120,520000,piloting,Engineering (telephony integration); Tech Ops,high
+Member Services,QA Review Automation (660 reviews/mo),QA Manager,Q2 2026,80,175000,in_progress,None,medium
+Member Services,Member Insight Reporting Dashboard,Analytics Lead,Q3 2026,20,48000,not_started,Engineering (data warehouse),low
+Engineering,Alert Volume Reduction (70% reduction),SRE Lead,Q1 2026,35,82000,production,Tech Ops (monitoring stack),low
+Engineering,Project Genome Knowledge Graph,VP Engineering,Q4 2026,25,150000,not_started,All functions (documentation),high
+Engineering,AI-Assisted Code Review Pipeline,Engineering Manager,Q3 2026,30,72000,in_progress,None,medium
+Tech Ops,Automated Employee Offboarding,IT Director,Q1 2026,18,45000,production,People Ops (termination triggers),low
+Tech Ops,Vanta SOX/PCI Compliance Automation,Security Lead,Q2 2026,25,135000,in_progress,Finance (audit requirements); Legal,high
+Tech Ops,Syndigo PIM Launch & AI Enrichment,PIM Manager,Q2 2026,20,58000,in_progress,Merchandising (product data),medium
+Product,Sprint Management Automation,Head of Product,Q3 2026,55,125000,not_started,Engineering (Jira integration),medium
+Product,Figma Make Design Review Acceleration,Design Lead,Q2 2026,30,68000,in_progress,None,low
+Product,Product Knowledge Graph,Senior PM,Q4 2026,20,95000,not_started,Engineering (Project Genome alignment),high

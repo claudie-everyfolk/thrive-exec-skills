@@ -1,0 +1,51 @@
+function,sub_team,role_title,role_type,headcount,avg_comp,total_comp,ai_amenable_pct,notes
+Finance,Accounting,AP/AR Specialists,tactical,6,72000,432000,80,Data entry and invoice matching highly automatable
+Finance,Accounting,Staff Accountants,tactical,4,85000,340000,45,Month-end close prep is AI-amenable; judgment calls are not
+Finance,FP&A,Financial Analysts,strategic,3,105000,315000,30,Analysis framework setup is AI-amenable; interpretation is not
+Finance,FP&A,FP&A Director,leadership,1,165000,165000,10,Strategic role; AI assists but doesn't replace
+Finance,Accounting,Controller,leadership,1,175000,175000,10,Oversight and judgment; SOX signoff requires human
+Merchandising,Category Management,Category Managers,strategic,8,95000,760000,25,Vendor relationships and negotiation not AI-amenable
+Merchandising,Category Management,Associate Category Managers,tactical,6,68000,408000,55,Product data entry and vendor compliance checks automatable
+Merchandising,Demand Planning,Demand Planners,strategic,3,92000,276000,40,Forecast model tuning is AI-amenable; exception handling less so
+Merchandising,Quality/Compliance,Compliance Analysts,tactical,4,75000,300000,65,Ingredient verification and Novi-equivalent checks highly automatable
+Merchandising,Management,VP Merchandising,leadership,1,195000,195000,5,Strategic leadership
+Operations,Supply Planning,Supply Planners,strategic,5,88000,440000,35,6 hrs/wk already saved per planner; more headroom exists
+Operations,Fulfillment,Warehouse Supervisors,strategic,8,72000,576000,15,Physical oversight role; AI assists prioritization not execution
+Operations,Fulfillment,Warehouse Associates,tactical,145,48000,6960000,10,Physical labor; minimal AI impact
+Operations,Supply Planning,Inventory Analysts,tactical,4,78000,312000,60,Reorder calculations and exception flagging highly automatable
+Operations,Management,VP Operations,leadership,1,185000,185000,5,Strategic leadership
+Operations,Process,Operations Analysts,tactical,3,82000,246000,50,Reporting and dashboard maintenance automatable
+Marketing,Creative,Graphic Designers,strategic,6,85000,510000,35,AI assists production; creative direction remains human
+Marketing,Creative,Copywriters,strategic,4,78000,312000,45,First drafts AI-amenable; brand voice and strategy not
+Marketing,Analytics,Marketing Analysts,strategic,5,95000,475000,40,Bayesian MMM already compressed; more automation possible
+Marketing,CRM,CRM Specialists,tactical,4,72000,288000,55,Campaign setup and segmentation increasingly AI-driven
+Marketing,Growth,Growth Marketers,strategic,6,92000,552000,30,Strategy and testing framework human-driven; execution partially automatable
+Marketing,Management,Creative Director,leadership,1,165000,165000,5,Creative vision and brand stewardship
+Marketing,Management,VP Marketing,leadership,1,195000,195000,5,Strategic leadership
+Legal & People Ops,Legal,General Counsel,leadership,1,225000,225000,5,Judgment and strategy
+Legal & People Ops,Legal,Attorneys,strategic,3,155000,465000,20,AI assists research; judgment and counsel are human
+Legal & People Ops,Legal,Paralegals,tactical,4,68000,272000,60,Contract review triage and research compilation highly automatable
+Legal & People Ops,People Ops,People Ops Managers,strategic,3,95000,285000,30,Employee relations and policy require human judgment
+Legal & People Ops,People Ops,TA Coordinators,tactical,4,62000,248000,65,Scheduling and screening coordination highly automatable
+Legal & People Ops,People Ops,HR Coordinator,tactical,2,58000,116000,50,Admin tasks automatable; employee-facing work less so
+Legal & People Ops,Management,HR Director,leadership,1,175000,175000,10,Strategic leadership; Workday HCM implementation lead
+Member Services,Frontline,Member Service Agents,tactical,48,52000,2496000,68,Sierra handles 68% of contacts; target 88%
+Member Services,QA,QA Analysts,tactical,6,62000,372000,75,660 reviews/month; rubric-based checks 95% automatable
+Member Services,Analytics,Reporting Analysts,tactical,3,78000,234000,70,20 hrs/wk manual reporting; highly automatable
+Member Services,Management,Team Leads,strategic,6,72000,432000,25,Agent coaching and escalation handling remain human
+Member Services,Management,VP Member Services,leadership,1,175000,175000,5,Strategic leadership
+Engineering,Backend,Senior Engineers,strategic,12,165000,1980000,25,AI assists coding; architecture and design judgment stay human
+Engineering,Backend,Mid-Level Engineers,strategic,18,130000,2340000,30,Productivity gains through AI; not headcount replacement
+Engineering,SRE,SRE Engineers,strategic,5,155000,775000,35,Alert reduction frees time; incident response stays human
+Engineering,Frontend,Frontend Engineers,strategic,8,140000,1120000,25,AI assists implementation; UX judgment remains human
+Engineering,Management,Engineering Managers,leadership,4,180000,720000,10,People management and strategy
+Engineering,Management,VP Engineering,leadership,1,220000,220000,5,Technical vision and strategy
+Tech Ops,IT,Systems Administrators,strategic,4,105000,420000,40,Routine maintenance automatable; incident response less so
+Tech Ops,IT,IT Support Specialists,tactical,6,65000,390000,50,Tier 1 support tickets increasingly automated
+Tech Ops,Security,Security Engineers,strategic,3,145000,435000,20,Compliance automation helps; security judgment is human
+Tech Ops,Data,PIM Specialists,tactical,3,72000,216000,55,Syndigo PIM launch will automate data enrichment
+Tech Ops,Management,IT Director,leadership,1,165000,165000,10,Strategic leadership
+Product,Product,Product Managers,strategic,6,145000,870000,37,Sprint management automatable; product strategy and discovery not
+Product,Design,Product Designers,strategic,4,125000,500000,30,Figma Make assists production; design thinking stays human
+Product,Analytics,Product Analysts,strategic,3,115000,345000,35,Data analysis increasingly AI-assisted
+Product,Management,Head of Product,leadership,1,195000,195000,5,Strategic leadership

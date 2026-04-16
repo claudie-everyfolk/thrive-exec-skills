@@ -1,0 +1,10 @@
+function_name,current_ai_tools_count,current_annual_ai_spend,hours_saved_per_week,hours_saved_projected_eoy,fte_equivalent_saved,top_initiative,top_initiative_status,biggest_risk,ai_maturity_rating
+Finance,3,68000,12,45,1.1,Month-End Close Automation Agent,in_progress,SOX compliance blocks AI touching financial data without human review,2
+Merchandising,5,210000,18,55,1.4,Replace Novi with In-House AI Platform,piloting,Tool proliferation — 5 tools with overlapping capabilities,3
+Operations,6,142000,32,80,2.0,Mission Control Dashboard (Claude Code),production,AI work passed off without proper human review,4
+Marketing,17,195000,40,75,1.9,Bayesian MMM Automation,production,AI-generated content quality ("AI slop") eroding brand trust,4
+Legal & People Ops,4,118000,15,40,1.0,Contract Review Accelerator,in_progress,Hallucination risk in legal research and contract analysis,2
+Member Services,3,780000,28,85,2.1,Sierra Voice Channel Expansion,piloting,Over-reliance on Sierra — single vendor for 68% of member contacts,4
+Engineering,4,92000,22,60,1.5,Alert Volume Reduction System,production,Claude Enterprise costs scaling toward $360K/yr without governance,3
+Tech Ops,5,165000,14,35,0.9,Automated Compliance Monitoring (Vanta),in_progress,SOX/PCI audit trail gaps with AI-assisted processes,2
+Product,4,85000,10,30,0.8,Sprint Management Automation,not_started,37% of PM time on sprint admin — automation keeps getting deprioritized,2

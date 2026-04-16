@@ -1,0 +1,28 @@
+function,initiative,hours_saved_monthly,roles_most_affected,current_headcount_in_role,fte_impact,timeline_to_full_impact,confidence_level,new_skills_required,workforce_action
+Finance,Month-End Close Automation Agent,80,"Staff Accountants, AP/AR Specialists",10,1.2,9 months,medium,AI workflow oversight; exception management,Retrain 2 AP/AR Specialists into Financial Operations Analysts
+Finance,AP Invoice Processing Automation,45,AP/AR Specialists,6,0.7,6 months,high,AI tool management; vendor relationship analytics,Absorb through attrition — don't backfill 1 departure
+Finance,Budget Variance Analysis Bot,30,Financial Analysts,3,0.4,12 months,low,Prompt engineering for financial models,No headcount change — analysts shift to strategic analysis
+Merchandising,Replace Novi with In-House AI,35,"Compliance Analysts, Associate Category Managers",10,0.5,4 months,high,AI compliance tool administration,Retrain 2 Compliance Analysts into AI Quality Specialists
+Merchandising,Automated Vendor Scorecard Generation,25,Associate Category Managers,6,0.4,6 months,medium,Data visualization; vendor analytics interpretation,No headcount change — shift from data compilation to vendor strategy
+Merchandising,Demand Forecasting Enhancement,40,"Demand Planners, Associate Category Managers",9,0.6,12 months,low,ML model interpretation; forecast exception analysis,No headcount change — planners become forecast strategists
+Operations,Mission Control Real-Time Dashboard,48,"Operations Analysts, Inventory Analysts",7,0.7,3 months (already live),high,Dashboard interpretation; KPI management,Reduce Operations Analysts by 1 through attrition
+Operations,Supply Planning Automation Suite,24,Supply Planners,5,0.4,6 months,medium,AI-assisted planning tools; exception-based management,No headcount change — planners handle broader scope
+Operations,Warehouse Task Prioritization AI,30,Warehouse Supervisors,8,0.2,9 months,medium,AI prioritization system management,No headcount change — supervisors focus on team leadership
+Marketing,Bayesian MMM Compression,32,Marketing Analysts,5,0.5,1 month (already live),high,Advanced marketing mix modeling interpretation,No headcount change — analysts do more sophisticated analysis
+Marketing,AI Creative Production Pipeline,60,"Copywriters, Graphic Designers",10,0.9,6 months,medium,AI creative tool mastery; prompt engineering for brand voice,No headcount change — creative team produces 2x output
+Marketing,Personalized Member Communication Engine,45,CRM Specialists,4,0.7,12 months,low,AI personalization platform management; A/B testing at scale,Retrain 1 CRM Specialist into Personalization Strategist
+Legal & People Ops,Contract Review Accelerator,50,"Paralegals, Attorneys",7,0.8,6 months,medium,AI-assisted legal research; hallucination detection,Absorb through attrition — don't backfill 1 paralegal departure
+Legal & People Ops,Workday HCM AI Integration,35,"TA Coordinators, HR Coordinator",6,0.5,9 months,medium,Workday AI module administration,Reduce TA Coordinators by 1 through attrition
+Legal & People Ops,Employee Policy Q&A Bot,20,"HR Coordinator, People Ops Managers",5,0.3,4 months,high,Bot training and knowledge base management,No headcount change — People Ops shifts to strategic projects
+Member Services,Sierra Voice Channel Expansion,120,Member Service Agents,48,6.2,12 months,medium,AI escalation handling; complex case specialization,Reduce agents by 6 through attrition as Sierra goes from 68% to 88%
+Member Services,QA Review Automation,80,QA Analysts,6,1.2,6 months,high,AI QA oversight; calibration management,Reduce QA team by 2; retrain into Member Insight Analysts
+Member Services,Member Insight Reporting Dashboard,20,Reporting Analysts,3,0.3,9 months,medium,Advanced analytics; insight narrative creation,No headcount change — analysts shift from reporting to insights
+Engineering,Alert Volume Reduction System,35,SRE Engineers,5,0.5,2 months (already live),high,AI monitoring system tuning; alert correlation analysis,No headcount change — SREs focus on reliability engineering
+Engineering,Project Genome Knowledge Graph,25,"Senior Engineers, Mid-Level Engineers",30,0.4,18 months,low,Knowledge architecture; ontology design,May create 1 new Knowledge Engineer role
+Engineering,AI-Assisted Code Review Pipeline,30,"Mid-Level Engineers, Senior Engineers",30,0.5,9 months,medium,AI code review tool management,No headcount change — engineers review more complex PRs
+Tech Ops,Automated Employee Offboarding,18,"IT Support Specialists, Systems Administrators",10,0.3,2 months (already live),high,Automation workflow maintenance,No headcount change — IT shifts to proactive security
+Tech Ops,Vanta SOX/PCI Compliance Automation,25,"Security Engineers, Systems Administrators",7,0.4,6 months,medium,Compliance automation platform management,No headcount change — team handles broader compliance scope
+Tech Ops,Syndigo PIM Launch & AI Enrichment,20,PIM Specialists,3,0.3,4 months,medium,PIM platform administration; AI data enrichment QA,Absorb through attrition — don't backfill 1 departure
+Product,Sprint Management Automation,55,Product Managers,6,0.8,9 months,medium,AI project management tools; automated reporting,No headcount change — PMs reclaim time for discovery and strategy
+Product,Figma Make Design Review Acceleration,30,Product Designers,4,0.5,4 months,medium,AI design tool mastery; design system maintenance,No headcount change — designers handle more projects
+Product,Product Knowledge Graph,20,"Product Managers, Product Analysts",9,0.3,18 months,low,Knowledge architecture; taxonomy management,May create 1 shared Knowledge Engineer role with Engineering

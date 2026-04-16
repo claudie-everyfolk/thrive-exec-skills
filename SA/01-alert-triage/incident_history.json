@@ -1,0 +1,395 @@
+[
+  {
+    "incident_id": "INC-2026-001",
+    "title": "Order service OOM crash during flash sale",
+    "severity": "P1",
+    "started_at": "2026-03-18T14:22:00Z",
+    "resolved_at": "2026-03-18T15:47:00Z",
+    "time_to_resolve_minutes": 85,
+    "services_affected": ["order-service", "payment-gateway", "fulfillment-router"],
+    "root_cause": "Memory leak in order-service triggered by sustained traffic >500 rps during flash sale. JVM heap exhausted, causing cascading timeouts to payment-gateway.",
+    "resolution_steps": [
+      "On-call paged at P1 severity via PagerDuty",
+      "Identified order-service pods restarting via New Relic container metrics",
+      "Confirmed heap exhaustion in JVM metrics dashboard",
+      "Scaled order-service from 6 to 12 pods to distribute load",
+      "Applied rate limiting at API gateway (300 rps per pod)",
+      "Pods stabilized; payment-gateway timeouts cleared within 10 minutes",
+      "Post-incident: patched memory leak in cart serialization (PR #3847)"
+    ],
+    "on_call_engineer": "Marcus Chen",
+    "related_alert_ids": ["ALT-0012", "ALT-0013", "ALT-0014", "ALT-0015"]
+  },
+  {
+    "incident_id": "INC-2026-002",
+    "title": "Elasticsearch cluster yellow — catalog search degraded",
+    "severity": "P2",
+    "started_at": "2026-03-20T09:15:00Z",
+    "resolved_at": "2026-03-20T11:30:00Z",
+    "time_to_resolve_minutes": 135,
+    "services_affected": ["catalog-search", "recommendation-engine"],
+    "root_cause": "Unbalanced shard allocation after a node replacement left 3 shards unassigned. Search latency p99 spiked from 50ms to 1200ms.",
+    "resolution_steps": [
+      "Alert fired on catalog-search latency threshold breach",
+      "Checked Elasticsearch cluster health — status yellow, 3 unassigned shards",
+      "Ran manual shard reroute to rebalance across available nodes",
+      "Monitored recovery — cluster back to green in 45 minutes",
+      "Post-incident: added automated shard rebalance check to daily cron"
+    ],
+    "on_call_engineer": "Priya Patel",
+    "related_alert_ids": ["ALT-0028", "ALT-0029"]
+  },
+  {
+    "incident_id": "INC-2026-003",
+    "title": "Stripe webhook delivery failures causing payment state drift",
+    "severity": "P1",
+    "started_at": "2026-03-22T19:05:00Z",
+    "resolved_at": "2026-03-22T20:15:00Z",
+    "time_to_resolve_minutes": 70,
+    "services_affected": ["payment-gateway", "order-service", "billing-service"],
+    "root_cause": "Stripe experienced a partial outage causing webhook delivery delays. Our payment-gateway webhook endpoint hit connection pool exhaustion processing the retry storm when Stripe recovered.",
+    "resolution_steps": [
+      "P1 alert on payment-gateway error rate >5%",
+      "Confirmed Stripe status page showing webhook delivery issues",
+      "Increased connection pool max from 50 to 150 on payment-gateway",
+      "Implemented exponential backoff on webhook processing queue",
+      "Ran reconciliation job to sync payment states that drifted during outage",
+      "Post-incident: added circuit breaker on webhook ingestion endpoint"
+    ],
+    "on_call_engineer": "Marcus Chen",
+    "related_alert_ids": ["ALT-0041", "ALT-0042", "ALT-0043"]
+  },
+  {
+    "incident_id": "INC-2026-004",
+    "title": "Membership API cache invalidation causing stale plan data",
+    "severity": "P2",
+    "started_at": "2026-03-24T11:30:00Z",
+    "resolved_at": "2026-03-24T13:00:00Z",
+    "time_to_resolve_minutes": 90,
+    "services_affected": ["membership-api", "billing-service"],
+    "root_cause": "Race condition in cache invalidation during concurrent plan changes. Members upgrading plans saw stale pricing for 2-5 minutes after change.",
+    "resolution_steps": [
+      "Customer support reported pricing inconsistency complaints",
+      "Traced to membership-api returning cached plan data after upgrade",
+      "Identified race condition: cache TTL reset before DB write committed",
+      "Applied hotfix: moved cache invalidation to post-commit hook",
+      "Flushed Redis cache for affected member IDs manually",
+      "Verified pricing consistency across 50 sample accounts"
+    ],
+    "on_call_engineer": "Jordan Kim",
+    "related_alert_ids": ["ALT-0055"]
+  },
+  {
+    "incident_id": "INC-2026-005",
+    "title": "Fulfillment router sending orders to wrong distribution center",
+    "severity": "P1",
+    "started_at": "2026-03-25T08:00:00Z",
+    "resolved_at": "2026-03-25T09:30:00Z",
+    "time_to_resolve_minutes": 90,
+    "services_affected": ["fulfillment-router", "warehouse-api", "inventory-api"],
+    "root_cause": "Stale DC capacity data from warehouse-api (nightly sync failed silently at 3am). Fulfillment router used 18-hour-old capacity numbers, routing 340 orders to the wrong DC.",
+    "resolution_steps": [
+      "Ops team flagged unexpected order volume at NV distribution center",
+      "Traced to fulfillment-router capacity cache showing incorrect availability",
+      "Found warehouse-api nightly sync had failed with Netsuite timeout",
+      "Manually triggered sync, waited for completion (12 minutes)",
+      "Re-routed 340 misrouted orders via admin tool",
+      "Post-incident: added alerting on nightly sync failure and staleness check"
+    ],
+    "on_call_engineer": "Alex Rivera",
+    "related_alert_ids": ["ALT-0061", "ALT-0062"]
+  },
+  {
+    "incident_id": "INC-2026-006",
+    "title": "User-auth token refresh storm during morning traffic ramp",
+    "severity": "P2",
+    "started_at": "2026-03-26T13:00:00Z",
+    "resolved_at": "2026-03-26T13:45:00Z",
+    "time_to_resolve_minutes": 45,
+    "services_affected": ["user-auth", "membership-api", "order-service"],
+    "root_cause": "Token refresh race condition under high concurrency. Multiple concurrent requests for the same user triggered parallel token refreshes, overwhelming Redis cluster.",
+    "resolution_steps": [
+      "Redis connection pool alerts fired at 13:00",
+      "Identified thundering herd pattern on token refresh endpoint",
+      "Applied request deduplication using Redis SETNX as distributed lock",
+      "Redis connections normalized within 5 minutes of fix deployment",
+      "Post-incident: added token refresh coalescing to auth SDK"
+    ],
+    "on_call_engineer": "Priya Patel",
+    "related_alert_ids": ["ALT-0071", "ALT-0072", "ALT-0073"]
+  },
+  {
+    "incident_id": "INC-2026-007",
+    "title": "Notification service SES throttling during promo blast",
+    "severity": "P3",
+    "started_at": "2026-03-27T16:00:00Z",
+    "resolved_at": "2026-03-27T17:30:00Z",
+    "time_to_resolve_minutes": 90,
+    "services_affected": ["notification-service"],
+    "root_cause": "Marketing triggered a 500K member promotional email blast. SES rate limit (200/sec) hit, causing queue backlog. Transactional emails (order confirmations, shipping updates) queued behind promotional batch.",
+    "resolution_steps": [
+      "Alert on notification-service queue depth >10K",
+      "Identified SES throttle errors in application logs",
+      "Separated promotional and transactional queues (manual config change)",
+      "Prioritized transactional queue processing",
+      "Promotional emails drained over next 2 hours at throttled rate",
+      "Post-incident: implemented priority queue system with dedicated SES pools"
+    ],
+    "on_call_engineer": "Jordan Kim",
+    "related_alert_ids": ["ALT-0082", "ALT-0083"]
+  },
+  {
+    "incident_id": "INC-2026-008",
+    "title": "Inventory API nightly sync timeout",
+    "severity": "P3",
+    "started_at": "2026-03-28T04:15:00Z",
+    "resolved_at": "2026-03-28T06:00:00Z",
+    "time_to_resolve_minutes": 105,
+    "services_affected": ["inventory-api", "catalog-search"],
+    "root_cause": "Nightly Snowflake sync job processing 2.3M SKU updates timed out at the 90-minute mark. Large batch from new vendor onboarding exceeded normal volume by 3x.",
+    "resolution_steps": [
+      "Alert on inventory sync job duration >90 minutes",
+      "Checked Snowflake query history — large batch identified",
+      "Increased job timeout to 180 minutes for this run",
+      "Job completed successfully at 05:45",
+      "Backfilled catalog-search index with updated inventory data",
+      "Post-incident: implemented chunked processing for batches >500K SKUs"
+    ],
+    "on_call_engineer": "Alex Rivera",
+    "related_alert_ids": ["ALT-0091"]
+  },
+  {
+    "incident_id": "INC-2026-009",
+    "title": "Recommendation engine cold start after deployment",
+    "severity": "P3",
+    "started_at": "2026-03-29T10:30:00Z",
+    "resolved_at": "2026-03-29T11:15:00Z",
+    "time_to_resolve_minutes": 45,
+    "services_affected": ["recommendation-engine", "catalog-search"],
+    "root_cause": "Rolling deployment of recommendation-engine caused 45-second cold start per pod while ML model loaded into memory. During rollout, reduced healthy pod count caused latency spikes.",
+    "resolution_steps": [
+      "Latency alert on recommendation-engine p99 >500ms",
+      "Confirmed deployment in progress via ArgoCD",
+      "Waited for rolling deployment to complete (all pods healthy)",
+      "Latency normalized after final pod reached ready state",
+      "Post-incident: implemented model pre-loading in readiness probe"
+    ],
+    "on_call_engineer": "Priya Patel",
+    "related_alert_ids": ["ALT-0098", "ALT-0099"]
+  },
+  {
+    "incident_id": "INC-2026-010",
+    "title": "Fraud detection model serving stale predictions",
+    "severity": "P2",
+    "started_at": "2026-03-30T14:00:00Z",
+    "resolved_at": "2026-03-30T16:00:00Z",
+    "time_to_resolve_minutes": 120,
+    "services_affected": ["fraud-detection", "payment-gateway", "order-service"],
+    "root_cause": "Model retraining pipeline failed silently 3 days prior. Production model was 72 hours stale, causing increased false positives (legitimate orders flagged as fraudulent).",
+    "resolution_steps": [
+      "Customer support escalated high volume of order-blocked complaints",
+      "Checked fraud-detection model version — confirmed 72 hours stale",
+      "Traced to retraining pipeline failure (S3 data lake partition missing)",
+      "Manually triggered retraining with correct partition path",
+      "Deployed fresh model, false positive rate returned to baseline within 30 minutes",
+      "Post-incident: added model freshness alert (>24h = P2 page)"
+    ],
+    "on_call_engineer": "Marcus Chen",
+    "related_alert_ids": ["ALT-0108", "ALT-0109"]
+  },
+  {
+    "incident_id": "INC-2026-011",
+    "title": "Product ingestion duplicate SKUs from Magento sync",
+    "severity": "P3",
+    "started_at": "2026-03-31T07:00:00Z",
+    "resolved_at": "2026-03-31T09:00:00Z",
+    "time_to_resolve_minutes": 120,
+    "services_affected": ["product-ingestion", "catalog-search", "inventory-api"],
+    "root_cause": "Magento catalog sync created 847 duplicate SKUs due to vendor submitting products with inconsistent identifier formatting (hyphens vs underscores in SKU field).",
+    "resolution_steps": [
+      "Alert on product-ingestion error rate >2%",
+      "Identified duplicate key violations in ingestion logs",
+      "Ran dedup script to merge duplicate SKUs (kept most recent)",
+      "Re-indexed catalog-search to remove stale entries",
+      "Reconciled inventory counts for affected SKUs",
+      "Post-incident: added SKU normalization layer in ingestion pipeline"
+    ],
+    "on_call_engineer": "Jordan Kim",
+    "related_alert_ids": ["ALT-0115"]
+  },
+  {
+    "incident_id": "INC-2026-012",
+    "title": "Shipping calculator carrier API timeout cascade",
+    "severity": "P3",
+    "started_at": "2026-04-01T11:00:00Z",
+    "resolved_at": "2026-04-01T12:30:00Z",
+    "time_to_resolve_minutes": 90,
+    "services_affected": ["shipping-calculator", "fulfillment-router"],
+    "root_cause": "FedEx API experiencing degraded response times (>5s vs normal 200ms). Shipping calculator had no circuit breaker, causing thread pool exhaustion as requests queued up.",
+    "resolution_steps": [
+      "Alert on shipping-calculator latency p99 >3s",
+      "Confirmed FedEx API degradation via their status page",
+      "Enabled fallback to cached shipping rates for FedEx zones",
+      "Added circuit breaker with 3s timeout and fallback to UPS/USPS rates",
+      "FedEx recovered 45 minutes later; circuit breaker auto-closed",
+      "Post-incident: implemented circuit breakers for all carrier API calls"
+    ],
+    "on_call_engineer": "Alex Rivera",
+    "related_alert_ids": ["ALT-0122", "ALT-0123"]
+  },
+  {
+    "incident_id": "INC-2026-013",
+    "title": "Billing service proration calculation error",
+    "severity": "P2",
+    "started_at": "2026-04-02T15:30:00Z",
+    "resolved_at": "2026-04-02T17:00:00Z",
+    "time_to_resolve_minutes": 90,
+    "services_affected": ["billing-service", "membership-api"],
+    "root_cause": "Floating point rounding error in proration calculation for mid-cycle plan changes. Members upgrading from monthly to annual were overcharged by $0.01-$0.03.",
+    "resolution_steps": [
+      "Finance team flagged billing discrepancy in daily reconciliation",
+      "Traced to proration logic using float instead of decimal for currency",
+      "Patched calculation to use BigDecimal with HALF_UP rounding",
+      "Generated refund batch for 1,247 affected members ($28.41 total)",
+      "Deployed fix and verified with 100 test proration scenarios"
+    ],
+    "on_call_engineer": "Jordan Kim",
+    "related_alert_ids": ["ALT-0131"]
+  },
+  {
+    "incident_id": "INC-2026-014",
+    "title": "Warehouse API Netsuite rate limit during peak sync",
+    "severity": "P3",
+    "started_at": "2026-04-03T02:00:00Z",
+    "resolved_at": "2026-04-03T04:30:00Z",
+    "time_to_resolve_minutes": 150,
+    "services_affected": ["warehouse-api", "inventory-api", "fulfillment-router"],
+    "root_cause": "Netsuite API rate limit (300 req/min) hit during expanded nightly sync window. New vendor onboarding tripled the number of warehouse location updates.",
+    "resolution_steps": [
+      "Alert on warehouse-api sync failures >50 in 5 minutes",
+      "Checked Netsuite API response codes — 429 rate limit errors",
+      "Reduced sync parallelism from 10 to 3 concurrent requests",
+      "Implemented request batching (50 updates per request vs 1)",
+      "Reran failed sync batch successfully",
+      "Post-incident: requested Netsuite rate limit increase to 500 req/min"
+    ],
+    "on_call_engineer": "Alex Rivera",
+    "related_alert_ids": ["ALT-0138", "ALT-0139"]
+  },
+  {
+    "incident_id": "INC-2026-015",
+    "title": "User profile service merge conflict on duplicate emails",
+    "severity": "P3",
+    "started_at": "2026-04-05T09:00:00Z",
+    "resolved_at": "2026-04-05T10:30:00Z",
+    "time_to_resolve_minutes": 90,
+    "services_affected": ["user-profile-service", "membership-api", "recommendation-engine"],
+    "root_cause": "Profile merge logic failed when two accounts with same email but different OAuth providers (Google vs Apple) attempted to merge. Resulted in orphaned preference data.",
+    "resolution_steps": [
+      "Support escalation: member lost dietary preferences after linking Apple account",
+      "Identified profile merge failure in application logs",
+      "Manually merged profiles using admin tool",
+      "Restored preferences from audit log",
+      "Post-incident: added OAuth provider conflict resolution to merge logic"
+    ],
+    "on_call_engineer": "Priya Patel",
+    "related_alert_ids": ["ALT-0145"]
+  },
+  {
+    "incident_id": "INC-2026-016",
+    "title": "Catalog search Elasticsearch OOM on complex faceted query",
+    "severity": "P2",
+    "started_at": "2026-04-07T13:45:00Z",
+    "resolved_at": "2026-04-07T14:30:00Z",
+    "time_to_resolve_minutes": 45,
+    "services_affected": ["catalog-search"],
+    "root_cause": "Marketing landing page generated a query with 12 facet filters. Elasticsearch aggregation memory exceeded per-query limit, causing node to OOM and restart.",
+    "resolution_steps": [
+      "Alert on catalog-search node restart",
+      "Identified OOM kill in node system logs",
+      "Found offending query in slow query log (12 facet aggregations)",
+      "Added query complexity limit (max 6 facet filters per request)",
+      "Increased ES node heap from 8GB to 12GB as buffer",
+      "Marketing updated landing page to use pre-computed filter sets"
+    ],
+    "on_call_engineer": "Marcus Chen",
+    "related_alert_ids": ["ALT-0155", "ALT-0156"]
+  },
+  {
+    "incident_id": "INC-2026-017",
+    "title": "Redis cluster failover causing auth service blip",
+    "severity": "P2",
+    "started_at": "2026-04-09T03:15:00Z",
+    "resolved_at": "2026-04-09T03:45:00Z",
+    "time_to_resolve_minutes": 30,
+    "services_affected": ["user-auth", "membership-api"],
+    "root_cause": "Scheduled Redis cluster maintenance triggered automatic failover. User-auth client library didn't handle sentinel failover gracefully, causing 30 seconds of auth failures.",
+    "resolution_steps": [
+      "Alert on user-auth error rate >1%",
+      "Confirmed Redis failover in cluster events",
+      "Auth errors auto-resolved after client reconnected to new primary",
+      "Post-incident: upgraded Redis client library with improved sentinel support",
+      "Added retry logic for transient Redis connection failures"
+    ],
+    "on_call_engineer": "Priya Patel",
+    "related_alert_ids": ["ALT-0162", "ALT-0163"]
+  },
+  {
+    "incident_id": "INC-2026-018",
+    "title": "Fulfillment router capacity miscalculation after DC expansion",
+    "severity": "P2",
+    "started_at": "2026-04-10T10:00:00Z",
+    "resolved_at": "2026-04-10T11:45:00Z",
+    "time_to_resolve_minutes": 105,
+    "services_affected": ["fulfillment-router", "warehouse-api"],
+    "root_cause": "New distribution center added to warehouse-api but fulfillment-router configuration not updated. Orders eligible for new DC routed to already-full existing DCs.",
+    "resolution_steps": [
+      "Operations flagged imbalanced order distribution across DCs",
+      "Traced to fulfillment-router DC config missing new NV-02 location",
+      "Updated routing configuration with new DC capacity and zones",
+      "Rebalanced queued orders to include NV-02",
+      "Post-incident: automated DC config sync from warehouse-api to fulfillment-router"
+    ],
+    "on_call_engineer": "Alex Rivera",
+    "related_alert_ids": ["ALT-0170"]
+  },
+  {
+    "incident_id": "INC-2026-019",
+    "title": "Recommendation engine A/B test causing latency regression",
+    "severity": "P3",
+    "started_at": "2026-04-12T14:00:00Z",
+    "resolved_at": "2026-04-12T15:00:00Z",
+    "time_to_resolve_minutes": 60,
+    "services_affected": ["recommendation-engine", "catalog-search"],
+    "root_cause": "New recommendation model variant in A/B test consumed 2x memory and 3x inference time. 50% traffic split caused aggregate latency p99 to exceed SLA.",
+    "resolution_steps": [
+      "Alert on recommendation-engine latency p99 >300ms",
+      "Identified A/B test traffic split as root cause via feature flag dashboard",
+      "Reduced test variant traffic from 50% to 10%",
+      "Latency normalized within 5 minutes",
+      "Post-incident: added latency guardrails to A/B test framework"
+    ],
+    "on_call_engineer": "Priya Patel",
+    "related_alert_ids": ["ALT-0178"]
+  },
+  {
+    "incident_id": "INC-2026-020",
+    "title": "Order service connection pool exhaustion during evening peak",
+    "severity": "P1",
+    "started_at": "2026-04-14T23:30:00Z",
+    "resolved_at": "2026-04-15T00:15:00Z",
+    "time_to_resolve_minutes": 45,
+    "services_affected": ["order-service", "payment-gateway", "inventory-api"],
+    "root_cause": "Connection pool to PostgreSQL exhausted during evening order surge. Slow query on order history endpoint held connections, preventing new checkouts.",
+    "resolution_steps": [
+      "Alert on order-service connection pool utilization >90%",
+      "Identified slow query on order history (missing index on member_id + created_at)",
+      "Killed long-running queries via pg_terminate_backend",
+      "Added missing composite index (deployed via emergency migration)",
+      "Connection pool utilization dropped to 35% within 2 minutes",
+      "Post-incident: added query timeout of 5s for all non-batch DB queries"
+    ],
+    "on_call_engineer": "Marcus Chen",
+    "related_alert_ids": ["ALT-0189", "ALT-0190", "ALT-0191"]
+  }
+]
