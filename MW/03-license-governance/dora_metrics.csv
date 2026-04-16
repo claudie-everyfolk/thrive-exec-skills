@@ -1,0 +1,145 @@
+team,week,deploy_frequency,lead_time_hours,change_failure_rate_pct,mttr_minutes
+Platform Engineering,2026-01-06,8,18.5,12.5,45
+Platform Engineering,2026-01-13,9,17.2,11.1,42
+Platform Engineering,2026-01-20,10,16.0,10.0,38
+Platform Engineering,2026-01-27,11,15.5,9.1,35
+Platform Engineering,2026-02-03,12,14.8,8.3,32
+Platform Engineering,2026-02-10,12,14.2,8.3,30
+Platform Engineering,2026-02-17,13,13.5,7.7,28
+Platform Engineering,2026-02-24,14,12.8,7.1,26
+Platform Engineering,2026-03-03,14,12.2,7.1,25
+Platform Engineering,2026-03-10,15,11.5,6.7,23
+Platform Engineering,2026-03-17,16,11.0,6.3,22
+Platform Engineering,2026-03-24,16,10.5,6.3,20
+Order Platform,2026-01-06,5,28.0,20.0,62
+Order Platform,2026-01-13,5,26.5,20.0,58
+Order Platform,2026-01-20,6,25.0,16.7,55
+Order Platform,2026-01-27,6,24.0,16.7,52
+Order Platform,2026-02-03,7,22.5,14.3,48
+Order Platform,2026-02-10,7,21.0,14.3,45
+Order Platform,2026-02-17,8,19.5,12.5,42
+Order Platform,2026-02-24,8,18.5,12.5,40
+Order Platform,2026-03-03,9,17.0,11.1,38
+Order Platform,2026-03-10,9,16.0,11.1,35
+Order Platform,2026-03-17,10,15.0,10.0,33
+Order Platform,2026-03-24,10,14.5,10.0,30
+Payments,2026-01-06,3,32.0,15.0,55
+Payments,2026-01-13,3,31.0,15.0,52
+Payments,2026-01-20,4,29.5,12.5,50
+Payments,2026-01-27,4,28.0,12.5,48
+Payments,2026-02-03,4,27.0,10.0,45
+Payments,2026-02-10,5,25.5,10.0,42
+Payments,2026-02-17,5,24.0,8.0,40
+Payments,2026-02-24,5,23.0,8.0,38
+Payments,2026-03-03,6,21.5,6.7,35
+Payments,2026-03-10,6,20.5,6.7,33
+Payments,2026-03-17,6,19.5,5.0,30
+Payments,2026-03-24,7,18.5,4.3,28
+Product Discovery,2026-01-06,4,22.0,15.0,48
+Product Discovery,2026-01-13,4,21.5,15.0,46
+Product Discovery,2026-01-20,4,21.0,12.5,45
+Product Discovery,2026-01-27,5,20.0,10.0,43
+Product Discovery,2026-02-03,5,19.5,10.0,42
+Product Discovery,2026-02-10,5,19.0,10.0,40
+Product Discovery,2026-02-17,5,18.5,8.0,38
+Product Discovery,2026-02-24,6,17.5,6.7,36
+Product Discovery,2026-03-03,6,17.0,6.7,34
+Product Discovery,2026-03-10,6,16.5,5.0,32
+Product Discovery,2026-03-17,7,15.5,4.3,30
+Product Discovery,2026-03-24,7,15.0,4.3,28
+Member Experience,2026-01-06,4,24.0,18.0,52
+Member Experience,2026-01-13,4,23.5,18.0,50
+Member Experience,2026-01-20,4,23.0,16.0,50
+Member Experience,2026-01-27,4,22.5,16.0,48
+Member Experience,2026-02-03,5,22.0,14.0,46
+Member Experience,2026-02-10,5,21.5,14.0,45
+Member Experience,2026-02-17,5,21.0,12.0,44
+Member Experience,2026-02-24,5,20.5,12.0,42
+Member Experience,2026-03-03,5,20.0,12.0,42
+Member Experience,2026-03-10,5,19.5,10.0,40
+Member Experience,2026-03-17,6,19.0,10.0,40
+Member Experience,2026-03-24,6,18.5,10.0,38
+Logistics,2026-01-06,3,30.0,18.0,58
+Logistics,2026-01-13,3,29.5,18.0,56
+Logistics,2026-01-20,3,29.0,16.0,55
+Logistics,2026-01-27,3,28.5,16.0,54
+Logistics,2026-02-03,3,28.0,14.0,52
+Logistics,2026-02-10,4,27.0,12.5,50
+Logistics,2026-02-17,4,26.5,12.5,48
+Logistics,2026-02-24,4,26.0,10.0,46
+Logistics,2026-03-03,4,25.5,10.0,45
+Logistics,2026-03-10,4,25.0,10.0,44
+Logistics,2026-03-17,4,24.5,8.0,42
+Logistics,2026-03-24,5,24.0,8.0,40
+Data Engineering,2026-01-06,6,20.0,10.0,35
+Data Engineering,2026-01-13,7,18.5,8.6,32
+Data Engineering,2026-01-20,7,17.5,8.6,30
+Data Engineering,2026-01-27,8,16.0,7.5,28
+Data Engineering,2026-02-03,8,15.5,7.5,26
+Data Engineering,2026-02-10,9,14.5,6.7,24
+Data Engineering,2026-02-17,9,14.0,6.7,22
+Data Engineering,2026-02-24,10,13.0,6.0,20
+Data Engineering,2026-03-03,10,12.5,5.0,19
+Data Engineering,2026-03-10,11,12.0,4.5,18
+Data Engineering,2026-03-17,11,11.5,4.5,17
+Data Engineering,2026-03-24,12,11.0,4.2,16
+Growth,2026-01-06,3,25.0,15.0,45
+Growth,2026-01-13,3,25.0,15.0,44
+Growth,2026-01-20,3,24.5,14.0,44
+Growth,2026-01-27,3,24.5,14.0,43
+Growth,2026-02-03,3,24.0,14.0,42
+Growth,2026-02-10,3,24.0,12.0,42
+Growth,2026-02-17,3,23.5,12.0,41
+Growth,2026-02-24,3,23.5,12.0,40
+Growth,2026-03-03,4,23.0,10.0,40
+Growth,2026-03-10,4,23.0,10.0,39
+Growth,2026-03-17,4,22.5,10.0,38
+Growth,2026-03-24,4,22.0,10.0,38
+Marketing,2026-01-06,2,35.0,20.0,72
+Marketing,2026-01-13,2,34.5,18.0,70
+Marketing,2026-01-20,2,34.0,18.0,68
+Marketing,2026-01-27,2,34.0,16.0,68
+Marketing,2026-02-03,2,33.5,16.0,66
+Marketing,2026-02-10,2,33.0,16.0,65
+Marketing,2026-02-17,2,33.0,14.0,64
+Marketing,2026-02-24,2,32.5,14.0,62
+Marketing,2026-03-03,2,32.0,14.0,62
+Marketing,2026-03-10,2,32.0,12.0,60
+Marketing,2026-03-17,2,31.5,12.0,60
+Marketing,2026-03-24,2,31.0,12.0,58
+Finance,2026-01-06,1,48.0,10.0,80
+Finance,2026-01-13,1,47.0,10.0,78
+Finance,2026-01-20,1,46.0,8.0,76
+Finance,2026-01-27,1,46.0,8.0,75
+Finance,2026-02-03,1,45.0,8.0,74
+Finance,2026-02-10,1,45.0,6.0,72
+Finance,2026-02-17,1,44.0,6.0,70
+Finance,2026-02-24,1,44.0,6.0,68
+Finance,2026-03-03,1,43.0,4.0,66
+Finance,2026-03-10,1,43.0,4.0,65
+Finance,2026-03-17,1,42.0,4.0,64
+Finance,2026-03-24,1,42.0,4.0,62
+QA Engineering,2026-01-06,5,22.0,14.0,42
+QA Engineering,2026-01-13,5,21.0,12.0,40
+QA Engineering,2026-01-20,6,20.0,10.0,38
+QA Engineering,2026-01-27,6,19.5,10.0,36
+QA Engineering,2026-02-03,7,18.5,8.6,34
+QA Engineering,2026-02-10,7,17.5,7.1,32
+QA Engineering,2026-02-17,8,16.5,6.3,30
+QA Engineering,2026-02-24,8,15.5,6.3,28
+QA Engineering,2026-03-03,9,15.0,5.6,26
+QA Engineering,2026-03-10,9,14.5,5.6,24
+QA Engineering,2026-03-17,10,13.5,5.0,22
+QA Engineering,2026-03-24,10,13.0,4.0,20
+Security,2026-01-06,2,40.0,8.0,65
+Security,2026-01-13,2,38.0,8.0,62
+Security,2026-01-20,3,36.0,6.7,58
+Security,2026-01-27,3,35.0,6.7,55
+Security,2026-02-03,3,34.0,5.0,52
+Security,2026-02-10,3,32.0,5.0,48
+Security,2026-02-17,4,30.0,5.0,45
+Security,2026-02-24,4,28.0,3.6,42
+Security,2026-03-03,4,27.0,3.6,40
+Security,2026-03-10,4,26.0,2.5,38
+Security,2026-03-17,5,24.0,2.0,35
+Security,2026-03-24,5,23.0,2.0,32

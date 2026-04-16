@@ -1,0 +1,101 @@
+request_id,date,requester,request_type,system,role_requested,justification,approver,time_to_complete_hours,status,auto_eligible
+AR-001,2025-12-02,Maria Santos,provision,GitHub,developer,New hire — Backend Engineer joining Order Platform team,J. Martinez,2.5,completed,yes
+AR-002,2025-12-02,Maria Santos,provision,AWS,developer-readonly,New hire — needs read access to staging environment,J. Martinez,4.0,completed,yes
+AR-003,2025-12-02,Maria Santos,provision,Datadog,viewer,New hire — standard monitoring access,J. Martinez,1.5,completed,yes
+AR-004,2025-12-02,Maria Santos,provision,Okta,standard-employee,New hire — SSO group assignment,IT Admin,0.5,completed,yes
+AR-005,2025-12-03,Tyler Brooks,provision,GitHub,developer,New hire — Frontend Engineer joining Product Discovery team,K. Yamamoto,3.0,completed,yes
+AR-006,2025-12-03,Tyler Brooks,provision,AWS,developer-readonly,New hire — staging access,K. Yamamoto,4.5,completed,yes
+AR-007,2025-12-03,Tyler Brooks,provision,Datadog,viewer,New hire — monitoring access,K. Yamamoto,1.0,completed,yes
+AR-008,2025-12-05,James Liu,deprovision,GitHub,developer,Offboarding — last day 12/05,HR System,6.0,completed,yes
+AR-009,2025-12-05,James Liu,deprovision,AWS,developer-admin,Offboarding — revoke all AWS access,HR System,8.0,completed,yes
+AR-010,2025-12-05,James Liu,deprovision,Snowflake,analyst,Offboarding — revoke data warehouse access,HR System,3.0,completed,yes
+AR-011,2025-12-05,James Liu,deprovision,Datadog,editor,Offboarding — revoke monitoring access,HR System,1.5,completed,yes
+AR-012,2025-12-05,James Liu,deprovision,Okta,standard-employee,Offboarding — disable SSO,HR System,0.5,completed,yes
+AR-013,2025-12-05,James Liu,deprovision,Netsuite,viewer,Offboarding — revoke finance system access,HR System,2.0,completed,yes
+AR-014,2025-12-08,Priya Sharma,modify,AWS,developer-admin,Promoted to Senior Engineer — needs admin access for production debugging,R. Patel,12.0,completed,review
+AR-015,2025-12-08,Priya Sharma,modify,GitHub,maintainer,Promoted — needs repo maintainer access,R. Patel,3.0,completed,review
+AR-016,2025-12-10,David Kim,provision,Snowflake,analyst,New hire — Data Analyst joining Data Engineering team,D. Nguyen,5.0,completed,yes
+AR-017,2025-12-10,David Kim,provision,AWS,data-readonly,New hire — read access to S3 data lake,D. Nguyen,4.0,completed,yes
+AR-018,2025-12-10,David Kim,provision,Datadog,viewer,New hire — monitoring access,D. Nguyen,1.0,completed,yes
+AR-019,2025-12-12,SVC-airflow-prod,provision,AWS,service-role,Airflow needs new IAM role for Snowflake connector,D. Nguyen,16.0,completed,edge_case
+AR-020,2025-12-12,Emily Chen,provision,Netsuite,ap-clerk,New hire — Accounts Payable joining Finance team,CFO Office,8.0,completed,review
+AR-021,2025-12-14,Alex Rivera,modify,GitHub,admin,Temporary admin access for org-wide migration project — 30 day expiry,VP Engineering,6.0,completed,edge_case
+AR-022,2025-12-15,Sarah Johnson,deprovision,GitHub,developer,Offboarding — contractor end date 12/15,HR System,4.0,completed,yes
+AR-023,2025-12-15,Sarah Johnson,deprovision,AWS,developer-readonly,Offboarding — contractor,HR System,3.0,completed,yes
+AR-024,2025-12-15,Sarah Johnson,deprovision,Datadog,viewer,Offboarding — contractor,HR System,1.0,completed,yes
+AR-025,2025-12-18,Michael Torres,provision,GitHub,developer,New hire — SRE joining Platform Engineering team,A. Okonkwo,2.0,completed,yes
+AR-026,2025-12-18,Michael Torres,provision,AWS,sre-admin,New hire — SRE needs production AWS access,A. Okonkwo,14.0,completed,review
+AR-027,2025-12-18,Michael Torres,provision,Datadog,editor,New hire — SRE needs Datadog edit access for dashboards,A. Okonkwo,2.0,completed,yes
+AR-028,2025-12-18,Michael Torres,provision,PagerDuty,responder,New hire — SRE on-call rotation,A. Okonkwo,1.5,completed,yes
+AR-029,2025-12-20,Lisa Park,modify,Snowflake,admin,Data Engineering lead needs admin for schema management,D. Nguyen,10.0,completed,review
+AR-030,2025-12-22,Rachel Adams,provision,GitHub,developer,New hire — Backend Engineer joining Payments team,S. Chen,2.5,completed,yes
+AR-031,2025-12-22,Rachel Adams,provision,AWS,developer-readonly,New hire — staging access,S. Chen,3.5,completed,yes
+AR-032,2025-12-22,Rachel Adams,provision,Datadog,viewer,New hire — monitoring,S. Chen,1.0,completed,yes
+AR-033,2025-12-28,SVC-deploy-bot,modify,AWS,deploy-role,CI/CD pipeline needs additional S3 bucket permissions,A. Okonkwo,8.0,completed,edge_case
+AR-034,2026-01-03,Amir Hassan,provision,GitHub,developer,New hire — Full Stack Engineer joining Growth team,L. Garcia,2.5,completed,yes
+AR-035,2026-01-03,Amir Hassan,provision,AWS,developer-readonly,New hire — staging access,L. Garcia,4.0,completed,yes
+AR-036,2026-01-03,Amir Hassan,provision,Datadog,viewer,New hire — monitoring,L. Garcia,1.0,completed,yes
+AR-037,2026-01-06,Wei Zhang,deprovision,GitHub,developer,Offboarding — voluntary resignation,HR System,5.0,completed,yes
+AR-038,2026-01-06,Wei Zhang,deprovision,AWS,developer-admin,Offboarding — production access revocation priority,HR System,7.0,completed,yes
+AR-039,2026-01-06,Wei Zhang,deprovision,Snowflake,analyst,Offboarding,HR System,2.5,completed,yes
+AR-040,2026-01-06,Wei Zhang,deprovision,Datadog,editor,Offboarding,HR System,1.0,completed,yes
+AR-041,2026-01-06,Wei Zhang,deprovision,Okta,standard-employee,Offboarding — disable SSO,HR System,0.5,completed,yes
+AR-042,2026-01-08,Jennifer Walsh,modify,AWS,developer-admin,Incident response — needs temporary production access for P1 investigation,On-Call Lead,1.0,completed,edge_case
+AR-043,2026-01-08,Jennifer Walsh,modify,AWS,developer-readonly,Incident resolved — downgrade back to readonly,On-Call Lead,2.0,completed,edge_case
+AR-044,2026-01-10,SVC-monitoring,provision,Datadog,api-key,New service needs Datadog API key for custom metrics,A. Okonkwo,4.0,completed,edge_case
+AR-045,2026-01-12,Carlos Mendez,provision,GitHub,developer,New hire — Mobile Engineer joining Member Experience team,R. Patel,2.0,completed,yes
+AR-046,2026-01-12,Carlos Mendez,provision,AWS,developer-readonly,New hire — staging access,R. Patel,3.5,completed,yes
+AR-047,2026-01-12,Carlos Mendez,provision,Datadog,viewer,New hire — monitoring,R. Patel,1.0,completed,yes
+AR-048,2026-01-14,Nina Kowalski,modify,Netsuite,controller,Promoted to Controller — needs elevated Netsuite access,CFO Office,10.0,completed,review
+AR-049,2026-01-14,Nina Kowalski,modify,Snowflake,finance-admin,Promoted — needs finance schema admin,CFO Office,8.0,completed,review
+AR-050,2026-01-16,Tom Patel,deprovision,GitHub,developer,Offboarding — internal transfer to non-engineering role,HR System,3.0,completed,yes
+AR-051,2026-01-16,Tom Patel,deprovision,AWS,developer-readonly,Offboarding from engineering systems,HR System,4.0,completed,yes
+AR-052,2026-01-16,Tom Patel,provision,Netsuite,viewer,Internal transfer — joining Operations team needs finance view access,Ops Manager,6.0,completed,review
+AR-053,2026-01-18,SVC-github-actions,modify,GitHub,actions-runner,GitHub Actions runner needs access to new private registry,A. Okonkwo,5.0,completed,edge_case
+AR-054,2026-01-20,Laura Bennett,provision,GitHub,developer,New hire — QA Engineer joining Platform team,A. Okonkwo,2.5,completed,yes
+AR-055,2026-01-20,Laura Bennett,provision,AWS,developer-readonly,New hire — staging access,A. Okonkwo,3.5,completed,yes
+AR-056,2026-01-20,Laura Bennett,provision,Datadog,viewer,New hire — monitoring,A. Okonkwo,1.0,completed,yes
+AR-057,2026-01-22,Mark Sullivan,modify,GitHub,outside-collaborator,Vendor needs temporary repo access for integration project — 60 day expiry,VP Engineering,8.0,completed,edge_case
+AR-058,2026-01-24,Yuki Tanaka,provision,GitHub,developer,New hire — ML Engineer joining Product Discovery team,K. Yamamoto,2.0,completed,yes
+AR-059,2026-01-24,Yuki Tanaka,provision,AWS,ml-engineer,New hire — needs SageMaker and S3 access,K. Yamamoto,10.0,completed,review
+AR-060,2026-01-24,Yuki Tanaka,provision,Snowflake,analyst,New hire — data access for model training,K. Yamamoto,4.0,completed,yes
+AR-061,2026-01-24,Yuki Tanaka,provision,Datadog,viewer,New hire — monitoring,K. Yamamoto,1.0,completed,yes
+AR-062,2026-01-28,Andrea Lopez,deprovision,GitHub,developer,Offboarding — end of contract,HR System,4.0,completed,yes
+AR-063,2026-01-28,Andrea Lopez,deprovision,AWS,developer-readonly,Offboarding — contractor,HR System,3.0,completed,yes
+AR-064,2026-01-28,Andrea Lopez,deprovision,Datadog,viewer,Offboarding — contractor,HR System,1.0,completed,yes
+AR-065,2026-01-30,Robert Chen,modify,AWS,developer-admin,Needs production access for database migration project — reviewed and approved,R. Patel,14.0,completed,review
+AR-066,2026-02-01,SVC-terraform,modify,AWS,terraform-role,Terraform service account needs new VPC permissions for multi-region expansion,A. Okonkwo,12.0,completed,edge_case
+AR-067,2026-02-03,Hannah Kim,provision,GitHub,developer,New hire — DevOps Engineer joining Platform team,A. Okonkwo,2.0,completed,yes
+AR-068,2026-02-03,Hannah Kim,provision,AWS,sre-admin,New hire — DevOps needs production access,A. Okonkwo,14.0,completed,review
+AR-069,2026-02-03,Hannah Kim,provision,Datadog,editor,New hire — DevOps monitoring access,A. Okonkwo,1.5,completed,yes
+AR-070,2026-02-03,Hannah Kim,provision,PagerDuty,responder,New hire — on-call rotation,A. Okonkwo,1.0,completed,yes
+AR-071,2026-02-05,Chris Martinez,deprovision,GitHub,maintainer,Offboarding — senior engineer departure,HR System,5.0,completed,yes
+AR-072,2026-02-05,Chris Martinez,deprovision,AWS,developer-admin,Offboarding — production access priority revocation,HR System,8.0,completed,yes
+AR-073,2026-02-05,Chris Martinez,deprovision,Snowflake,admin,Offboarding — revoke warehouse admin,HR System,4.0,completed,yes
+AR-074,2026-02-05,Chris Martinez,deprovision,Datadog,admin,Offboarding — revoke all monitoring admin,HR System,2.0,completed,yes
+AR-075,2026-02-05,Chris Martinez,deprovision,Okta,standard-employee,Offboarding — disable SSO,HR System,0.5,completed,yes
+AR-076,2026-02-05,Chris Martinez,deprovision,PagerDuty,responder,Offboarding — remove from on-call schedules,HR System,1.0,completed,yes
+AR-077,2026-02-07,Samantha Lee,modify,Datadog,admin,Team lead promotion — needs Datadog admin for dashboard management,R. Patel,3.0,completed,review
+AR-078,2026-02-10,Omar Farooq,provision,GitHub,developer,New hire — Backend Engineer joining Logistics team,M. Thompson,2.5,completed,yes
+AR-079,2026-02-10,Omar Farooq,provision,AWS,developer-readonly,New hire — staging access,M. Thompson,4.0,completed,yes
+AR-080,2026-02-10,Omar Farooq,provision,Datadog,viewer,New hire — monitoring,M. Thompson,1.0,completed,yes
+AR-081,2026-02-12,Jessica Taylor,modify,Netsuite,auditor,External auditor needs read-only Netsuite access — 14 day expiry,CFO Office,10.0,completed,edge_case
+AR-082,2026-02-14,SVC-backup-agent,provision,AWS,backup-role,New backup service needs cross-account S3 access,A. Okonkwo,8.0,completed,edge_case
+AR-083,2026-02-16,Kevin Wright,deprovision,GitHub,developer,Offboarding — involuntary termination — URGENT same-day,HR System,2.0,completed,yes
+AR-084,2026-02-16,Kevin Wright,deprovision,AWS,developer-admin,Offboarding — URGENT production access revocation,HR System,1.5,completed,yes
+AR-085,2026-02-16,Kevin Wright,deprovision,Snowflake,analyst,Offboarding — URGENT,HR System,1.0,completed,yes
+AR-086,2026-02-16,Kevin Wright,deprovision,Datadog,editor,Offboarding — URGENT,HR System,0.5,completed,yes
+AR-087,2026-02-16,Kevin Wright,deprovision,Okta,standard-employee,Offboarding — URGENT SSO disable,HR System,0.25,completed,yes
+AR-088,2026-02-18,Daniel Park,provision,GitHub,developer,New hire — Infrastructure Engineer joining Platform team,A. Okonkwo,2.0,completed,yes
+AR-089,2026-02-18,Daniel Park,provision,AWS,sre-admin,New hire — infrastructure needs production access,A. Okonkwo,14.0,completed,review
+AR-090,2026-02-18,Daniel Park,provision,Datadog,editor,New hire — infrastructure monitoring,A. Okonkwo,1.5,completed,yes
+AR-091,2026-02-20,Maya Reddy,modify,GitHub,developer,Team transfer — moving from Growth to Payments team — update repo access,S. Chen,4.0,completed,review
+AR-092,2026-02-20,Maya Reddy,modify,AWS,developer-readonly,Team transfer — update IAM group membership,S. Chen,5.0,completed,review
+AR-093,2026-02-22,SVC-datadog-agent,modify,Datadog,api-key,Rotate Datadog API keys — quarterly security requirement,Security Team,6.0,completed,edge_case
+AR-094,2026-02-24,Tina Gonzalez,provision,GitHub,developer,New hire — Backend Engineer joining Member Experience team,R. Patel,2.5,completed,yes
+AR-095,2026-02-24,Tina Gonzalez,provision,AWS,developer-readonly,New hire — staging access,R. Patel,3.5,completed,yes
+AR-096,2026-02-24,Tina Gonzalez,provision,Datadog,viewer,New hire — monitoring,R. Patel,1.0,completed,yes
+AR-097,2026-02-26,Brian Foster,modify,Snowflake,admin,Temporary admin for data migration — 7 day expiry — approved by data lead,D. Nguyen,8.0,completed,edge_case
+AR-098,2026-02-28,Ashley Williams,deprovision,GitHub,developer,Offboarding — end of internship,HR System,3.0,completed,yes
+AR-099,2026-02-28,Ashley Williams,deprovision,AWS,developer-readonly,Offboarding — intern,HR System,2.5,completed,yes
+AR-100,2026-02-28,Ashley Williams,deprovision,Datadog,viewer,Offboarding — intern,HR System,0.5,completed,yes

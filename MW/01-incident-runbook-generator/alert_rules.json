@@ -1,0 +1,199 @@
+{
+  "alert_rules": [
+    {
+      "rule_id": "ALR-001",
+      "service": "order-service",
+      "alert_type": "high_error_rate",
+      "metric": "error_rate_5xx",
+      "threshold": "5%",
+      "window": "5m",
+      "severity": "P2",
+      "notification": ["pagerduty", "slack-incidents"],
+      "notes": "Fires frequently during deploys; consider deploy-aware suppression"
+    },
+    {
+      "rule_id": "ALR-002",
+      "service": "order-service",
+      "alert_type": "elevated_latency",
+      "metric": "p99_latency_ms",
+      "threshold": "2000ms",
+      "window": "10m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-003",
+      "service": "order-service",
+      "alert_type": "memory_usage",
+      "metric": "container_memory_pct",
+      "threshold": "85%",
+      "window": "5m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": "Known memory leak — PLAT-2847"
+    },
+    {
+      "rule_id": "ALR-004",
+      "service": "payment-gateway",
+      "alert_type": "transaction_failure",
+      "metric": "payment_failure_rate",
+      "threshold": "2%",
+      "window": "5m",
+      "severity": "P1",
+      "notification": ["pagerduty", "slack-incidents", "slack-payments"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-005",
+      "service": "payment-gateway",
+      "alert_type": "elevated_latency",
+      "metric": "p95_latency_ms",
+      "threshold": "3000ms",
+      "window": "10m",
+      "severity": "P2",
+      "notification": ["pagerduty", "slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-006",
+      "service": "payment-gateway",
+      "alert_type": "error_rate",
+      "metric": "error_rate_5xx",
+      "threshold": "0.1%",
+      "window": "3m",
+      "severity": "P2",
+      "notification": ["pagerduty", "slack-incidents"],
+      "notes": "REVIEW: threshold seems too sensitive — fires on single errors during low-traffic periods"
+    },
+    {
+      "rule_id": "ALR-007",
+      "service": "catalog-search",
+      "alert_type": "high_cpu",
+      "metric": "cpu_utilization_pct",
+      "threshold": "60%",
+      "window": "5m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": "REVIEW: fires constantly during normal load; auto-scaling handles this — is the alert adding value?"
+    },
+    {
+      "rule_id": "ALR-008",
+      "service": "catalog-search",
+      "alert_type": "search_latency",
+      "metric": "p95_search_ms",
+      "threshold": "500ms",
+      "window": "10m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-009",
+      "service": "membership-api",
+      "alert_type": "elevated_latency",
+      "metric": "p99_latency_ms",
+      "threshold": "1500ms",
+      "window": "10m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": "Frequent fires from analytics query contention on replica"
+    },
+    {
+      "rule_id": "ALR-010",
+      "service": "api-gateway",
+      "alert_type": "high_5xx",
+      "metric": "5xx_rate",
+      "threshold": "1%",
+      "window": "5m",
+      "severity": "P2",
+      "notification": ["pagerduty", "slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-011",
+      "service": "fulfillment-router",
+      "alert_type": "queue_depth",
+      "metric": "sqs_queue_depth",
+      "threshold": "1000",
+      "window": "10m",
+      "severity": "P2",
+      "notification": ["pagerduty", "slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-012",
+      "service": "notification-service",
+      "alert_type": "delivery_delay",
+      "metric": "avg_delivery_latency_s",
+      "threshold": "300s",
+      "window": "15m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-013",
+      "service": "inventory-sync",
+      "alert_type": "data_mismatch",
+      "metric": "sync_error_count",
+      "threshold": "10",
+      "window": "30m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-014",
+      "service": "warehouse-api",
+      "alert_type": "health_check_failure",
+      "metric": "health_check_consecutive_failures",
+      "threshold": "3",
+      "window": "5m",
+      "severity": "P2",
+      "notification": ["pagerduty", "slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-015",
+      "service": "promotion-engine",
+      "alert_type": "calculation_error",
+      "metric": "promo_calc_error_rate",
+      "threshold": "1%",
+      "window": "10m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-016",
+      "service": "shipping-calculator",
+      "alert_type": "elevated_latency",
+      "metric": "p95_rate_calc_ms",
+      "threshold": "5000ms",
+      "window": "10m",
+      "severity": "P3",
+      "notification": ["slack-incidents"],
+      "notes": ""
+    },
+    {
+      "rule_id": "ALR-017",
+      "service": "notification-service",
+      "alert_type": "dlq_depth",
+      "metric": "dlq_message_count",
+      "threshold": "500",
+      "window": "30m",
+      "severity": "P2",
+      "notification": ["pagerduty", "slack-incidents"],
+      "notes": "Added after INC-048"
+    }
+  ],
+  "missing_coverage_notes": [
+    "recommendation-engine has NO alerts for model staleness or Airflow DAG failures",
+    "api-gateway has no SSL certificate expiry monitoring",
+    "warehouse-api has no disk usage alert despite two disk pressure incidents",
+    "No deploy-aware alert suppression for any service",
+    "No cross-service dependency health alerts (e.g., fulfillment-router should alert when warehouse-api is degraded before queue depth spikes)",
+    "analytics-pipeline has ZERO alerts configured"
+  ]
+}

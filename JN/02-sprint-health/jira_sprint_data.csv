@@ -1,0 +1,36 @@
+ticket_id,type,title,assignee,status,story_points,created_date,started_date,completed_date,blocked_reason,labels,sprint_day_added,linked_tickets
+TM-2415,story,Preferences API — save dietary filter selections to member profile,Sam Patel,Done,5,2026-04-03,2026-04-06,2026-04-09,,backend;dietary-filters;api,1,TM-2416;TM-2418
+TM-2416,story,Web UI — auto-apply persisted dietary filters on search,Alex Kim,In Review,5,2026-04-03,2026-04-09,,,frontend;dietary-filters;web,1,TM-2415;TM-2417
+TM-2417,story,Web UI — dismissible "Filtering by" banner on search results,Alex Kim,In Progress,3,2026-04-03,2026-04-14,,,frontend;dietary-filters;web,1,TM-2416
+TM-2418,story,Mobile — dietary filter persistence in React Native,Jordan Liu,In Progress,5,2026-04-03,2026-04-11,,,mobile;dietary-filters;react-native,1,TM-2415
+TM-2419,story,Algolia synonym mappings — top 200 zero-result queries,Sam Patel,Done,3,2026-04-03,2026-04-06,2026-04-08,,backend;search;algolia,1,TM-2420
+TM-2420,task,Algolia fuzzy matching config — tune threshold to "min",Sam Patel,Done,1,2026-04-03,2026-04-08,2026-04-08,,backend;search;algolia,1,TM-2419
+TM-2421,story,QA — validate zero-result rate improvement on staging,Rachel Wen,In Progress,3,2026-04-03,2026-04-14,,Blocked until Day 7 on staging env issue (now cleared),qa;search;validation,1,TM-2419;TM-2420
+TM-2422,story,Optimizely feature flag — dietary filter persistence experiment,Diego Torres,To Do,2,2026-04-03,,,,experimentation;feature-flag,1,TM-2416;TM-2418
+TM-2423,story,Syndigo sandbox API — connect staging pipeline,Priya Singh,Done,5,2026-04-03,2026-04-06,2026-04-10,,backend;syndigo;pipeline,1,TM-2424
+TM-2424,story,Syndigo attribute mapping — dietary tags to internal taxonomy,Priya Singh,In Progress,5,2026-04-03,2026-04-10,,,backend;syndigo;data-mapping,1,TM-2423;TM-2425
+TM-2425,story,Syndigo data quality report — coverage and edge cases,Rachel Wen,To Do,3,2026-04-03,,,,qa;syndigo;data-quality,1,TM-2424
+TM-2426,bug,Search filter chips not rendering on iOS 17.4,Diego Torres,Done,2,2026-04-04,2026-04-07,2026-04-08,,bug;mobile;ios;search,1,
+TM-2427,story,Search relevance monitoring — Amplitude dashboard for search-to-cart post-deploy,Alex Kim,To Do,2,2026-04-03,,,,analytics;search;monitoring,1,TM-2420
+TM-2428,spike,Evaluate Syndigo attribute overlap — 15 Syndigo tags vs 10 internal categories,Priya Singh,Done,2,2026-04-03,2026-04-07,2026-04-09,,spike;syndigo;research,1,TM-2424
+TM-2429,bug,Dietary filter chips flicker on page transition (web),Alex Kim,Done,1,2026-04-06,2026-04-07,2026-04-07,,bug;frontend;web;dietary-filters,2,
+TM-2430,task,Add UTM tracking to dietary filter chip clicks,Diego Torres,In Progress,2,2026-04-10,2026-04-14,,,marketing;tracking;utm,5,
+TM-2431,story,Email preference center — dietary interests section,,,To Do,5,2026-04-10,,,,email;preferences;dietary,5,
+TM-2432,story,Homepage banner A/B test for GLP-1 collection launch,Alex Kim,Blocked,3,2026-04-10,2026-04-11,,Waiting on creative assets from marketing team — design files not delivered. Blocked since Day 7.,frontend;marketing;glp1;homepage,5,
+TM-2433,bug,Persisted filters not clearing on logout,Sam Patel,Done,1,2026-04-08,2026-04-09,2026-04-09,,bug;backend;dietary-filters,3,TM-2415
+TM-2434,task,Update API docs for dietary preferences endpoint,Sam Patel,Done,1,2026-04-08,2026-04-10,2026-04-11,,docs;api;dietary-filters,3,TM-2415
+TM-2435,bug,Synonym mapping causing "almond milk" to match "almond butter",Sam Patel,In Review,2,2026-04-11,2026-04-11,,,bug;search;algolia;synonyms,6,TM-2419
+TM-2436,task,Write test cases for dietary filter persistence — web,Rachel Wen,Done,1,2026-04-06,2026-04-07,2026-04-08,,qa;test-cases;dietary-filters,1,TM-2416
+TM-2437,task,Write test cases for dietary filter persistence — mobile,Rachel Wen,To Do,1,2026-04-06,,,,qa;test-cases;mobile;dietary-filters,1,TM-2418
+TM-2438,story,Algolia ranking rule — boost diet-matching products in search results,Sam Patel,To Do,3,2026-04-03,,,,backend;search;algolia;ranking,1,TM-2416
+TM-2439,bug,Android crash on dietary filter selection — null pointer in preferences handler,Diego Torres,Done,2,2026-04-09,2026-04-10,2026-04-11,,bug;mobile;android;crash,4,TM-2418
+TM-2440,task,Staging environment fix — search index sync issue,Sam Patel,Done,1,2026-04-09,2026-04-10,2026-04-10,,infra;staging;search,4,TM-2421
+TM-2441,story,Syndigo attribute mapping — handle multi-diet products (e.g. Vegan + Gluten-Free),Priya Singh,Blocked,3,2026-04-10,2026-04-14,,Blocked on TM-2424 — need base mapping complete before handling multi-diet edge cases,backend;syndigo;data-mapping,5,TM-2424
+TM-2442,bug,Web — dietary filter banner overlaps search results on narrow viewports (<375px),Alex Kim,To Do,1,2026-04-14,,,,bug;frontend;web;responsive,8,TM-2417
+TM-2443,task,Sprint 14 regression test suite execution,Rachel Wen,In Progress,2,2026-04-03,2026-04-14,,,qa;regression;sprint-14,1,
+TM-2444,story,Mobile — dietary filter "Filtering by" banner component,Jordan Liu,To Do,2,2026-04-03,,,,mobile;dietary-filters;react-native;ui,1,TM-2418
+TM-2445,bug,Production incident follow-up — add guardrail test for discount stacking race condition,Priya Singh,Done,2,2026-04-10,2026-04-10,2026-04-11,,bug;production;incident;checkout,5,
+TM-2446,task,Coordinate with product data team on Syndigo mapping sign-off,Priya Singh,To Do,1,2026-04-03,,,,coordination;syndigo;stakeholder,1,TM-2424;TM-2425
+TM-2447,spike,Investigate React Native 0.74 upgrade impact on dietary filter components,Diego Torres,Done,2,2026-04-07,2026-04-08,2026-04-09,,spike;mobile;react-native;upgrade,2,TM-2418
+TM-2448,task,Update Amplitude tracking plan for dietary filter persistence events,Rachel Wen,Done,1,2026-04-06,2026-04-08,2026-04-09,,analytics;tracking;dietary-filters,1,TM-2416;TM-2418
+TM-2449,bug,Search autocomplete dropdown misaligned on Safari 17.3,Alex Kim,In Review,1,2026-04-12,2026-04-13,,,bug;frontend;web;safari;search,7,

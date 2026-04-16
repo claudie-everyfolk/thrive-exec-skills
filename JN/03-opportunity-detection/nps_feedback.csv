@@ -1,0 +1,51 @@
+response_id,score,verbatim_comment,member_tenure_months,platform,date
+NPS-001,9,"Love the selection of organic snacks. Hard to find this variety anywhere else. The almond butter collection alone is worth the membership.",24,ios,2026-03-18
+NPS-002,3,"Delivery took 6 days this time. I can get the same stuff on Amazon Fresh tomorrow. Not worth paying a membership fee for slow shipping.",8,web,2026-03-19
+NPS-003,10,"Thrive is the only place I trust for clean supplements. I've tried everything and keep coming back. The quality control is real.",36,ios,2026-03-19
+NPS-004,2,"App is painfully slow on my Android phone. Takes 5+ seconds to load search results. I end up just ordering on desktop instead.",14,android,2026-03-20
+NPS-005,8,"Great prices on pantry staples. Wish you had more fresh produce options though — I still have to go to the grocery store for fruits and vegetables.",18,web,2026-03-20
+NPS-006,9,"The Keto filter is a lifesaver. I just wish the app remembered my dietary preferences so I don't have to set the filter every single time.",22,ios,2026-03-21
+NPS-007,4,"My last two orders had items missing. Support was helpful but it's frustrating to not get what you paid for.",6,ios,2026-03-21
+NPS-008,10,"Best membership I have. Better than Amazon, better than Costco for organic. The curation is what makes it — you don't carry junk.",48,web,2026-03-22
+NPS-009,7,"Good product selection but the website search is frustrating. I search for 'GLP-1 friendly' and get random results that aren't actually GLP-1 compliant.",3,web,2026-03-22
+NPS-010,1,"Cancelled my membership because managing the subscription is way too confusing. Tried to skip a month and accidentally ordered. The subscription management page is a maze.",10,android,2026-03-23
+NPS-011,8,"Love the new snack brands you've been adding. The discovery experience is fun — I always find something new.",16,ios,2026-03-23
+NPS-012,5,"Delivery is fine, prices are fine, but nothing about the experience feels personalized. It's the same homepage for everyone.",20,web,2026-03-24
+NPS-013,9,"Switched from Misfits Market to Thrive and never looked back. The quality is noticeably better, especially for supplements.",12,ios,2026-03-24
+NPS-014,3,"The app crashes when I try to apply multiple dietary filters at once. I'm Keto AND dairy-free, and the app can't handle it.",5,android,2026-03-25
+NPS-015,10,"Your GLP-1 selection has been growing and I love it. I'm on Ozempic and Thrive is the only grocery app that takes this diet seriously.",4,ios,2026-03-25
+NPS-016,6,"Prices have gone up on a lot of my regular items. Starting to feel less like a deal and more like Whole Foods online.",30,web,2026-03-26
+NPS-017,2,"Three delivery complaints in a row. Last package arrived with a crushed box and a leaking bottle of olive oil. Done.",9,android,2026-03-26
+NPS-018,8,"The product reviews are super helpful. I trust the community here more than Amazon reviews.",26,ios,2026-03-27
+NPS-019,7,"Wish you had a meal planning feature. I know what diets I follow but I don't know what to cook with the products I buy.",15,web,2026-03-27
+NPS-020,4,"Why can't I manage my subscription from the app? Every time I need to change my auto-ship I have to go to desktop. It's 2026.",11,android,2026-03-28
+NPS-021,9,"Started using Thrive specifically for the Paleo selection. Nothing comes close. Even my local Whole Foods doesn't carry half of this.",19,ios,2026-03-28
+NPS-022,3,"App is so slow on mobile that I've given up browsing. I only order from my saved list now. You're losing sales from me because the app can't keep up.",7,android,2026-03-29
+NPS-023,10,"The fact that you vet every product you sell is the reason I'm a member. I don't want to read ingredient labels — I trust you to do it.",42,web,2026-03-29
+NPS-024,6,"Good store but I keep seeing the same products. Where's the novelty? I want to be surprised sometimes.",24,ios,2026-03-30
+NPS-025,8,"Love that you carry niche brands. Found my favorite adaptogen blend here that I can't get anywhere else.",13,web,2026-03-30
+NPS-026,1,"Subscription management is a nightmare. Tried to cancel and it took 4 clicks through confusing modals. Then I got charged again the next month. Furious.",8,android,2026-03-31
+NPS-027,9,"The dietary filter for Whole30 is a gamechanger. Doing my third round and Thrive makes the shopping so much easier.",21,ios,2026-03-31
+NPS-028,5,"Delivery times are inconsistent. Sometimes 3 days, sometimes 7. I can't plan around that.",16,web,2026-04-01
+NPS-029,4,"Mobile app search is broken. I type 'protein bars' and the first result is a face cream. What?",6,android,2026-04-01
+NPS-030,10,"Just recommended Thrive to 5 friends. The membership pays for itself in 2 orders if you buy the right stuff.",34,ios,2026-04-02
+NPS-031,7,"Solid selection but I wish the email recommendations were actually personalized. I'm vegan and you keep sending me beef jerky promotions.",22,web,2026-04-02
+NPS-032,3,"Checkout freezes on mobile at least once a week. I have to close the app and start over. Lost items from my cart multiple times.",4,android,2026-04-03
+NPS-033,9,"The price comparison feature is brilliant. Seeing Thrive vs. Whole Foods pricing right on the product page builds trust.",28,ios,2026-04-03
+NPS-034,8,"Thrive's private label snacks are surprisingly good. Didn't expect house brand to compete with the premium stuff.",17,web,2026-04-04
+NPS-035,2,"Delivery complaint #4. Package left in the rain, everything soaked. I'm paying for a premium membership and getting a budget experience.",11,ios,2026-04-04
+NPS-036,6,"Fine for basics but your fresh/refrigerated options are terrible compared to what's available now. Amazon Fresh same-day has better fresh selection.",15,web,2026-04-05
+NPS-037,10,"GLP-1 member here — I tell everyone on my Ozempic support group about Thrive. You guys are the best for high-protein, clean ingredient snacks.",2,ios,2026-04-05
+NPS-038,4,"The Android app is borderline unusable. Scrolling is janky, images load slowly, and the filter panel is laggy. iOS gets all the love.",9,android,2026-04-06
+NPS-039,8,"Been a member for 3 years. The product quality has only gotten better. Keep doing what you're doing.",36,web,2026-04-06
+NPS-040,7,"Love Thrive but I always have to supplement with a local grocery run for fresh stuff. Would be amazing if you expanded into fresh produce delivery even in limited markets.",25,ios,2026-04-07
+NPS-041,3,"I can manage everything about my life from my phone except my Thrive subscription. The subscription portal feels like it was built in 2015.",12,android,2026-04-07
+NPS-042,9,"Your customer support is genuinely great. Had an issue with a damaged item and they replaced it plus sent a surprise gift. That kind of touch keeps me loyal.",20,web,2026-04-08
+NPS-043,5,"Prices are creeping up. When I joined 2 years ago the savings vs. Whole Foods were clear. Now it's closer to even on many items.",24,ios,2026-04-08
+NPS-044,10,"I'm a nutritionist and I recommend Thrive to all my clients. The dietary filtering makes it easy to send them specific product links.",31,web,2026-04-09
+NPS-045,2,"Tried to browse on my phone yesterday — search took 8 seconds to return results. Closed the app and ordered on Amazon instead. You're losing me.",5,android,2026-04-09
+NPS-046,8,"The Gluten-Free selection is the best I've found online. As a celiac, I feel safe shopping here.",19,ios,2026-04-10
+NPS-047,6,"Wish there was a way to see what other people with my same diet are buying. Like a 'popular with Keto members' section.",14,web,2026-04-10
+NPS-048,9,"Just used the referral program — my friend got a great deal and I got credits. Win-win. The product basically sells itself.",27,ios,2026-04-11
+NPS-049,4,"The email I get every week has zero relevance to what I actually buy. It's the same generic 'top picks' that don't match my diet at all.",8,web,2026-04-11
+NPS-050,7,"Solid 7 out of 10. Good selection, fair prices, room for improvement on mobile speed and personalization. I'll stick around.",18,android,2026-04-12

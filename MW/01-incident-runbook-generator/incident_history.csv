@@ -1,0 +1,51 @@
+incident_id,date,service,severity,alert_type,root_cause_category,resolution_steps,ttd_minutes,ttr_minutes,on_call_engineer,related_alerts_count,recurrence_flag
+INC-001,2025-11-02,order-service,P2,high_error_rate,deployment_regression,"Rolled back deploy v2.14.3; verified order flow recovery",3,42,J. Martinez,4,true
+INC-002,2025-11-05,payment-gateway,P1,transaction_failure,third_party_outage,"Contacted Stripe support; enabled fallback processor; monitored recovery",1,87,S. Chen,7,false
+INC-003,2025-11-08,catalog-search,P3,high_cpu,resource_exhaustion,"Scaled up search pods from 4 to 8; identified runaway query in product feed sync",8,28,A. Okonkwo,2,true
+INC-004,2025-11-10,membership-api,P3,elevated_latency,database_contention,"Killed long-running analytics query on members replica; latency normalized",12,19,J. Martinez,1,true
+INC-005,2025-11-12,fulfillment-router,P2,queue_depth,downstream_dependency,"Warehouse-api was throttling; increased rate limit; drained backlog",5,55,R. Patel,3,false
+INC-006,2025-11-15,order-service,P3,high_error_rate,deployment_regression,"Rolled back deploy v2.15.0; same config drift as INC-001",2,38,A. Okonkwo,4,true
+INC-007,2025-11-17,catalog-search,P4,high_cpu,resource_exhaustion,"Auto-scaled resolved; no action needed — alert was noise",0,5,S. Chen,1,true
+INC-008,2025-11-19,notification-service,P3,delivery_delay,queue_saturation,"Increased SQS consumer concurrency from 10 to 25; backlog cleared in 8 min",15,22,J. Martinez,2,false
+INC-009,2025-11-22,payment-gateway,P2,elevated_latency,database_contention,"Connection pool exhausted; restarted payment-db primary; tuned pool size from 50 to 100",4,63,R. Patel,5,true
+INC-010,2025-11-24,inventory-sync,P3,data_mismatch,integration_error,"Warehouse feed sent duplicate SKUs; deduplicated and resynced; added idempotency check",20,45,A. Okonkwo,1,false
+INC-011,2025-11-27,order-service,P2,high_error_rate,deployment_regression,"Rolled back v2.15.2; third regression in 30 days — escalated to eng manager",3,35,S. Chen,4,true
+INC-012,2025-11-29,membership-api,P3,elevated_latency,database_contention,"Same analytics query pattern as INC-004; killed query; filed ticket to move to dedicated replica",10,15,J. Martinez,1,true
+INC-013,2025-12-01,api-gateway,P2,high_5xx,configuration_drift,"Nginx upstream timeout set to 5s after deploy; should be 30s; corrected and reloaded",2,18,R. Patel,6,false
+INC-014,2025-12-03,catalog-search,P3,high_cpu,resource_exhaustion,"Product feed sync running during peak hours; rescheduled to 2am UTC",7,25,A. Okonkwo,2,true
+INC-015,2025-12-05,recommendation-engine,P4,model_staleness,scheduled_job_failure,"ML model refresh cron had wrong timezone; fixed crontab; manually triggered refresh",45,12,S. Chen,0,false
+INC-016,2025-12-08,payment-gateway,P1,transaction_failure,deployment_regression,"New fraud check module had null pointer on guest checkout; hotfixed and deployed",2,52,J. Martinez,8,false
+INC-017,2025-12-10,order-service,P3,elevated_latency,database_contention,"Orders table lock contention during bulk import; paused import; added row-level locking",6,30,R. Patel,2,true
+INC-018,2025-12-12,warehouse-api,P2,health_check_failure,infrastructure,"EKS node ran out of disk; pod evicted; node replaced by ASG; service recovered",3,25,A. Okonkwo,3,false
+INC-019,2025-12-14,membership-api,P3,elevated_latency,database_contention,"Analytics query again — third occurrence; emergency: blocked query user on replica",8,12,S. Chen,1,true
+INC-020,2025-12-17,catalog-search,P4,high_cpu,resource_exhaustion,"Auto-scaled handled it; alert was purely informational — no action taken",0,3,J. Martinez,1,true
+INC-021,2025-12-19,notification-service,P2,delivery_delay,third_party_outage,"SendGrid degraded; switched to SES fallback; notifications resumed in 15 min",5,38,R. Patel,3,false
+INC-022,2025-12-22,promotion-engine,P3,calculation_error,deployment_regression,"Holiday promo stacking logic broken in v1.8.0; rolled back to v1.7.9",10,42,A. Okonkwo,2,false
+INC-023,2025-12-24,order-service,P1,high_error_rate,infrastructure,"EKS cluster control plane degradation during AWS us-east-1 event; failed over to us-west-2",1,95,S. Chen,12,false
+INC-024,2025-12-26,fulfillment-router,P3,queue_depth,downstream_dependency,"Warehouse-api rate limit hit again (same as INC-005); permanent fix: implemented circuit breaker",8,35,J. Martinez,3,true
+INC-025,2025-12-29,inventory-sync,P3,data_mismatch,integration_error,"Third-party ERP sent negative quantities; added validation layer; resynced affected SKUs",18,40,R. Patel,1,false
+INC-026,2026-01-02,payment-gateway,P2,elevated_latency,database_contention,"Connection pool exhaustion again (same as INC-009); applied permanent pool tuning + alerting",5,28,A. Okonkwo,4,true
+INC-027,2026-01-05,api-gateway,P3,high_5xx,configuration_drift,"Rate limit config reverted during deploy; added config to version control; reapplied",3,15,S. Chen,5,true
+INC-028,2026-01-07,order-service,P3,high_error_rate,deployment_regression,"Feature flag misconfigured in v2.16.1; toggled flag off; orders resumed",4,20,J. Martinez,3,true
+INC-029,2026-01-09,catalog-search,P3,high_cpu,resource_exhaustion,"Feed sync still running at peak despite INC-014 fix; cron reverted; re-applied schedule",6,22,A. Okonkwo,2,true
+INC-030,2026-01-12,membership-api,P2,elevated_latency,database_contention,"New analytics dashboard launched without read replica routing; hotfixed ORM config",4,32,R. Patel,2,true
+INC-031,2026-01-14,shipping-calculator,P3,calculation_error,integration_error,"UPS API returned rates in CAD instead of USD; added currency validation; recalculated affected orders",25,55,S. Chen,1,false
+INC-032,2026-01-17,order-service,P2,high_error_rate,resource_exhaustion,"Memory leak in order validation module; restarted pods; filed fix ticket",3,18,A. Okonkwo,3,true
+INC-033,2026-01-19,warehouse-api,P3,health_check_failure,infrastructure,"Disk pressure again (same root cause as INC-018); expanded PVC; added disk usage alert",4,20,J. Martinez,2,true
+INC-034,2026-01-22,payment-gateway,P3,elevated_latency,network,"Cross-AZ latency spike; temporarily pinned traffic to single AZ; resolved when AWS fixed",8,42,R. Patel,3,false
+INC-035,2026-01-24,notification-service,P4,delivery_delay,queue_saturation,"SQS backlog during promo blast; auto-scaling handled it; alert was informational",0,8,A. Okonkwo,1,false
+INC-036,2026-01-27,recommendation-engine,P3,model_staleness,scheduled_job_failure,"Airflow DAG failed silently; model serving stale recommendations for 6 hours; restarted DAG",360,15,S. Chen,0,false
+INC-037,2026-01-29,api-gateway,P2,high_5xx,deployment_regression,"New auth middleware caused 502s for mobile clients; rolled back; added mobile client test suite",2,25,J. Martinez,7,false
+INC-038,2026-02-01,order-service,P3,elevated_latency,database_contention,"Bulk membership renewal queries hitting orders DB; separated query path",5,28,R. Patel,2,true
+INC-039,2026-02-03,fulfillment-router,P2,queue_depth,downstream_dependency,"Warehouse-api circuit breaker tripped legitimately; warehouse system was down for maintenance (no notification); re-enabled after maintenance window",3,65,A. Okonkwo,4,true
+INC-040,2026-02-06,catalog-search,P4,high_cpu,resource_exhaustion,"Peak traffic spike from marketing email blast; auto-scaling handled; no action needed",0,4,S. Chen,1,true
+INC-041,2026-02-08,membership-api,P3,elevated_latency,database_contention,"Annual renewal batch job contending with live traffic; moved batch to off-peak window",7,18,J. Martinez,1,true
+INC-042,2026-02-10,payment-gateway,P2,transaction_failure,deployment_regression,"Apple Pay integration broken by SDK update; pinned SDK version; hotfixed",2,48,R. Patel,6,false
+INC-043,2026-02-13,inventory-sync,P3,data_mismatch,integration_error,"Warehouse sent batch with future-dated timestamps; sync rejected entire batch; added timestamp tolerance",15,35,A. Okonkwo,1,false
+INC-044,2026-02-15,order-service,P2,high_error_rate,deployment_regression,"Cart service API contract changed without notification; order-service parsing failed; coordinated fix",3,40,S. Chen,5,true
+INC-045,2026-02-18,shipping-calculator,P3,elevated_latency,third_party_outage,"FedEx rate API degraded; enabled cached rates fallback; monitored",10,20,J. Martinez,2,false
+INC-046,2026-02-20,api-gateway,P3,high_5xx,configuration_drift,"SSL cert rotation missed for internal service mesh; renewed cert; added cert expiry monitoring",48,10,R. Patel,4,false
+INC-047,2026-02-23,catalog-search,P3,high_cpu,resource_exhaustion,"Elasticsearch index bloat from undeleted product variants; ran force merge; scheduled cleanup job",12,30,A. Okonkwo,2,true
+INC-048,2026-02-25,notification-service,P2,delivery_delay,queue_saturation,"Dead letter queue overflow; messages stuck in retry loop; purged DLQ; fixed poison message format",8,45,S. Chen,3,false
+INC-049,2026-02-28,order-service,P3,high_error_rate,deployment_regression,"Feature flag dependency not deployed to staging; caught in prod; rolled back",4,22,J. Martinez,3,true
+INC-050,2026-03-02,payment-gateway,P2,elevated_latency,database_contention,"Connection pool exhaustion — third occurrence; implemented PgBouncer; problem resolved permanently",6,55,R. Patel,4,true

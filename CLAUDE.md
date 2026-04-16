@@ -20,6 +20,9 @@ Then match their initials to the right executive:
 | **DW** | Doug Willoughby | VP Member Services | `DW/` |
 | **SA** | Sacha | CTO | `SA/` |
 | **NG** | Nick | CEO | `NG/` |
+| **MW** | Michael Winslow | Dir. Platform & SRE (Engineering) | `MW/` |
+| **AT** | Andrew Tang | VP Tech Ops | `AT/` |
+| **JN** | Jonas Klink | VP Product & Design | `JN/` |
 
 If someone gives initials you don't recognize, ask for their name and role, then pick the closest match or let them browse all exercises.
 
