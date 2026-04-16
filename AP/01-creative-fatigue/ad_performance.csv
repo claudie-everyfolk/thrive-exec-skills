@@ -1,0 +1,421 @@
+ad_id,ad_name,creative_type,persona_target,hook_text,day,impressions,clicks,CTR,CPA,conversions,frequency,spend
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",1,45200,1582,3.50,18.20,42,1.1,764.40
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",2,47800,1673,3.50,17.90,44,1.3,787.60
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",3,51200,1741,3.40,18.50,41,1.5,758.50
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",4,48900,1614,3.30,19.10,39,1.8,745.00
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",5,52100,1615,3.10,20.40,36,2.1,734.40
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",6,49300,1430,2.90,21.80,33,2.4,719.40
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",7,51800,1399,2.70,22.50,31,2.7,697.50
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",8,48200,1253,2.60,23.80,28,3.0,666.40
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",9,50100,1203,2.40,25.10,26,3.3,652.60
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",10,47600,1095,2.30,26.90,24,3.5,645.60
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",11,49800,1046,2.10,28.20,22,3.7,620.40
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",12,46200,924,2.00,29.80,20,3.9,596.00
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",13,48100,913,1.90,31.40,18,4.1,565.20
+AD001,Organic-Pantry-Staples-UGC,UGC,value_seeker,"I saved $300/month switching to Thrive",14,44800,852,1.90,32.50,16,4.3,520.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",1,38100,1143,3.00,22.10,28,1.0,618.80
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",2,39500,1185,3.00,21.80,29,1.2,632.20
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",3,41200,1236,3.00,21.50,30,1.4,645.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",4,40800,1224,3.00,21.60,30,1.6,648.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",5,42300,1269,3.00,21.30,31,1.8,660.30
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",6,41500,1245,3.00,21.40,30,2.0,642.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",7,43100,1293,3.00,21.20,31,2.2,657.20
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",8,42000,1260,3.00,21.50,30,2.4,645.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",9,43800,1314,3.00,21.10,31,2.5,654.10
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",10,41900,1257,3.00,21.40,30,2.7,642.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",11,44200,1326,3.00,21.00,31,2.9,651.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",12,42700,1281,3.00,21.30,30,3.0,639.00
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",13,43500,1305,3.00,21.10,31,3.1,653.10
+AD002,Clean-Protein-Value-Static,static,dietary_need,"30g protein. Zero junk. Delivered.",14,44000,1320,3.00,21.20,31,3.2,657.20
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",1,62400,2184,3.50,16.80,52,1.0,873.60
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",2,65100,2278,3.50,16.50,55,1.2,907.50
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",3,68300,2459,3.60,15.90,58,1.4,922.20
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",4,71200,2635,3.70,15.20,62,1.6,942.40
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",5,69800,2583,3.70,15.40,60,1.9,924.00
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",6,72100,2668,3.70,15.10,63,2.1,951.30
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",7,68500,2466,3.60,15.80,57,2.4,900.60
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",8,70200,2457,3.50,16.20,55,2.6,891.00
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",9,66800,2205,3.30,17.10,47,2.9,803.70
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",10,68100,2043,3.00,18.40,42,3.2,772.80
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",11,64500,1806,2.80,19.90,37,3.5,736.30
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",12,66200,1722,2.60,21.30,33,3.7,702.90
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",13,63100,1577,2.50,22.80,28,4.0,638.40
+AD003,GLP1-Meal-Prep-Video,video,glp1_health,"Your GLP-1 journey deserves real food",14,65400,1504,2.30,24.10,25,4.2,602.50
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",1,35800,1074,3.00,24.50,22,1.0,539.00
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",2,37200,1116,3.00,24.20,23,1.2,556.60
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",3,38900,1167,3.00,23.80,24,1.4,571.20
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",4,36500,1095,3.00,24.30,23,1.6,558.90
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",5,39100,1173,3.00,23.90,24,1.8,573.60
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",6,37800,1134,3.00,24.10,23,2.0,554.30
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",7,40200,1206,3.00,23.50,25,2.2,587.50
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",8,38400,1152,3.00,24.00,24,2.3,576.00
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",9,41000,1230,3.00,23.60,25,2.5,590.00
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",10,39500,1185,3.00,23.90,24,2.7,573.60
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",11,40800,1224,3.00,23.70,25,2.8,592.50
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",12,38100,1143,3.00,24.20,23,3.0,556.60
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",13,41500,1245,3.00,23.50,25,3.1,587.50
+AD004,Sustainability-Mission-Carousel,carousel,sustainability,"Every order plants a tree. Literally.",14,39800,1194,3.00,23.80,24,3.2,571.20
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",1,41200,1442,3.50,19.20,34,1.0,652.80
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",2,43500,1523,3.50,18.80,35,1.3,658.00
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",3,45800,1603,3.50,18.50,36,1.5,666.00
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",4,44100,1499,3.40,19.30,34,1.8,656.20
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",5,46500,1488,3.20,20.10,32,2.1,643.20
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",6,43800,1358,3.10,21.00,30,2.4,630.00
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",7,45200,1311,2.90,22.40,28,2.7,627.20
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",8,42900,1201,2.80,23.50,26,3.0,611.00
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",9,44600,1161,2.60,24.80,24,3.3,595.20
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",10,41800,1045,2.50,26.20,22,3.5,576.40
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",11,43200,994,2.30,27.80,20,3.8,556.00
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",12,40100,882,2.20,29.50,18,4.0,531.00
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",13,42500,850,2.00,31.20,16,4.2,499.20
+AD005,Keto-Snack-Box-UGC,UGC,dietary_need,"My keto pantry restock — all under $5/item",14,39800,796,2.00,32.80,14,4.4,459.20
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",1,33500,1005,3.00,23.10,24,1.0,554.40
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",2,35200,1056,3.00,22.80,25,1.2,570.00
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",3,36800,1104,3.00,22.50,26,1.4,585.00
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",4,34900,1047,3.00,22.90,25,1.6,572.50
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",5,37100,1113,3.00,22.60,26,1.8,587.60
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",6,35800,1074,3.00,22.80,25,2.0,570.00
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",7,38200,1146,3.00,22.40,27,2.2,604.80
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",8,36500,1095,3.00,22.70,26,2.4,591.20
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",9,37900,1137,3.00,22.50,27,2.5,607.50
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",10,35600,1068,3.00,22.80,25,2.7,570.00
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",11,38500,1155,3.00,22.30,27,2.9,602.10
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",12,36200,1086,3.00,22.60,26,3.0,585.60
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",13,37800,1134,3.00,22.40,27,3.1,604.80
+AD006,Member-Savings-Calculator-Static,static,value_seeker,"The average member saves $32/order",14,35900,1077,3.00,22.70,25,3.2,567.50
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",1,55200,1656,3.00,20.50,35,1.0,717.50
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",2,57800,1734,3.00,20.20,36,1.2,727.20
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",3,59100,1773,3.00,20.00,37,1.4,740.00
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",4,56400,1692,3.00,20.30,36,1.6,730.80
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",5,58900,1767,3.00,19.90,37,1.8,736.30
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",6,57200,1716,3.00,20.10,36,2.0,723.60
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",7,60100,1803,3.00,19.80,38,2.2,752.40
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",8,58300,1749,3.00,20.00,37,2.4,740.00
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",9,59800,1794,3.00,19.90,37,2.5,736.30
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",10,57500,1725,3.00,20.10,36,2.7,723.60
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",11,61200,1836,3.00,19.70,38,2.9,748.60
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",12,58800,1764,3.00,20.00,37,3.0,740.00
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",13,60500,1815,3.00,19.80,38,3.1,752.40
+AD007,Farm-To-Door-Story-Video,video,sustainability,"Meet the farmer behind your almond butter",14,59100,1773,3.00,19.90,37,3.2,736.30
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",1,37500,1313,3.50,19.80,30,1.0,594.00
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",2,39200,1372,3.50,19.50,31,1.2,604.50
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",3,41800,1463,3.50,19.10,33,1.4,630.30
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",4,40100,1404,3.50,19.40,32,1.6,620.80
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",5,42500,1488,3.50,18.90,34,1.8,642.60
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",6,39800,1393,3.50,19.30,32,2.0,617.60
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",7,43200,1512,3.50,18.70,35,2.2,654.50
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",8,41500,1453,3.50,19.00,33,2.4,627.00
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",9,44100,1544,3.50,18.60,35,2.6,651.00
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",10,42300,1481,3.50,18.80,34,2.7,639.20
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",11,43800,1533,3.50,18.70,35,2.9,654.50
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",12,41200,1442,3.50,19.00,33,3.0,627.00
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",13,44500,1558,3.50,18.50,36,3.1,666.00
+AD008,Whole30-Reset-Carousel,carousel,dietary_need,"Your Whole30 pantry in one click",14,42800,1498,3.50,18.80,34,3.2,639.20
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",1,29800,894,3.00,25.80,18,1.0,464.40
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",2,31200,936,3.00,25.50,19,1.2,484.50
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",3,32800,984,3.00,25.10,20,1.4,502.00
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",4,30500,915,3.00,25.60,19,1.6,486.40
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",5,33100,993,3.00,25.00,20,1.8,500.00
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",6,31800,954,3.00,25.30,19,2.0,480.70
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",7,34200,1026,3.00,24.70,21,2.2,518.70
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",8,32500,975,3.00,25.10,20,2.3,502.00
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",9,33800,1014,3.00,24.80,21,2.5,520.80
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",10,31900,957,3.00,25.20,19,2.7,478.80
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",11,34500,1035,3.00,24.60,21,2.8,516.60
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",12,32200,966,3.00,25.00,20,3.0,500.00
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",13,35000,1050,3.00,24.50,21,3.1,514.50
+AD009,Zero-Waste-Kitchen-UGC,UGC,sustainability,"Zero waste doesn't mean zero flavor",14,33100,993,3.00,24.80,20,3.2,496.00
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",1,52100,1563,3.00,16.80,42,1.0,705.60
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",2,54800,1644,3.00,16.50,44,1.3,726.00
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",3,57200,1716,3.00,16.20,46,1.5,745.20
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",4,55900,1677,3.00,16.30,45,1.7,733.50
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",5,58400,1752,3.00,16.10,47,1.9,756.70
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",6,56800,1704,3.00,16.20,46,2.1,745.20
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",7,59100,1773,3.00,16.00,48,2.3,768.00
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",8,57500,1725,3.00,16.10,47,2.5,756.70
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",9,60200,1806,3.00,15.90,49,2.6,779.10
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",10,58100,1743,3.00,16.00,48,2.8,768.00
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",11,61500,1845,3.00,15.80,50,3.0,790.00
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",12,59200,1776,3.00,15.90,49,3.1,779.10
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",13,62100,1863,3.00,15.70,51,3.2,800.70
+AD010,First-Order-Free-Shipping-Static,static,value_seeker,"Free shipping on your first order — no minimum",14,60400,1812,3.00,15.80,50,3.3,790.00
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",1,48200,1687,3.50,17.20,40,1.0,688.00
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",2,50100,1754,3.50,16.80,42,1.2,705.60
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",3,52800,1901,3.60,16.20,45,1.4,729.00
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",4,51400,1850,3.60,16.40,44,1.6,721.60
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",5,54100,1947,3.60,16.00,46,1.8,736.00
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",6,52500,1890,3.60,16.20,45,2.0,729.00
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",7,55800,2009,3.60,15.80,47,2.2,742.60
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",8,53200,1915,3.60,16.10,45,2.4,724.50
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",9,56500,2034,3.60,15.70,48,2.6,753.60
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",10,54100,1948,3.60,15.90,46,2.7,731.40
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",11,57200,2059,3.60,15.60,48,2.9,748.80
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",12,55500,1998,3.60,15.80,47,3.0,742.60
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",13,58100,2092,3.60,15.50,49,3.1,759.50
+AD011,Postpartum-Nutrition-Video,video,dietary_need,"Nourishing your body after baby",14,56200,2023,3.60,15.70,48,3.2,753.60
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",1,44800,1344,3.00,21.20,28,1.0,593.60
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",2,46500,1395,3.00,20.80,29,1.3,603.20
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",3,48200,1446,3.00,20.50,30,1.5,615.00
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",4,45800,1374,3.00,20.90,29,1.7,606.10
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",5,49100,1473,3.00,20.30,31,1.9,629.30
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",6,47200,1416,3.00,20.60,30,2.1,618.00
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",7,46800,1310,2.80,21.80,28,2.4,610.40
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",8,48500,1310,2.70,22.50,26,2.7,585.00
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",9,45200,1175,2.60,23.40,24,3.0,561.60
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",10,47800,1195,2.50,24.20,22,3.2,532.40
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",11,44100,1058,2.40,25.50,20,3.5,510.00
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",12,46500,1023,2.20,26.80,18,3.7,482.40
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",13,43800,920,2.10,28.30,16,3.9,452.80
+AD012,Membership-vs-Retail-Carousel,carousel,value_seeker,"Thrive vs. Whole Foods: same brands half the price",14,45200,904,2.00,29.50,14,4.1,413.00
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",1,36200,1086,3.00,22.30,24,1.0,535.20
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",2,37800,1134,3.00,22.00,25,1.2,550.00
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",3,39500,1185,3.00,21.70,26,1.4,564.20
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",4,37100,1113,3.00,22.10,25,1.6,552.50
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",5,40200,1206,3.00,21.50,27,1.8,580.50
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",6,38500,1155,3.00,21.80,26,2.0,566.80
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",7,41200,1236,3.00,21.40,27,2.2,578.80
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",8,39100,1173,3.00,21.70,26,2.3,564.20
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",9,40800,1224,3.00,21.50,27,2.5,580.50
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",10,38200,1146,3.00,21.80,25,2.7,545.00
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",11,41500,1245,3.00,21.30,27,2.8,575.10
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",12,39500,1185,3.00,21.60,26,3.0,561.60
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",13,42100,1263,3.00,21.20,28,3.1,593.60
+AD013,Gut-Health-Bundle-Static,static,dietary_need,"Your gut microbiome called — it wants better",14,40200,1206,3.00,21.50,27,3.2,580.50
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",1,58200,2037,3.50,14.80,55,1.0,814.00
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",2,61500,2153,3.50,14.50,58,1.3,841.00
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",3,64800,2333,3.60,14.00,62,1.5,868.00
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",4,63100,2272,3.60,14.10,61,1.7,859.10
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",5,66200,2383,3.60,13.80,64,1.9,883.20
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",6,64500,2322,3.60,14.00,62,2.1,868.00
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",7,67800,2441,3.60,13.70,65,2.3,890.50
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",8,65200,2348,3.60,13.90,63,2.5,875.70
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",9,68500,2466,3.60,13.60,66,2.7,897.60
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",10,66100,2380,3.60,13.80,64,2.8,883.20
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",11,69200,2492,3.60,13.50,67,3.0,904.50
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",12,67500,2430,3.60,13.70,66,3.1,904.20
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",13,70100,2524,3.60,13.40,68,3.2,911.20
+AD014,Influencer-Unboxing-UGC,UGC,value_seeker,"@cleanfoodjenna unboxes her Thrive haul",14,68200,2455,3.60,13.60,67,3.3,911.20
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",1,42100,1263,3.00,23.50,24,1.0,564.00
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",2,44200,1326,3.00,23.10,25,1.2,577.50
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",3,46500,1395,3.00,22.80,26,1.4,592.80
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",4,43800,1314,3.00,23.20,25,1.7,580.00
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",5,47200,1416,3.00,22.60,27,1.9,610.20
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",6,45100,1353,3.00,22.90,26,2.1,595.40
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",7,48500,1455,3.00,22.40,27,2.3,604.80
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",8,46200,1386,3.00,22.70,26,2.5,590.20
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",9,49100,1473,3.00,22.20,28,2.6,621.60
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",10,47500,1425,3.00,22.50,27,2.8,607.50
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",11,50200,1506,3.00,22.00,28,3.0,616.00
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",12,48100,1443,3.00,22.30,27,3.1,602.10
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",13,51500,1545,3.00,21.80,29,3.2,632.20
+AD015,Carbon-Neutral-Delivery-Video,video,sustainability,"Your groceries just went carbon neutral",14,49200,1476,3.00,22.10,28,3.3,618.80
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",1,40200,1407,3.50,18.50,32,1.0,592.00
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",2,42500,1488,3.50,18.10,34,1.2,615.40
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",3,44800,1568,3.50,17.80,36,1.4,640.80
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",4,43100,1509,3.50,18.00,35,1.6,630.00
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",5,45500,1593,3.50,17.60,37,1.8,651.20
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",6,42800,1498,3.50,17.90,35,2.1,626.50
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",7,46200,1617,3.50,17.40,38,2.3,661.20
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",8,44500,1558,3.50,17.70,36,2.5,637.20
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",9,47100,1649,3.50,17.20,39,2.7,670.80
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",10,45200,1582,3.50,17.50,37,2.8,647.50
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",11,47800,1673,3.50,17.10,40,3.0,684.00
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",12,45900,1607,3.50,17.30,38,3.1,657.40
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",13,48500,1698,3.50,17.00,41,3.2,697.00
+AD016,Family-Meal-Plan-Carousel,carousel,value_seeker,"Feed a family of 4 for $8.50/meal — organic",14,46800,1638,3.50,17.20,39,3.3,670.80
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",1,35800,1074,3.00,21.50,24,1.0,516.00
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",2,37200,1116,3.00,21.20,25,1.2,530.00
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",3,38900,1167,3.00,20.80,26,1.4,540.80
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",4,37500,1125,3.00,21.00,25,1.6,525.00
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",5,39800,1194,3.00,20.60,27,1.8,556.20
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",6,38200,1146,3.00,20.90,26,2.0,543.40
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",7,40500,1215,3.00,20.50,27,2.2,553.50
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",8,39100,1173,3.00,20.70,26,2.4,538.20
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",9,41200,1236,3.00,20.40,27,2.5,550.80
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",10,39800,1194,3.00,20.60,26,2.7,535.60
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",11,42100,1263,3.00,20.30,28,2.9,568.40
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",12,40500,1215,3.00,20.50,27,3.0,553.50
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",13,43200,1296,3.00,20.10,29,3.1,582.90
+AD017,GLP1-Protein-Snacks-Static,static,glp1_health,"High protein. Portion-smart. GLP-1 friendly.",14,41800,1254,3.00,20.30,28,3.2,568.40
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",1,46800,1638,3.50,18.20,36,1.0,655.20
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",2,48500,1698,3.50,17.80,38,1.2,676.40
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",3,51200,1843,3.60,17.20,40,1.4,688.00
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",4,49800,1792,3.60,17.40,39,1.7,678.60
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",5,52500,1890,3.60,17.00,41,1.9,697.00
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",6,50100,1804,3.60,17.30,39,2.1,674.70
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",7,53800,1937,3.60,16.80,42,2.3,705.60
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",8,51500,1854,3.60,17.10,40,2.5,684.00
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",9,54200,1951,3.60,16.70,43,2.7,718.10
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",10,52800,1901,3.60,16.90,41,2.8,692.90
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",11,55500,1998,3.60,16.60,44,3.0,730.40
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",12,53200,1915,3.60,16.80,42,3.1,705.60
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",13,56800,2045,3.60,16.40,45,3.2,738.00
+AD018,Smoothie-Subscription-Video,video,dietary_need,"Your morning smoothie on autopilot",14,54500,1962,3.60,16.60,43,3.3,713.80
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",1,31500,945,3.00,26.20,17,1.0,445.40
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",2,33200,996,3.00,25.80,18,1.2,464.40
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",3,34800,1044,3.00,25.40,19,1.4,482.60
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",4,32500,975,3.00,25.90,18,1.6,466.20
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",5,35500,1065,3.00,25.20,20,1.8,504.00
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",6,33800,1014,3.00,25.60,19,2.0,486.40
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",7,36200,1086,3.00,25.00,20,2.2,500.00
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",8,34500,1035,3.00,25.30,19,2.3,480.70
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",9,37100,1113,3.00,24.80,21,2.5,520.80
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",10,35200,1056,3.00,25.10,20,2.7,502.00
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",11,37800,1134,3.00,24.60,21,2.8,516.60
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",12,35800,1074,3.00,24.90,20,3.0,498.00
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",13,38500,1155,3.00,24.50,22,3.1,539.00
+AD019,Plastic-Free-Packaging-UGC,UGC,sustainability,"I didn't throw away a single piece of packaging",14,36500,1095,3.00,24.70,21,3.2,518.70
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",1,41200,1236,3.00,19.80,28,1.0,554.40
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",2,43500,1305,3.00,19.50,29,1.3,565.50
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",3,45800,1374,3.00,19.20,31,1.5,595.20
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",4,44100,1323,3.00,19.40,30,1.7,582.00
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",5,46500,1395,3.00,19.10,31,1.9,591.10
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",6,43800,1314,3.00,19.30,30,2.2,579.00
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",7,47200,1416,3.00,18.90,32,2.4,604.80
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",8,45100,1353,3.00,19.10,31,2.5,591.10
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",9,47800,1434,3.00,18.80,33,2.7,620.40
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",10,46200,1386,3.00,19.00,31,2.9,589.00
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",11,48500,1455,3.00,18.70,33,3.0,617.10
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",12,46800,1404,3.00,18.90,32,3.1,604.80
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",13,49500,1485,3.00,18.60,34,3.2,632.40
+AD020,Bulk-Basics-Deal-Static,static,value_seeker,"Stock up on organic basics — prices you won't find in stores",14,47500,1425,3.00,18.80,33,3.3,620.40
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",1,44500,1335,3.00,21.80,26,1.0,566.80
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",2,46200,1386,3.00,21.50,27,1.2,580.50
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",3,48800,1464,3.00,21.10,28,1.5,590.80
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",4,45900,1377,3.00,21.60,27,1.7,583.20
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",5,49500,1485,3.00,20.80,29,1.9,603.20
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",6,47200,1416,3.00,21.20,28,2.1,593.60
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",7,50800,1524,3.00,20.50,30,2.3,615.00
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",8,48500,1455,3.00,20.90,29,2.5,606.10
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",9,51200,1536,3.00,20.40,30,2.6,612.00
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",10,49100,1473,3.00,20.70,29,2.8,600.30
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",11,52500,1575,3.00,20.20,31,3.0,625.20
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",12,50200,1506,3.00,20.50,30,3.1,615.00
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",13,53800,1614,3.00,20.00,32,3.2,640.00
+AD021,Mediterranean-Diet-Video,video,dietary_need,"The Mediterranean diet — delivered to your door",14,51500,1545,3.00,20.30,31,3.3,629.30
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",1,38500,1155,3.00,24.00,22,1.0,528.00
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",2,40200,1206,3.00,23.60,23,1.2,542.80
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",3,42100,1263,3.00,23.20,24,1.5,556.80
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",4,39800,1194,3.00,23.70,23,1.7,545.10
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",5,43200,1296,3.00,23.00,25,1.9,575.00
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",6,41500,1245,3.00,23.30,24,2.1,559.20
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",7,44800,1344,3.00,22.80,26,2.3,592.80
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",8,42200,1266,3.00,23.10,24,2.5,554.40
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",9,45500,1365,3.00,22.60,26,2.6,585.60
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",10,43100,1293,3.00,22.90,25,2.8,572.50
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",11,46200,1386,3.00,22.50,27,3.0,607.50
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",12,44500,1335,3.00,22.70,26,3.1,590.20
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",13,47100,1413,3.00,22.30,27,3.2,602.10
+AD022,Earth-Month-Mission-Carousel,carousel,sustainability,"Earth Month: every member order offsets 10lbs of plastic",14,45200,1356,3.00,22.60,26,3.3,587.60
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",1,52100,1823,3.50,15.90,42,1.0,667.80
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",2,54800,1918,3.50,15.50,45,1.2,697.50
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",3,57500,2070,3.60,14.90,48,1.4,715.20
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",4,56200,2023,3.60,15.10,47,1.7,709.70
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",5,58800,2117,3.60,14.70,50,1.9,735.00
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",6,55500,1998,3.60,15.00,48,2.2,720.00
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",7,59200,2131,3.60,14.60,51,2.4,744.60
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",8,57100,2056,3.60,14.80,49,2.6,725.20
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",9,60500,2178,3.60,14.40,52,2.8,748.80
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",10,58200,2095,3.60,14.70,50,2.9,735.00
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",11,61800,2225,3.60,14.30,53,3.1,757.90
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",12,59500,2142,3.60,14.50,51,3.2,739.50
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",13,62500,2250,3.60,14.10,55,3.3,775.50
+AD023,GLP1-Meal-Kit-UGC,UGC,glp1_health,"Meal prepping on Ozempic? Here's my Thrive order",14,60800,2189,3.60,14.30,53,3.4,757.90
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",1,48200,1687,3.50,17.50,38,1.0,665.00
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",2,50100,1754,3.50,17.10,40,1.3,684.00
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",3,52800,1848,3.50,16.80,42,1.5,705.60
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",4,51200,1741,3.40,17.50,39,1.8,682.50
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",5,53500,1712,3.20,18.20,37,2.1,673.40
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",6,50800,1575,3.10,19.00,34,2.4,646.00
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",7,52100,1511,2.90,19.80,32,2.7,633.60
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",8,49500,1386,2.80,20.80,29,3.0,603.20
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",9,51800,1347,2.60,21.90,27,3.3,591.30
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",10,48200,1205,2.50,23.20,24,3.5,556.80
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",11,50500,1161,2.30,24.50,22,3.7,539.00
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",12,47800,1052,2.20,25.80,20,3.9,516.00
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",13,49200,984,2.00,27.50,18,4.1,495.00
+AD024,New-Year-Reset-Static,static,dietary_need,"New year. New pantry. Same budget.",14,46500,884,1.90,29.20,15,4.3,438.00
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",1,44200,1326,3.00,20.80,27,1.0,561.60
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",2,46500,1395,3.00,20.50,28,1.2,574.00
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",3,48800,1464,3.00,20.20,29,1.4,585.80
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",4,45900,1377,3.00,20.60,28,1.7,576.80
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",5,49500,1485,3.00,20.10,30,1.9,603.00
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",6,47200,1416,3.00,20.40,29,2.1,591.60
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",7,50800,1524,3.00,19.90,31,2.3,616.90
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",8,48100,1443,3.00,20.20,29,2.5,585.80
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",9,51500,1545,3.00,19.70,32,2.7,630.40
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",10,49200,1476,3.00,20.00,30,2.8,600.00
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",11,52800,1584,3.00,19.50,33,3.0,643.50
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",12,50500,1515,3.00,19.80,31,3.1,613.80
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",13,53200,1596,3.00,19.40,33,3.2,640.20
+AD025,Refer-A-Friend-Savings-Carousel,carousel,value_seeker,"Give $25 get $25 — your friends deserve organic too",14,51200,1536,3.00,19.60,32,3.3,627.20
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",1,38500,1348,3.50,20.10,28,1.0,562.80
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",2,40200,1407,3.50,19.70,29,1.2,571.30
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",3,42500,1488,3.50,19.30,31,1.4,598.30
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",4,40800,1428,3.50,19.60,30,1.7,588.00
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",5,43500,1523,3.50,19.10,32,1.9,611.20
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",6,41200,1442,3.50,19.40,30,2.1,582.00
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",7,44800,1568,3.50,18.90,33,2.3,623.70
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",8,42500,1488,3.50,19.20,31,2.5,595.20
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",9,45200,1582,3.50,18.70,34,2.7,636.00
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",10,43500,1523,3.50,19.00,32,2.8,608.00
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",11,46200,1617,3.50,18.50,35,3.0,647.50
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",12,44100,1544,3.50,18.80,33,3.1,620.40
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",13,47500,1663,3.50,18.30,36,3.2,658.80
+AD026,Allergen-Free-Living-Video,video,dietary_need,"Nut-free. Gluten-free. Stress-free.",14,45800,1603,3.50,18.60,34,3.3,632.40
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",1,55800,1953,3.50,15.20,48,1.0,729.60
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",2,58200,2037,3.50,14.80,51,1.2,754.80
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",3,61500,2214,3.60,14.20,55,1.5,781.00
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",4,59800,2153,3.60,14.40,54,1.7,777.60
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",5,62100,2236,3.60,14.10,56,1.9,789.60
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",6,58500,2106,3.60,14.50,52,2.2,754.00
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",7,63800,2297,3.60,13.80,58,2.4,800.40
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",8,61200,2203,3.60,14.10,55,2.6,775.50
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",9,64500,2322,3.60,13.60,60,2.8,816.00
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",10,62800,2261,3.60,13.80,58,2.9,800.40
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",11,65200,2347,3.60,13.50,61,3.1,823.50
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",12,63100,2272,3.60,13.70,59,3.2,808.30
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",13,66500,2394,3.60,13.30,63,3.3,837.90
+AD027,Weekend-Grocery-Run-UGC,UGC,value_seeker,"POV: You stopped going to the grocery store",14,64200,2311,3.60,13.50,61,3.4,823.50
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",1,34500,1035,3.00,23.80,20,1.0,476.00
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",2,36200,1086,3.00,23.40,21,1.2,491.40
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",3,37800,1134,3.00,23.00,22,1.4,506.00
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",4,35500,1065,3.00,23.50,21,1.6,493.50
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",5,38500,1155,3.00,22.80,23,1.8,524.40
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",6,36800,1104,3.00,23.20,22,2.0,510.40
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",7,39200,1176,3.00,22.60,24,2.2,542.40
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",8,37500,1125,3.00,23.00,22,2.4,506.00
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",9,40100,1203,3.00,22.40,25,2.5,560.00
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",10,38200,1146,3.00,22.70,23,2.7,522.10
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",11,41500,1245,3.00,22.20,26,2.9,577.20
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",12,39500,1185,3.00,22.50,24,3.0,540.00
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",13,42200,1266,3.00,22.10,26,3.1,574.60
+AD028,Anti-Inflammatory-Bundle-Static,static,dietary_need,"Fight inflammation with food not supplements",14,40800,1224,3.00,22.30,25,3.2,557.50
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",1,40200,1206,3.00,22.50,24,1.0,540.00
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",2,42100,1263,3.00,22.10,25,1.2,552.50
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",3,44500,1335,3.00,21.80,26,1.4,566.80
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",4,41800,1254,3.00,22.20,25,1.7,555.00
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",5,45200,1356,3.00,21.50,27,1.9,580.50
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",6,43500,1305,3.00,21.80,26,2.1,566.80
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",7,46800,1404,3.00,21.30,28,2.3,596.40
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",8,44200,1326,3.00,21.60,27,2.5,583.20
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",9,47500,1425,3.00,21.10,28,2.6,590.80
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",10,45800,1374,3.00,21.40,27,2.8,577.80
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",11,48200,1446,3.00,20.90,29,3.0,606.10
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",12,46500,1395,3.00,21.20,28,3.1,593.60
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",13,49500,1485,3.00,20.70,30,3.2,621.00
+AD029,B-Corp-Story-Video,video,sustainability,"We're not just organic. We're B Corp certified.",14,47800,1434,3.00,21.00,29,3.3,609.00
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",1,48500,1698,3.50,16.20,40,1.0,648.00
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",2,51200,1792,3.50,15.80,43,1.3,679.40
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",3,54500,1963,3.60,15.20,47,1.5,714.40
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",4,52800,1901,3.60,15.40,45,1.7,693.00
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",5,55200,1987,3.60,15.00,48,1.9,720.00
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",6,53500,1926,3.60,15.20,46,2.2,699.20
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",7,56800,2045,3.60,14.80,49,2.4,725.20
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",8,54200,1951,3.60,15.00,47,2.6,705.00
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",9,57500,2070,3.60,14.60,51,2.8,744.60
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",10,55800,2009,3.60,14.80,49,3.0,725.20
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",11,58200,2095,3.60,14.50,52,3.1,754.00
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",12,56500,2034,3.60,14.70,50,3.2,735.00
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",13,59800,2153,3.60,14.30,54,3.3,772.20
+AD030,GLP1-Before-After-Carousel,carousel,glp1_health,"3 months on GLP-1 + Thrive meals: my journey",14,57500,2070,3.60,14.50,52,3.4,754.00

@@ -1,0 +1,201 @@
+sku_id,product_name,category,current_week_forecast,4_week_avg,12_week_avg,yoy_same_week,promo_flag,new_item_flag,seasonal_index
+THR-1001,Organic Extra Virgin Olive Oil,Pantry Staples,2725,2600,2739,2347,N,N,0.95
+THR-1002,Raw Honey 16oz,Pantry Staples,2304,2473,2352,2571,N,N,0.99
+THR-1003,Almond Butter Creamy,Pantry Staples,1295,1282,1203,1150,N,N,1.04
+THR-1004,Coconut Aminos 8oz,Pantry Staples,413,443,446,499,N,N,1.04
+THR-1005,Apple Cider Vinegar 32oz,Pantry Staples,2168,2029,2013,2146,N,N,0.99
+THR-1006,Organic Quinoa 2lb,Pantry Staples,3114,1483,1408,1480,Y,N,0.97
+THR-1007,Chia Seeds 12oz,Pantry Staples,685,648,686,717,N,N,1.0
+THR-1008,Organic Black Beans 15oz,Pantry Staples,592,600,589,506,N,N,1.02
+THR-1009,Brown Rice Pasta Penne,Pantry Staples,1437,1318,1342,1178,N,N,1.04
+THR-1010,Organic Rolled Oats 32oz,Pantry Staples,946,1036,1100,1094,N,N,0.95
+THR-1011,Avocado Oil Spray,Pantry Staples,3241,1013,987,1062,N,Y,1.05
+THR-1012,Organic Tahini,Pantry Staples,2628,2431,2388,2154,N,N,0.97
+THR-1013,Maple Syrup Grade A 12oz,Pantry Staples,1882,1939,2056,2173,N,N,0.97
+THR-1014,Organic Coconut Sugar 16oz,Pantry Staples,531,560,567,521,N,N,0.97
+THR-1015,Kalamata Olives 6oz,Pantry Staples,1046,1072,1088,915,N,N,0.96
+THR-1016,Organic Tomato Sauce 24oz,Pantry Staples,10252,2136,2113,2145,N,N,0.96
+THR-1017,Organic Chickpeas 15oz,Pantry Staples,358,378,400,456,N,N,1.01
+THR-1018,Peanut Butter Crunchy 16oz,Pantry Staples,1184,1090,1097,1266,N,N,0.97
+THR-1019,Organic Lentils Green 16oz,Pantry Staples,428,419,401,430,N,N,1.05
+THR-1020,Flaxseed Meal 16oz,Pantry Staples,554,573,592,530,N,N,1.05
+THR-1021,Organic Pinto Beans 15oz,Pantry Staples,292,290,300,326,N,N,0.94
+THR-1022,Cashew Butter 12oz,Pantry Staples,699,770,726,849,Y,N,0.99
+THR-1023,Organic Marinara 24oz,Pantry Staples,1201,1147,1089,902,N,N,1.04
+THR-1024,Hemp Seeds 8oz,Pantry Staples,292,276,278,258,N,N,1.04
+THR-1025,Organic Coconut Milk 13oz,Pantry Staples,1561,1640,1757,1995,N,N,1.02
+THR-1026,Organic Ghee 9oz,Pantry Staples,661,610,593,486,N,N,0.99
+THR-1027,Bone Broth Chicken 32oz,Pantry Staples,1357,1406,1405,1489,N,N,1.02
+THR-1028,Organic Cacao Powder 8oz,Pantry Staples,1819,1765,1783,1834,Y,N,1.01
+THR-1029,Cassava Flour 2lb,Pantry Staples,2282,2372,2231,2018,N,N,1.02
+THR-1030,Organic Almond Flour 16oz,Pantry Staples,2151,2388,2477,2616,N,N,0.96
+THR-1031,Plantain Chips Sea Salt,Snacks,1999,1081,1140,1125,Y,N,1.1
+THR-1032,Organic Beef Jerky 3oz,Snacks,2506,2347,2364,2578,N,N,1.04
+THR-1033,Dark Chocolate Almonds 4oz,Snacks,2180,2218,2332,2091,N,N,1.0
+THR-1034,Rice Cakes Lightly Salted,Snacks,2797,2565,2478,2793,Y,N,1.04
+THR-1035,Kale Chips Original,Snacks,1717,1567,1496,1721,N,N,1.07
+THR-1036,Trail Mix Omega 10oz,Snacks,1289,1228,1185,1133,N,N,1.04
+THR-1037,Coconut Clusters Cacao,Snacks,7801,2690,2789,3129,Y,Y,0.99
+THR-1038,Seaweed Snack Wasabi,Snacks,2504,2717,2601,3036,N,N,1.06
+THR-1039,Protein Bar Chocolate PB,Snacks,2921,2758,2689,2984,N,N,1.02
+THR-1040,Organic Popcorn White Cheddar,Snacks,2195,2224,2127,2285,N,N,1.0
+THR-1041,Dried Mango Unsweetened,Snacks,295,1181,1219,1197,N,N,1.03
+THR-1042,Roasted Cashews 8oz,Snacks,1243,1141,1178,970,N,N,1.03
+THR-1043,Grain-Free Crackers Rosemary,Snacks,517,512,501,477,N,N,1.03
+THR-1044,Fruit Leather Strawberry,Snacks,1344,1349,1412,1267,N,N,1.0
+THR-1045,Veggie Straws Sea Salt,Snacks,179,165,177,163,N,N,1.07
+THR-1046,Mixed Nuts Unsalted 12oz,Snacks,1166,1137,1154,977,N,N,1.1
+THR-1047,Pumpkin Seeds Roasted,Snacks,2888,2631,2653,2996,N,N,1.02
+THR-1048,Banana Chips Organic,Snacks,748,753,763,815,N,N,1.02
+THR-1049,Pretzels GF Everything,Snacks,2758,2550,2535,2669,N,N,1.07
+THR-1050,Dark Chocolate 85% Bar,Snacks,1237,1363,1365,1158,N,N,1.07
+THR-1051,BBQ Chickpea Chips,Snacks,2022,1226,1223,1197,N,N,1.06
+THR-1052,Organic Granola Clusters 12oz,Snacks,564,531,548,635,N,N,1.09
+THR-1053,Cacao Nibs 8oz,Snacks,2354,2382,2342,2340,Y,N,1.05
+THR-1054,Coconut Jerky Teriyaki,Snacks,1159,1085,1100,990,N,Y,1.08
+THR-1055,Grain-Free Granola 12oz,Snacks,2064,2061,2096,2414,N,N,1.11
+THR-1056,Organic Dark Choc Almonds 6oz,Snacks,1292,1306,1278,1446,N,N,1.08
+THR-1057,Freeze-Dried Fruit Variety 6pk,Snacks,1853,1745,1688,1812,N,N,1.02
+THR-1058,Organic Trail Mix Bars 6ct,Snacks,517,527,531,573,N,N,1.09
+THR-1059,Organic Dried Cranberries 8oz,Snacks,2166,2388,2305,2614,N,N,1.04
+THR-1060,Cassava Tortilla Chips 5oz,Snacks,476,497,531,587,N,N,1.04
+THR-1061,Oat Milk Original 32oz,Beverages,2537,2558,2658,2789,N,N,1.17
+THR-1062,Cold Brew Coffee Concentrate,Beverages,1377,1410,1345,1199,N,N,1.17
+THR-1063,Organic Green Tea 20ct,Beverages,1391,1326,1244,1427,N,N,1.09
+THR-1064,Sparkling Water Lime 12pk,Beverages,1586,661,680,665,N,N,1.17
+THR-1065,Coconut Water 11oz,Beverages,1556,1562,1618,1807,N,N,1.15
+THR-1066,Kombucha Ginger Lemon,Beverages,2913,1714,1747,1929,Y,N,1.21
+THR-1067,Protein Shake Vanilla 4pk,Beverages,610,597,563,528,N,N,1.17
+THR-1068,Organic Chai Tea 20ct,Beverages,2292,2103,2137,2037,N,N,1.1
+THR-1069,Electrolyte Drink Mix Berry,Beverages,1236,1344,1265,1426,N,N,1.09
+THR-1070,Organic Coffee Whole Bean 12oz,Beverages,2041,2112,1982,1661,N,N,1.1
+THR-1071,Almond Milk Unsweetened 64oz,Beverages,779,773,724,851,N,N,1.18
+THR-1072,Turmeric Latte Mix,Beverages,1316,1247,1206,1195,N,N,1.1
+THR-1073,Matcha Powder Ceremonial 2oz,Beverages,1928,2093,1996,1943,Y,N,1.17
+THR-1074,Sparkling Water Grapefruit 12pk,Beverages,1537,1452,1451,1414,N,N,1.14
+THR-1075,Organic Herbal Tea Chamomile,Beverages,2099,1925,1977,1802,N,N,1.14
+THR-1076,Sparkling Water Strawberry 12pk,Beverages,356,345,365,345,N,N,1.16
+THR-1077,Organic Decaf Coffee 12oz,Beverages,2086,2056,2095,2293,N,N,1.12
+THR-1078,Protein Water Citrus 12pk,Beverages,1204,1286,1215,1149,N,N,1.09
+THR-1079,Turmeric Ginger Shots 6pk,Beverages,1883,2054,1978,2026,N,N,1.13
+THR-1080,Yerba Mate Mint 12pk,Beverages,1191,1170,1238,1317,N,N,1.12
+THR-1081,Collagen Coffee Creamer 10oz,Beverages,1161,1154,1166,1010,N,N,1.12
+THR-1082,Sparkling Probiotic Drink 4pk,Beverages,415,450,438,425,N,N,1.19
+THR-1083,Sparkling Water Peach 12pk,Beverages,1107,1173,1116,1214,N,N,1.14
+THR-1084,Organic Earl Grey Tea 20ct,Beverages,2782,2645,2763,2864,N,N,1.19
+THR-1085,Sparkling Water Cucumber 12pk,Beverages,2560,2592,2432,2271,N,N,1.17
+THR-1086,Organic Frozen Blueberries 10oz,Frozen,1713,1711,1630,1697,N,N,1.14
+THR-1087,Cauliflower Pizza Crust 2pk,Frozen,2366,2158,2068,2319,N,N,1.1
+THR-1088,Frozen Acai Packs 4ct,Frozen,1157,1197,1278,1338,N,N,1.09
+THR-1089,Organic Frozen Broccoli 16oz,Frozen,471,482,453,485,N,N,1.11
+THR-1090,Plant-Based Burger Patties 4ct,Frozen,2313,2122,2276,2119,N,N,1.05
+THR-1091,Frozen Mango Chunks 16oz,Frozen,2108,2276,2330,2553,N,Y,1.14
+THR-1092,GF Chicken Nuggets 12oz,Frozen,1075,1135,1092,987,N,N,1.16
+THR-1093,Organic Frozen Spinach 10oz,Frozen,564,1613,1684,1747,N,N,1.1
+THR-1094,Coconut Milk Ice Cream Vanilla,Frozen,479,440,463,452,N,N,1.13
+THR-1095,Frozen Edamame Shelled 12oz,Frozen,1583,1704,1655,1556,N,N,1.07
+THR-1096,Veggie Fried Rice Bowl,Frozen,187,203,197,198,N,N,1.07
+THR-1097,Frozen Wild Salmon Fillets 12oz,Frozen,2378,2642,2564,2371,N,N,1.1
+THR-1098,Organic Frozen Mixed Berries,Frozen,2129,2240,2199,2579,N,N,1.11
+THR-1099,Cauliflower Mac & Cheese,Frozen,344,314,301,321,N,N,1.08
+THR-1100,Frozen Organic Strawberries 10oz,Frozen,274,303,291,288,N,N,1.08
+THR-1101,Organic Frozen Peas 16oz,Frozen,1873,1874,1758,1755,N,N,1.13
+THR-1102,Frozen Turkey Meatballs 12oz,Frozen,1329,1424,1435,1547,N,N,1.05
+THR-1103,Organic Frozen Corn 16oz,Frozen,401,368,354,376,N,N,1.05
+THR-1104,Frozen Veggie Dumplings 10oz,Frozen,2195,2398,2443,2393,N,N,1.04
+THR-1105,Frozen Cauliflower Rice 12oz,Frozen,2413,2323,2420,2517,N,N,1.05
+THR-1106,Coconut Yogurt Vanilla 24oz,Frozen,1291,1387,1429,1326,N,N,1.12
+THR-1107,Organic Frozen Peaches 10oz,Frozen,2284,2234,2143,2182,N,N,1.04
+THR-1108,Frozen Organic Waffles 8ct,Frozen,1464,1387,1418,1610,N,N,1.12
+THR-1109,Organic Frozen Raspberries 10oz,Frozen,806,843,794,799,N,N,1.06
+THR-1110,Frozen Grass-Fed Beef Patties 4ct,Frozen,2801,2622,2544,2640,N,N,1.15
+THR-1111,Vitamin D3 2000IU 90ct,Supplements,3753,1925,1826,1855,Y,Y,0.99
+THR-1112,Probiotic 50B CFU 30ct,Supplements,1857,1774,1822,1965,N,N,0.98
+THR-1113,Omega-3 Fish Oil 120ct,Supplements,1302,1192,1135,1101,Y,N,0.94
+THR-1114,Magnesium Glycinate 120ct,Supplements,1396,1374,1383,1253,N,N,0.98
+THR-1115,Turmeric Curcumin 60ct,Supplements,664,655,668,644,N,N,1.03
+THR-1116,Zinc 30mg 100ct,Supplements,629,647,606,618,N,N,0.94
+THR-1117,Collagen Peptides 20oz,Supplements,813,741,730,641,N,N,0.99
+THR-1118,Elderberry Gummies 60ct,Supplements,792,1584,1628,1861,N,N,0.96
+THR-1119,B-Complex 60ct,Supplements,311,335,330,370,N,N,0.99
+THR-1120,Ashwagandha 60ct,Supplements,1964,1887,1800,1947,N,N,0.98
+THR-1121,Multivitamin Women 90ct,Supplements,2456,2404,2357,2521,N,N,0.96
+THR-1122,Iron 18mg 60ct,Supplements,2041,2209,2122,1948,N,N,0.96
+THR-1123,Vitamin C 1000mg 100ct,Supplements,444,441,443,395,N,N,0.96
+THR-1124,Melatonin 5mg 60ct,Supplements,2524,2722,2733,2911,N,N,0.95
+THR-1125,Lions Mane Mushroom 60ct,Supplements,1229,1221,1296,1330,N,N,0.96
+THR-1126,MCT Oil 16oz,Supplements,1667,1837,1746,1613,N,N,1.01
+THR-1127,Vitamin K2 MK7 60ct,Supplements,626,632,669,587,N,N,1.02
+THR-1128,Adaptogen Blend 60ct,Supplements,145,1822,1780,1578,N,N,1.02
+THR-1129,Vitamin B12 1000mcg 60ct,Supplements,1105,1127,1191,1108,N,N,1.0
+THR-1130,Digestive Enzymes 60ct,Supplements,1129,1086,1017,970,N,N,1.03
+THR-1131,Plant Protein Powder Choc 2lb,Supplements,2313,2292,2272,1913,N,N,0.97
+THR-1132,Grass-Fed Whey Protein 2lb,Supplements,838,466,492,477,N,N,1.03
+THR-1133,Grass-Fed Collagen 10oz,Supplements,408,447,419,484,N,N,0.93
+THR-1134,Organic Flax Oil 16oz,Supplements,1704,1586,1686,1967,N,N,0.97
+THR-1135,Probiotic Gummies 60ct,Supplements,198,210,213,203,N,N,1.04
+THR-1136,Charcoal Toothpaste 4oz,Personal Care,195,182,184,195,Y,N,1.05
+THR-1137,Organic Deodorant Lavender,Personal Care,1053,1093,1079,1146,N,N,1.12
+THR-1138,Castile Soap Peppermint 32oz,Personal Care,922,892,837,970,N,N,1.1
+THR-1139,Bamboo Toothbrush 4pk,Personal Care,1245,1267,1351,1308,N,N,1.12
+THR-1140,Mineral Sunscreen SPF30,Personal Care,1766,841,900,761,N,N,1.03
+THR-1141,Shampoo Bar Coconut,Personal Care,1001,1056,987,979,N,N,1.13
+THR-1142,Hand Soap Refill Lemon 32oz,Personal Care,1305,1241,1191,1286,N,N,1.06
+THR-1143,Natural Lip Balm 3pk,Personal Care,2615,2452,2512,2403,N,N,1.09
+THR-1144,Body Lotion Unscented 12oz,Personal Care,877,814,809,716,N,N,1.11
+THR-1145,Organic Cotton Rounds 80ct,Personal Care,619,636,683,684,N,N,1.12
+THR-1146,Natural Bug Spray 4oz,Personal Care,2256,2288,2288,2450,N,N,1.11
+THR-1147,Organic Face Wash 6oz,Personal Care,1614,1682,1745,1868,N,N,1.03
+THR-1148,Natural Conditioner 12oz,Personal Care,2737,2702,2728,3007,N,N,1.02
+THR-1149,Organic Body Wash 16oz,Personal Care,291,311,310,327,N,N,1.13
+THR-1150,Organic Dry Shampoo,Personal Care,2694,2563,2429,2281,N,N,1.05
+THR-1151,Organic Facial Toner 4oz,Personal Care,1657,1614,1515,1420,N,N,1.09
+THR-1152,Natural Deodorant Cedar,Personal Care,2711,2566,2653,2538,N,N,1.06
+THR-1153,Activated Charcoal Floss 3pk,Personal Care,456,470,477,395,N,N,1.04
+THR-1154,Organic Hand Cream 4oz,Personal Care,1055,1057,1114,1034,N,N,1.09
+THR-1155,Natural Mouthwash 16oz,Personal Care,2537,2375,2552,2456,N,N,1.09
+THR-1156,Dish Soap Plant-Based 16oz,Household,2642,2758,2590,3027,N,N,1.07
+THR-1157,Laundry Detergent Pods 40ct,Household,2634,2520,2429,2015,N,N,0.98
+THR-1158,All-Purpose Cleaner 32oz,Household,649,710,690,761,N,N,1.04
+THR-1159,Recycled Paper Towels 6pk,Household,2947,1684,1592,1368,N,N,1.04
+THR-1160,Beeswax Food Wraps 3pk,Household,1433,1428,1478,1483,N,Y,1.08
+THR-1161,Compostable Trash Bags 13gal,Household,216,207,220,246,N,N,1.02
+THR-1162,Dryer Balls Wool 4pk,Household,428,414,395,416,N,N,1.0
+THR-1163,Bamboo Cleaning Cloths 5pk,Household,1886,1752,1779,1931,N,N,1.04
+THR-1164,Hand Sanitizer Aloe 8oz,Household,2253,2241,2319,2621,N,N,0.98
+THR-1165,Recycled Toilet Paper 12pk,Household,390,1303,1338,1212,N,N,1.07
+THR-1166,Glass Spray Bottles 3pk,Household,2169,2338,2321,2312,N,N,1.04
+THR-1167,Natural Sponge 2pk,Household,2103,2254,2190,2145,N,N,1.04
+THR-1168,Compostable Plates 50ct,Household,2170,2230,2148,2397,N,N,1.03
+THR-1169,Reusable Storage Bags 8pk,Household,1508,1406,1339,1139,Y,N,1.06
+THR-1170,Bamboo Dish Brush,Household,2370,2479,2643,2501,N,N,0.98
+THR-1171,Natural Laundry Stain Spray 16oz,Household,492,478,510,469,N,N,0.98
+THR-1172,Wool Dryer Sheets 40ct,Household,2535,2760,2710,3080,N,N,0.99
+THR-1173,Natural Fabric Softener 32oz,Household,494,491,501,422,N,N,1.05
+THR-1174,Compostable Sandwich Bags 50ct,Household,2105,1973,2107,2202,N,N,1.05
+THR-1175,Recycled Aluminum Foil 75ft,Household,2403,2623,2782,2642,N,N,1.0
+THR-1176,Organic Baby Cereal Rice,Baby & Kids,441,489,509,541,N,N,0.94
+THR-1177,Baby Wipes Unscented 72ct,Baby & Kids,569,530,539,599,N,N,0.95
+THR-1178,Organic Baby Puree Variety 8pk,Baby & Kids,658,710,740,845,N,N,1.05
+THR-1179,Kids Multivitamin Gummies 60ct,Baby & Kids,2732,2649,2581,2904,N,N,1.01
+THR-1180,Organic Toddler Snack Bars 6ct,Baby & Kids,1821,2018,2147,2447,N,N,0.99
+THR-1181,Baby Lotion Fragrance Free 8oz,Baby & Kids,413,391,418,351,Y,N,0.94
+THR-1182,Organic Baby Formula 23oz,Baby & Kids,1292,1339,1256,1100,N,N,0.95
+THR-1183,Kids Probiotic 30ct,Baby & Kids,1193,1138,1121,1044,N,N,0.95
+THR-1184,Organic Teething Wafers,Baby & Kids,1203,1142,1181,1345,N,N,0.96
+THR-1185,Baby Sunscreen Mineral SPF50,Baby & Kids,1637,1518,1595,1751,N,N,0.95
+THR-1186,Organic Baby Shampoo 8oz,Baby & Kids,1783,686,734,814,N,Y,0.96
+THR-1187,Kids Omega-3 Gummies 60ct,Baby & Kids,691,634,609,714,N,N,1.0
+THR-1188,Organic Diaper Cream 4oz,Baby & Kids,2621,2384,2429,2841,N,N,1.03
+THR-1189,Kids Bath Bombs 6ct,Baby & Kids,2709,2533,2724,2878,N,N,1.04
+THR-1190,Baby Probiotic Drops,Baby & Kids,489,494,501,572,N,N,0.95
+THR-1191,Organic Baby Food Pouch Variety 6pk,Baby & Kids,714,682,655,702,N,N,0.97
+THR-1192,Kids Calcium Gummies 60ct,Baby & Kids,2088,2104,2028,1992,N,N,0.98
+THR-1193,Organic Baby Wash 8oz,Baby & Kids,693,728,727,773,N,N,0.95
+THR-1194,Kids Elderberry Syrup 4oz,Baby & Kids,651,665,692,616,Y,N,0.95
+THR-1195,Baby Vitamin D Drops,Baby & Kids,2627,2892,2765,2597,N,N,0.99
+THR-1196,Organic Toddler Formula 23oz,Baby & Kids,971,949,999,1040,N,N,1.05
+THR-1197,Kids Fiber Gummies 60ct,Baby & Kids,2210,2120,2273,2176,N,N,0.97
+THR-1198,Baby Oatmeal Cereal,Baby & Kids,269,256,240,242,N,N,1.05
+THR-1199,Organic Baby Snack Puffs,Baby & Kids,1009,1080,1018,1198,N,N,1.01
+THR-1200,Kids DHA Gummies 60ct,Baby & Kids,710,739,702,700,N,N,1.01

@@ -1,0 +1,31 @@
+hour,department,units_processed,headcount,uph,target_uph,downtime_minutes,downtime_reason
+06:00,Pick,3360,28,120,145,0,None
+07:00,Pick,3483,27,129,145,0,None
+08:00,Pick,4495,29,155,145,0,None
+09:00,Pick,4292,29,148,145,18,Conveyor jam — Zone B3
+10:00,Pick,3836,28,137,145,10,Replenishment delay
+11:00,Pick,3668,28,131,145,0,None
+12:00,Pick,2147,19,113,145,0,None
+13:00,Pick,3828,29,132,145,0,None
+14:00,Pick,3892,28,139,145,22,System lag (WMS) — 15-min slowdown affecting all pickers
+15:00,Pick,3402,27,126,145,0,None
+06:00,Pack,2116,23,92,120,0,None
+07:00,Pack,2530,23,110,120,6,Pallet jack battery
+08:00,Pack,2499,21,119,120,0,None
+09:00,Pack,2541,21,121,120,0,None
+10:00,Pack,2646,21,126,120,0,None
+11:00,Pack,2461,23,107,120,0,None
+12:00,Pack,1320,15,88,120,9,Pallet jack battery
+13:00,Pack,2783,23,121,120,12,Label printer issue — Station P4
+14:00,Pack,2553,23,111,120,0,None
+15:00,Pack,2420,22,110,120,3,Replenishment delay
+06:00,Ship,1050,14,75,95,0,None
+07:00,Ship,1320,15,88,95,8,Scanner malfunction — Dock 2
+08:00,Ship,1456,16,91,95,0,None
+09:00,Ship,1372,14,98,95,0,None
+10:00,Ship,1400,14,100,95,0,None
+11:00,Ship,1176,14,84,95,0,None
+12:00,Ship,750,10,75,95,0,None
+13:00,Ship,1290,15,86,95,0,None
+14:00,Ship,1316,14,94,95,0,None
+15:00,Ship,1245,15,83,95,0,None

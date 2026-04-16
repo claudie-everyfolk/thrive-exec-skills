@@ -1,0 +1,31 @@
+agent_id,name,site,role,shift_preference,max_hours_week,days_off_requested,skills,language
+AGT-001,Sarah Chen,HQ,Lead,morning,40,,chat;voice;email,English
+AGT-002,Marcus Rivera,HQ,L2_Specialist,morning,40,,chat;voice;email;social,Bilingual
+AGT-003,Jennifer Park,HQ,L1_Agent,morning,36,,chat;email,English
+AGT-004,David Thompson,HQ,L1_Agent,mid,40,,chat;voice,English
+AGT-005,Ashley Nguyen,HQ,L1_Agent,flexible,40,2026-04-22;2026-04-23,chat;voice;email,English
+AGT-006,Ryan Mitchell,HQ,QA,morning,40,,chat;voice;email,English
+AGT-007,Maria Santos,HQ,L1_Agent,morning,32,,voice;email,Bilingual
+AGT-008,Tyler Brooks,HQ,L1_Agent,mid,40,,chat;voice,English
+AGT-009,Priya Patel,HQ,L2_Specialist,flexible,40,,chat;voice;email,English
+AGT-010,James Wilson,HQ,L1_Agent,morning,36,2026-04-24,chat;email,English
+AGT-011,Carmen Reyes,BPO_Manila,Lead,evening,40,,chat;voice;email,Bilingual
+AGT-012,Rafael Cruz,BPO_Manila,L1_Agent,evening,40,,chat;voice,Bilingual
+AGT-013,Mei Lin Tan,BPO_Manila,L1_Agent,evening,40,,chat;email,English
+AGT-014,Jose Garcia,BPO_Manila,L1_Agent,flexible,40,,voice;email,Bilingual
+AGT-015,Ana Reyes,BPO_Manila,L1_Agent,evening,36,,chat;voice,Bilingual
+AGT-016,Kevin Santos,BPO_Manila,L2_Specialist,evening,40,,chat;voice;email,English
+AGT-017,Patricia Lim,BPO_Manila,L1_Agent,evening,40,2026-04-21;2026-04-22,chat;email,English
+AGT-018,Marco Dela Cruz,BPO_Manila,L1_Agent,flexible,36,,voice;chat,Bilingual
+AGT-019,Grace Villanueva,BPO_Manila,L1_Agent,evening,40,,chat;voice;email,Bilingual
+AGT-020,Dennis Ramos,BPO_Manila,QA,morning,40,,chat;voice;email,English
+AGT-021,Isabella Moreno,BPO_Bogota,Lead,mid,40,,chat;voice;email,Bilingual
+AGT-022,Carlos Herrera,BPO_Bogota,L1_Agent,mid,40,,voice;chat,Bilingual
+AGT-023,Sofia Ramirez,BPO_Bogota,L1_Agent,morning,40,,chat;email,Bilingual
+AGT-024,Diego Vargas,BPO_Bogota,L1_Agent,mid,40,2026-04-25;2026-04-26,voice;email,Bilingual
+AGT-025,Valentina Torres,BPO_Bogota,L1_Agent,flexible,36,,chat;voice,Bilingual
+AGT-026,Andres Gomez,BPO_Bogota,L2_Specialist,mid,40,,chat;voice;email,Bilingual
+AGT-027,Lucia Fernandez,BPO_Bogota,L1_Agent,morning,40,,voice;chat;email,Bilingual
+AGT-028,Miguel Castillo,BPO_Bogota,L1_Agent,mid,36,,chat;voice,Spanish
+AGT-029,Paula Alvarez,BPO_Bogota,L1_Agent,flexible,40,2026-04-20,chat;email,Bilingual
+AGT-030,Tomas Rios,BPO_Bogota,L1_Agent,evening,40,,voice;email,Bilingual

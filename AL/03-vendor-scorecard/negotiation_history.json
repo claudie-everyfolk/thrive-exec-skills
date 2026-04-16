@@ -1,0 +1,156 @@
+{
+  "negotiation_records": [
+    {
+      "vendor_id": "V003",
+      "vendor_name": "Primal Provisions",
+      "category": "Meat & Seafood",
+      "jbp_date": "2025-04-22",
+      "attendees": {
+        "thrive": ["April Lane (Chief Merchant)", "Marcus Chen (Category Manager, Protein)"],
+        "vendor": ["Derek Hanson (VP Sales)", "Lisa Thornton (National Accounts Director)"]
+      },
+      "prior_year_terms": {
+        "margin": 39.8,
+        "payment_terms": "Net 30",
+        "promo_commitment": "4 major sales per year at 25% off",
+        "instock_guarantee": "None",
+        "new_item_pipeline": "4 items minimum",
+        "co_marketing_spend": 25000,
+        "exclusivity": "None"
+      },
+      "thrive_asks": [
+        "Margin improvement to 43% (from 39.8%)",
+        "Instock guarantee of 92%+ with penalty clause",
+        "6 new items including 2 GLP-1 optimized SKUs",
+        "Increase co-marketing spend to $50K",
+        "30-day exclusive on all new item launches",
+        "Reduce lead time from 14 days to 10 days"
+      ],
+      "vendor_asks": [
+        "Prominent homepage placement during grilling season",
+        "Access to Thrive member data for product development",
+        "Reduced promotional depth (20% instead of 25%)",
+        "Extended payment terms to Net 45"
+      ],
+      "outcomes": {
+        "margin": "Agreed to 42.6% (compromise from 43% ask)",
+        "payment_terms": "Stayed at Net 30, vendor withdrew Net 45 ask",
+        "promo_commitment": "5 sales at 25% off (increased from 4, vendor accepted)",
+        "instock_guarantee": "Soft commitment to 90%+, no penalty clause (Thrive wanted 92% with teeth)",
+        "new_item_pipeline": "6 items agreed, 2 GLP-1 optimized (full win)",
+        "co_marketing_spend": "$35K (compromise from $50K ask)",
+        "exclusivity": "14-day exclusive on new items (compromise from 30-day ask)",
+        "vendor_wins": "Got premium placement during July grilling feature, limited member survey data sharing"
+      },
+      "relationship_notes": "Strong partnership but Primal Provisions knows they're our largest meat vendor and uses that leverage. Derek is a skilled negotiator -- comes prepared with competitive data. Lisa is more collaborative and open to creative deal structures. Lead time remains a pain point -- their Montana facility is far from our distribution centers. Fill rate (84.2%) is genuinely concerning and they acknowledged it's a capacity issue. They're expanding production in Q3 2026 which should help. Watch: they're also selling to Amazon Fresh now, which gives them an alternative channel argument.",
+      "unresolved_issues": [
+        "Fill rate still well below benchmark at 84.2%",
+        "Lead time at 12 days, was supposed to improve to 10",
+        "Instock guarantee has no enforcement mechanism",
+        "Co-marketing spend came in at $32K actual (under the $35K commitment)"
+      ]
+    },
+    {
+      "vendor_id": "V004",
+      "vendor_name": "Suncoast Naturals",
+      "category": "Supplements",
+      "jbp_date": "2025-05-08",
+      "attendees": {
+        "thrive": ["April Lane (Chief Merchant)", "Jordan Park (Category Manager, Wellness)"],
+        "vendor": ["Amanda Reeves (CEO)", "Brian Katz (VP Revenue)"]
+      },
+      "prior_year_terms": {
+        "margin": 48.4,
+        "payment_terms": "Net 30",
+        "promo_commitment": "6 major sales per year at 20-30% off",
+        "instock_guarantee": "97%+ (self-imposed, no penalty)",
+        "new_item_pipeline": "6 items minimum",
+        "co_marketing_spend": 40000,
+        "exclusivity": "3 Thrive-exclusive SKUs"
+      },
+      "thrive_asks": [
+        "Margin improvement to 53% (from 48.4%)",
+        "Expand Thrive-exclusive line to 5 SKUs",
+        "Launch GLP-1 support supplement line (3 SKUs) exclusively on Thrive",
+        "Increase co-marketing to $60K with focus on influencer partnerships",
+        "Formalize instock guarantee with penalty clause"
+      ],
+      "vendor_asks": [
+        "Feature placement in Thrive's email newsletter (4x per year)",
+        "Inclusion in Thrive's subscription/auto-ship program for top 5 SKUs",
+        "Access to Thrive customer review data for R&D",
+        "Reduced return allowance (from 2% to 1.5%)"
+      ],
+      "outcomes": {
+        "margin": "Agreed to 52.1% (strong win, Amanda values the Thrive relationship highly)",
+        "payment_terms": "Net 30 maintained",
+        "promo_commitment": "6 sales maintained, mix of 20-30% off",
+        "instock_guarantee": "97%+ maintained, still no formal penalty (Amanda: 'our track record speaks for itself')",
+        "new_item_pipeline": "8 items including 3 GLP-1 support SKUs (exceeded ask)",
+        "co_marketing_spend": "$50K (compromise, but included influencer component)",
+        "exclusivity": "5 Thrive-exclusive SKUs including 2 GLP-1 items (big win)",
+        "vendor_wins": "Got newsletter features (4x), auto-ship inclusion for top 3 SKUs, anonymized review themes shared quarterly"
+      },
+      "relationship_notes": "Suncoast is our model vendor partnership. Amanda (CEO) treats Thrive as a strategic channel, not just a customer. She's genuinely invested in co-creating products for our member base. Brian runs the numbers and is fair -- he'll push on margin but accepts data-driven arguments. The GLP-1 exclusive line is a potential breakout -- if it performs, this could be a $8M+ relationship within 18 months. Key risk: Suncoast is growing fast and getting attention from Target and Walmart natural sections. If they go mass market, our exclusive positioning erodes. Need to lock in deeper exclusivity this cycle.",
+      "unresolved_issues": [
+        "Return rate at 1.8% -- slightly above their 1.5% ask, but below our 2.1% platform average",
+        "Target reportedly approached them for an exclusive wellness line",
+        "Co-marketing actual spend was $48K (close to $50K commitment, minor shortfall)",
+        "Want to discuss whether subscription pricing should differ from one-time purchase"
+      ]
+    },
+    {
+      "vendor_id": "V002",
+      "vendor_name": "GreenVale Foods",
+      "category": "Pasta & Sauces",
+      "jbp_date": "2025-04-15",
+      "attendees": {
+        "thrive": ["April Lane (Chief Merchant)", "Sarah Kim (Category Manager, Pantry)"],
+        "vendor": ["Tom Greenfield (Founder/CEO)", "Rachel Vasquez (Director of Sales)"]
+      },
+      "prior_year_terms": {
+        "margin": 30.8,
+        "payment_terms": "Net 30",
+        "promo_commitment": "4 sales per year at 20% off",
+        "instock_guarantee": "None",
+        "new_item_pipeline": "2 items minimum",
+        "co_marketing_spend": 10000,
+        "exclusivity": "None"
+      },
+      "thrive_asks": [
+        "Margin improvement to 34% (from 30.8%)",
+        "Instock guarantee of 93%+ (current rate is 91.2%)",
+        "Increase new item pipeline to 4 items with at least 1 low-sugar/GLP-1 friendly option",
+        "Improve fill rate to 92%+ (current 88.6% is below benchmark)",
+        "Reduce lead time from 8 days to 6 days",
+        "Increase co-marketing to $20K"
+      ],
+      "vendor_asks": [
+        "Guaranteed shelf space (minimum 6 SKUs always active)",
+        "Featured in 'Founder Story' editorial content",
+        "Advance notice on promotional calendar (60 days)",
+        "Payment terms extended to Net 45"
+      ],
+      "outcomes": {
+        "margin": "Agreed to 32.1% (partial win -- Tom argued raw ingredient costs up 8%)",
+        "payment_terms": "Net 30 maintained, Net 45 denied",
+        "promo_commitment": "4 sales maintained at 20% off, added 1 additional sale at 15% off",
+        "instock_guarantee": "Verbal commitment to 93%+, no formal mechanism",
+        "new_item_pipeline": "3 items (compromise from 4), no GLP-1 specific commitment",
+        "co_marketing_spend": "$12K (minimal increase from $10K)",
+        "fill_rate": "Tom committed to 'addressing supply chain issues' -- no specific target",
+        "lead_time": "No improvement committed, cited supplier constraints",
+        "vendor_wins": "Got founder story feature, 45-day advance promo notice (compromise from 60)"
+      },
+      "relationship_notes": "GreenVale is a beloved member brand (high review ratings, loyal repeat buyers) but operationally frustrating. Tom is a passionate founder who makes great product but runs a lean operation that can't always keep up with demand. Rachel is more commercially savvy and understands our concerns, but doesn't have authority to commit to operational changes without Tom. The fill rate and instock issues are real and getting worse -- three stockouts in Q4 that hurt our member experience. Tom blames supply chain; our ops team thinks it's production planning. The brand has goodwill with our members but we can't keep apologizing for out-of-stocks. This JBP needs to be firmer -- specific improvement targets with consequences.",
+      "unresolved_issues": [
+        "Fill rate actually declined from 90.1% to 88.6% since last JBP (going the wrong direction)",
+        "Instock rate also declined from 92.8% to 91.2%",
+        "3 new items launched instead of promised 3 -- but none were innovative, just line extensions",
+        "Co-marketing spend was exactly $12K but low effort (generic social posts, not custom Thrive content)",
+        "No progress on GLP-1 or low-sugar product development despite being a clear market trend",
+        "Return rate at 2.8% is significantly above platform average -- quality consistency issue?"
+      ]
+    }
+  ]
+}

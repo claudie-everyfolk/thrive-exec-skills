@@ -1,0 +1,29 @@
+Category,Metric,Q4_FY2025,Q1_FY2026_M1,Q1_FY2026_M2,Q1_FY2026_M3
+Revenue,Membership Revenue,"28,800,000","30,800,000","33,400,000","35,300,000"
+Revenue,Merchandise Revenue,"163,600,000","168,200,000","177,500,000","189,300,000"
+Revenue,Shipping Revenue,"14,200,000","14,800,000","15,600,000","16,400,000"
+Revenue,Advertising & Marketplace Revenue,"4,800,000","5,200,000","5,800,000","7,400,000"
+COGS,Cost of Goods Sold,"134,400,000","137,800,000","144,200,000","153,200,000"
+COGS,Packaging & Materials,"9,600,000","9,900,000","10,800,000","13,000,000"
+Gross Profit,Gross Profit,"67,400,000","71,300,000","77,300,000","82,200,000"
+OpEx,Fulfillment & Shipping,"25,800,000","26,400,000","27,200,000","28,800,000"
+OpEx,Marketing,"14,200,000","13,800,000","14,400,000","15,600,000"
+OpEx,Technology & Development,"9,800,000","10,200,000","10,800,000","11,400,000"
+OpEx,General & Administrative,"8,200,000","8,400,000","8,600,000","9,200,000"
+EBITDA,Adjusted EBITDA,"11,500,000","14,800,000","18,700,000","19,600,000"
+EBITDA,EBITDA Margin %,5.4%,6.3%,7.5%,7.4%
+Membership,Active Members (end of period),"1,520,000","1,565,000","1,612,000","1,660,000"
+Membership,Net New Members,"38,000","45,000","47,000","48,000"
+Membership,Annual Retention Rate,71.0%,72.0%,72.0%,72.5%
+Membership,Auto-Ship Penetration,31.0%,32.0%,33.0%,34.0%
+Membership,Member Acquisition Cost,$32.00,$30.00,$29.00,$28.00
+Unit Economics,Average Order Value,$58.00,$59.20,$60.50,$61.80
+Unit Economics,Orders per Member per Month,4.2,4.3,4.4,4.5
+Unit Economics,Fulfillment Cost per Order,$8.42,$8.30,$8.22,$8.18
+Unit Economics,3-Year Member LTV,$385,$395,$408,$420
+Unit Economics,LTV/MAC Ratio,12.0x,13.2x,14.1x,15.0x
+Fresh,Fresh Markets Live,2,2,4,5
+Fresh,Fresh Orders as % of Total (pilot markets),8.0%,9.5%,11.0%,12.0%
+Fresh,Fresh AOV,$68.00,$69.50,$71.00,$72.00
+Fresh,Fresh Member Order Frequency (multiple vs. non-fresh),2.4x,2.4x,2.5x,2.6x
+Fresh,Cold Chain Cost per Order,$14.00,$13.20,$12.50,$12.80

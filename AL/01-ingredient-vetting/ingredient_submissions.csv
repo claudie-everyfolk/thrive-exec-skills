@@ -1,0 +1,21 @@
+submission_id,brand_name,product_name,category,ingredient_list,organic_certified,non_gmo_verified,submitted_date
+SUB-001,Purely Rooted,Organic Almond Butter,Nut Butters,"organic dry roasted almonds, organic palm oil, sea salt",Yes,Yes,2026-04-01
+SUB-002,Purely Rooted,Honey Cashew Butter,Nut Butters,"cashews, organic honey, palm oil, sea salt",No,Yes,2026-04-01
+SUB-003,GreenVale Foods,Classic Marinara Sauce,Pasta Sauce,"organic tomatoes, organic olive oil, garlic, basil, sea salt, organic cane sugar, citric acid",Yes,Yes,2026-04-02
+SUB-004,GreenVale Foods,Spicy Arrabbiata Sauce,Pasta Sauce,"organic tomatoes, olive oil, garlic, red pepper flakes, sea salt, natural flavors, caramel color",Yes,No,2026-04-02
+SUB-005,NutraHarvest,Protein Power Bar,Snack Bars,"whey protein isolate, organic oats, high fructose corn syrup, palm kernel oil, soy lecithin, natural flavors, sucralose",No,No,2026-04-03
+SUB-006,NutraHarvest,Clean Energy Bar,Snack Bars,"organic dates, organic almonds, organic cacao, organic coconut oil, sea salt, organic vanilla extract",Yes,Yes,2026-04-03
+SUB-007,Coastal Kelp Co,Seaweed Snack Crisps,Snacks,"organic seaweed, organic sunflower oil, sea salt",Yes,Yes,2026-04-04
+SUB-008,Coastal Kelp Co,Wasabi Seaweed Chips,Snacks,"seaweed, canola oil, wasabi seasoning (maltodextrin, wasabi powder, silicon dioxide, artificial flavors), sea salt",No,No,2026-04-04
+SUB-009,Heritage Mills,Whole Grain Pancake Mix,Breakfast,"organic whole wheat flour, organic oat flour, organic cane sugar, baking powder (sodium acid pyrophosphate, sodium bicarbonate, corn starch), sea salt, organic vanilla",Yes,Yes,2026-04-05
+SUB-010,Heritage Mills,Buttermilk Waffle Mix,Breakfast,"enriched wheat flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid), sugar, partially hydrogenated soybean oil, buttermilk powder, baking powder, salt, artificial vanilla flavor",No,No,2026-04-05
+SUB-011,Sage Creek Ranch,Grass-Fed Beef Jerky,Meat Snacks,"grass-fed beef, coconut aminos, organic apple cider vinegar, organic garlic powder, organic onion powder, organic black pepper, celery powder",No,Yes,2026-04-06
+SUB-012,Sage Creek Ranch,Teriyaki Beef Jerky,Meat Snacks,"beef, soy sauce (water, soybeans, wheat, salt), brown sugar, sodium nitrite, garlic powder, onion powder, natural smoke flavor",No,No,2026-04-06
+SUB-013,BrightLeaf Teas,Organic Chamomile Blend,Beverages,"organic chamomile flowers, organic lavender, organic lemon balm, organic passionflower",Yes,Yes,2026-04-07
+SUB-014,BrightLeaf Teas,Energy Boost Tea,Beverages,"green tea leaves, guarana extract, natural flavors, citric acid, stevia leaf extract, silicon dioxide",No,No,2026-04-07
+SUB-015,Terra Grains,Ancient Grain Crackers,Crackers,"organic quinoa flour, organic amaranth flour, organic flaxseed, organic sunflower oil, sea salt, organic rosemary",Yes,Yes,2026-04-08
+SUB-016,Terra Grains,Cheddar Herb Crackers,Crackers,"wheat flour, palm oil, cheddar cheese powder (milk, salt, enzymes, annatto color), sea salt, yeast extract, natural flavors, tbhq (preservative)",No,No,2026-04-08
+SUB-017,Pacific Bloom,Coconut Milk Yogurt,Dairy Alternatives,"organic coconut cream, filtered water, organic tapioca starch, live cultures (L. acidophilus, B. lactis, S. thermophilus), organic locust bean gum",Yes,Yes,2026-04-09
+SUB-018,Pacific Bloom,Strawberry Coconut Yogurt,Dairy Alternatives,"coconut cream, filtered water, organic strawberries, cane sugar, tapioca starch, carrageenan, natural flavors, fruit and vegetable juice (for color), live cultures",No,No,2026-04-09
+SUB-019,Golden Spoon,Organic Chicken Bone Broth,Broths,"organic chicken bones, filtered water, organic onion, organic carrots, organic celery, organic apple cider vinegar, sea salt, organic turmeric, organic black pepper",Yes,Yes,2026-04-10
+SUB-020,Golden Spoon,Mushroom Bone Broth,Broths,"chicken bones, filtered water, shiitake mushrooms, reishi mushroom extract, onion, celery, sea salt, yeast extract, caramel color",No,No,2026-04-10

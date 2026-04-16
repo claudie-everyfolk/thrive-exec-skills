@@ -1,0 +1,13 @@
+vendor_id,vendor_name,category,annual_revenue,yoy_growth_pct,instock_rate_pct,fill_rate_pct,lead_time_days,margin_pct,promo_participation_rate_pct,return_rate_pct,new_items_launched,avg_review_rating,member_repeat_rate_pct
+V001,Purely Rooted,Nut Butters & Spreads,4200000,18.2,96.4,97.1,5,38.2,85,1.2,4,4.7,68
+V002,GreenVale Foods,Pasta & Sauces,3100000,8.4,91.2,88.6,8,32.1,70,2.8,3,4.3,54
+V003,Primal Provisions,Meat & Seafood,6800000,22.5,88.6,84.2,12,42.6,90,3.4,6,4.6,72
+V004,Suncoast Naturals,Supplements,5400000,14.8,97.8,96.4,4,52.1,80,1.8,8,4.5,76
+V005,Mesa Verde Snacks,Snacks,2800000,6.2,94.1,92.8,6,28.4,65,1.6,2,4.2,48
+V006,Copper Kettle,Beverages,2200000,-3.1,92.8,91.4,7,34.8,60,2.2,1,4.4,52
+V007,Verdant Kitchen,Cooking Oils & Pantry,1800000,11.6,98.2,97.8,5,44.2,45,0.8,2,4.8,64
+V008,River Birch,Personal Care,3600000,28.4,93.6,90.2,9,46.8,75,3.1,10,4.1,42
+V009,Heritage Mills,Breakfast & Baking,2400000,4.1,95.8,94.6,6,30.6,55,1.4,1,4.4,58
+V010,Coastline Catch,Frozen Seafood,4100000,16.8,86.4,82.8,14,40.2,70,4.2,4,4.3,62
+V011,Vital Ground,Supplements & Probiotics,3200000,32.6,97.2,95.8,5,56.4,88,1.0,5,4.8,82
+V012,Golden Spoon,Broths & Soups,1900000,9.8,94.6,93.2,7,36.4,72,1.6,2,4.6,66

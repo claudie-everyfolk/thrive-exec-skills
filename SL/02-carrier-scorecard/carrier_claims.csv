@@ -1,0 +1,425 @@
+carrier,claim_date,claim_type,amount,resolution_status,days_to_resolve
+FedEx Ground,2026-04-11,damage,46.06,resolved,10
+FedEx Ground,2026-03-28,loss,49.86,denied,3
+FedEx Ground,2026-03-14,late,23.47,pending,27
+FedEx Ground,2026-01-19,damage,35.64,resolved,10
+FedEx Ground,2026-02-28,late,22.88,denied,7
+FedEx Ground,2026-03-09,damage,71.75,pending,22
+FedEx Ground,2026-01-29,damage,45.1,pending,26
+FedEx Ground,2026-02-13,damage,37.93,resolved,9
+FedEx Ground,2026-02-19,damage,18.22,resolved,19
+FedEx Ground,2026-03-10,damage,58.13,denied,8
+FedEx Ground,2026-02-12,damage,46.32,pending,10
+FedEx Ground,2026-04-03,late,18.4,pending,9
+FedEx Ground,2026-01-23,damage,35.22,resolved,6
+FedEx Ground,2026-02-24,late,16.57,resolved,9
+FedEx Ground,2026-01-26,damage,41.23,resolved,21
+FedEx Ground,2026-01-29,late,8.52,pending,26
+FedEx Ground,2026-02-12,damage,37.6,resolved,21
+FedEx Ground,2026-02-17,damage,40.96,resolved,10
+FedEx Ground,2026-03-13,late,22.56,resolved,9
+FedEx Ground,2026-02-24,loss,90.06,denied,10
+FedEx Ground,2026-02-14,damage,62.17,resolved,3
+FedEx Ground,2026-02-13,damage,73.33,resolved,4
+FedEx Ground,2026-02-09,damage,14.75,resolved,4
+FedEx Ground,2026-01-21,late,23.41,pending,16
+FedEx Ground,2026-03-07,damage,37.68,resolved,7
+FedEx Ground,2026-03-20,damage,43.66,denied,8
+FedEx Ground,2026-02-10,late,18.19,resolved,3
+FedEx Ground,2026-04-10,damage,23.44,resolved,12
+FedEx Ground,2026-04-12,damage,43.97,resolved,19
+FedEx Ground,2026-03-13,late,7.48,resolved,5
+FedEx Ground,2026-02-11,damage,21.19,resolved,4
+FedEx Ground,2026-04-04,late,22.12,resolved,9
+FedEx Ground,2026-02-14,late,20.36,resolved,21
+FedEx Ground,2026-03-16,late,14.08,resolved,20
+FedEx Ground,2026-02-20,loss,28.64,pending,19
+FedEx Ground,2026-03-28,damage,83.34,resolved,9
+UPS Ground,2026-04-06,late,22.58,resolved,4
+UPS Ground,2026-02-09,loss,107.78,resolved,18
+UPS Ground,2026-04-03,damage,58.78,pending,14
+UPS Ground,2026-03-09,damage,35.82,denied,3
+UPS Ground,2026-01-28,loss,94.12,pending,16
+UPS Ground,2026-02-04,late,17.6,resolved,20
+UPS Ground,2026-03-19,late,11.87,pending,11
+UPS Ground,2026-02-23,damage,55.06,resolved,17
+UPS Ground,2026-04-02,damage,29.42,resolved,7
+UPS Ground,2026-02-15,late,11.08,resolved,16
+UPS Ground,2026-02-23,damage,36.07,pending,17
+UPS Ground,2026-02-04,loss,43.58,resolved,14
+UPS Ground,2026-03-25,late,17.11,resolved,8
+UPS Ground,2026-02-07,late,20.88,resolved,5
+UPS Ground,2026-04-06,late,11.1,resolved,14
+UPS Ground,2026-04-03,late,19.84,denied,12
+UPS Ground,2026-01-29,damage,74.3,resolved,9
+UPS Ground,2026-03-04,damage,61.11,resolved,5
+UPS Ground,2026-02-08,late,19.13,denied,6
+UPS Ground,2026-02-17,loss,97.91,resolved,14
+UPS Ground,2026-03-19,late,23.29,pending,10
+UPS Ground,2026-02-14,loss,23.78,resolved,15
+UPS Ground,2026-04-08,damage,51.82,denied,4
+UPS Ground,2026-01-29,late,21.56,pending,9
+UPS Ground,2026-02-17,late,23.57,resolved,9
+UPS Ground,2026-03-25,damage,23.34,resolved,12
+UPS Ground,2026-04-04,damage,53.36,resolved,7
+UPS Ground,2026-03-17,damage,25.76,resolved,17
+UPS Ground,2026-02-20,late,18.89,resolved,21
+UPS Ground,2026-03-25,damage,45.79,pending,5
+UPS Ground,2026-03-16,late,13.54,resolved,8
+USPS Priority,2026-03-16,loss,80.81,resolved,8
+USPS Priority,2026-02-16,damage,49.03,resolved,6
+USPS Priority,2026-04-12,damage,37.48,pending,28
+USPS Priority,2026-03-05,late,16.7,resolved,17
+USPS Priority,2026-01-23,late,13.26,resolved,6
+USPS Priority,2026-01-20,late,15.73,resolved,13
+USPS Priority,2026-02-03,damage,30.77,resolved,14
+USPS Priority,2026-02-08,late,5.56,pending,23
+USPS Priority,2026-03-25,damage,77.86,pending,21
+USPS Priority,2026-02-25,damage,73.67,pending,20
+USPS Priority,2026-02-11,damage,30.17,pending,15
+USPS Priority,2026-01-23,damage,28.73,resolved,20
+USPS Priority,2026-04-04,late,5.68,resolved,4
+USPS Priority,2026-03-23,loss,37.75,pending,20
+USPS Priority,2026-03-02,damage,46.51,resolved,21
+USPS Priority,2026-04-08,late,6.17,resolved,14
+USPS Priority,2026-02-17,late,10.08,denied,5
+USPS Priority,2026-04-10,damage,27.82,resolved,8
+USPS Priority,2026-03-08,damage,74.2,resolved,18
+USPS Priority,2026-03-23,late,23.59,pending,26
+USPS Priority,2026-03-07,damage,70.5,resolved,2
+USPS Priority,2026-02-04,damage,8.65,resolved,14
+USPS Priority,2026-03-07,late,20.35,resolved,20
+USPS Priority,2026-02-09,loss,29.83,resolved,3
+USPS Priority,2026-03-29,damage,10.82,pending,14
+USPS Priority,2026-02-20,damage,14.0,pending,14
+USPS Priority,2026-01-31,loss,79.53,resolved,5
+USPS Priority,2026-02-26,loss,109.86,resolved,6
+USPS Priority,2026-02-05,late,12.23,resolved,18
+USPS Priority,2026-02-21,late,13.6,resolved,20
+USPS Priority,2026-03-22,late,11.88,pending,23
+USPS Priority,2026-02-22,late,20.45,denied,4
+USPS Priority,2026-04-05,damage,54.67,resolved,9
+USPS Priority,2026-03-04,loss,70.18,denied,13
+USPS Priority,2026-03-09,late,8.52,resolved,12
+USPS Priority,2026-02-27,late,13.98,resolved,20
+USPS Priority,2026-01-25,damage,27.53,resolved,11
+USPS Priority,2026-01-30,late,16.63,resolved,20
+USPS Priority,2026-03-03,loss,35.49,resolved,15
+USPS Priority,2026-02-10,damage,52.99,pending,5
+USPS Priority,2026-03-01,damage,41.19,resolved,13
+USPS Priority,2026-02-12,loss,96.7,resolved,20
+USPS Priority,2026-02-23,late,9.68,pending,15
+USPS Priority,2026-01-25,damage,14.32,pending,24
+USPS Priority,2026-01-25,late,18.26,resolved,19
+USPS Priority,2026-04-01,late,21.43,pending,12
+USPS Priority,2026-03-04,damage,52.74,resolved,14
+USPS Priority,2026-02-13,damage,37.49,pending,13
+USPS Priority,2026-03-04,damage,80.81,pending,21
+USPS Priority,2026-02-16,late,18.97,resolved,13
+USPS Priority,2026-02-15,loss,112.13,resolved,10
+USPS Priority,2026-03-16,loss,46.56,resolved,8
+USPS Priority,2026-02-21,damage,15.44,resolved,15
+USPS Priority,2026-04-03,damage,42.55,pending,8
+USPS Priority,2026-03-11,damage,15.43,resolved,16
+USPS Priority,2026-02-17,damage,51.29,resolved,21
+USPS Priority,2026-02-15,damage,12.51,resolved,9
+USPS Priority,2026-04-04,damage,60.8,pending,15
+USPS Priority,2026-04-03,late,7.4,resolved,7
+USPS Priority,2026-02-14,loss,84.01,resolved,19
+USPS Priority,2026-03-28,late,15.16,pending,16
+USPS Priority,2026-02-07,damage,71.69,pending,5
+USPS Priority,2026-03-06,damage,16.85,resolved,13
+USPS Priority,2026-04-10,damage,78.29,denied,13
+USPS Priority,2026-02-12,damage,37.55,denied,4
+USPS Priority,2026-04-02,damage,15.27,pending,20
+USPS Priority,2026-03-31,late,21.63,resolved,15
+USPS Priority,2026-03-19,damage,38.74,resolved,14
+USPS Priority,2026-03-01,damage,66.42,denied,6
+OnTrac,2026-03-21,damage,74.13,resolved,6
+OnTrac,2026-03-23,late,10.89,pending,19
+OnTrac,2026-03-28,damage,9.1,denied,3
+OnTrac,2026-01-19,late,16.59,resolved,14
+OnTrac,2026-02-27,loss,84.11,resolved,6
+OnTrac,2026-03-16,late,13.58,resolved,6
+OnTrac,2026-01-26,late,5.02,resolved,4
+OnTrac,2026-01-25,damage,10.47,resolved,12
+OnTrac,2026-02-15,late,9.52,resolved,18
+OnTrac,2026-02-23,late,7.42,resolved,2
+OnTrac,2026-01-26,damage,59.57,resolved,21
+OnTrac,2026-01-19,damage,53.23,resolved,16
+OnTrac,2026-01-31,damage,38.22,pending,28
+OnTrac,2026-01-28,late,22.94,denied,9
+OnTrac,2026-02-12,late,11.99,resolved,7
+OnTrac,2026-02-26,damage,61.55,pending,6
+OnTrac,2026-04-06,late,16.05,resolved,18
+OnTrac,2026-04-08,damage,53.98,resolved,3
+OnTrac,2026-02-07,damage,30.02,pending,7
+OnTrac,2026-01-31,damage,58.58,pending,11
+OnTrac,2026-03-30,damage,29.53,pending,21
+OnTrac,2026-01-20,damage,19.89,resolved,12
+OnTrac,2026-01-22,damage,60.14,resolved,14
+OnTrac,2026-03-10,damage,16.83,resolved,18
+OnTrac,2026-03-12,loss,87.11,resolved,14
+OnTrac,2026-01-19,damage,25.54,pending,12
+OnTrac,2026-04-05,damage,54.98,denied,9
+OnTrac,2026-01-21,loss,70.07,resolved,3
+OnTrac,2026-02-02,late,5.69,resolved,12
+OnTrac,2026-02-14,damage,22.61,resolved,7
+OnTrac,2026-03-14,damage,82.27,denied,10
+OnTrac,2026-03-04,damage,41.25,resolved,9
+OnTrac,2026-02-07,late,21.75,resolved,2
+OnTrac,2026-02-24,damage,68.17,denied,7
+OnTrac,2026-01-31,loss,84.92,denied,3
+OnTrac,2026-03-30,late,22.49,resolved,9
+OnTrac,2026-01-29,damage,23.39,resolved,5
+OnTrac,2026-02-17,late,15.73,resolved,4
+OnTrac,2026-03-08,damage,36.64,resolved,4
+OnTrac,2026-02-09,damage,9.75,resolved,12
+OnTrac,2026-02-17,late,13.32,resolved,15
+OnTrac,2026-03-09,damage,72.84,resolved,4
+OnTrac,2026-01-27,late,16.98,resolved,12
+OnTrac,2026-04-07,late,17.88,denied,3
+OnTrac,2026-03-03,damage,47.85,resolved,3
+OnTrac,2026-02-22,damage,76.51,resolved,15
+OnTrac,2026-04-12,late,22.27,resolved,11
+OnTrac,2026-01-28,damage,15.64,pending,30
+OnTrac,2026-03-17,late,23.49,pending,23
+OnTrac,2026-04-12,damage,57.37,pending,17
+OnTrac,2026-01-22,damage,73.6,resolved,3
+OnTrac,2026-03-14,damage,28.4,resolved,7
+OnTrac,2026-02-27,late,17.39,resolved,6
+OnTrac,2026-02-13,damage,45.09,resolved,16
+OnTrac,2026-02-09,loss,51.5,resolved,3
+OnTrac,2026-02-07,damage,58.99,resolved,9
+OnTrac,2026-03-11,damage,32.04,resolved,4
+OnTrac,2026-01-23,late,22.89,denied,7
+OnTrac,2026-04-08,damage,17.04,resolved,11
+OnTrac,2026-02-15,damage,8.77,resolved,3
+OnTrac,2026-03-04,damage,16.48,resolved,2
+LaserShip,2026-02-11,loss,115.86,pending,22
+LaserShip,2026-01-30,damage,75.85,resolved,19
+LaserShip,2026-02-09,late,22.02,resolved,7
+LaserShip,2026-04-04,damage,42.69,resolved,2
+LaserShip,2026-02-12,late,20.63,pending,21
+LaserShip,2026-02-06,damage,71.76,resolved,9
+LaserShip,2026-01-30,damage,49.23,resolved,14
+LaserShip,2026-01-22,damage,31.06,pending,19
+LaserShip,2026-02-01,late,14.72,resolved,9
+LaserShip,2026-03-04,damage,50.03,resolved,18
+LaserShip,2026-02-16,late,24.23,denied,10
+LaserShip,2026-04-08,damage,58.98,resolved,5
+LaserShip,2026-04-01,late,16.15,denied,6
+LaserShip,2026-03-04,damage,74.5,pending,8
+LaserShip,2026-01-19,loss,53.9,resolved,7
+LaserShip,2026-03-26,damage,49.35,pending,25
+LaserShip,2026-04-03,loss,108.49,resolved,3
+LaserShip,2026-04-12,damage,60.07,resolved,19
+LaserShip,2026-04-12,loss,25.57,resolved,17
+LaserShip,2026-02-24,loss,50.01,resolved,10
+LaserShip,2026-03-13,late,15.93,pending,13
+LaserShip,2026-04-04,damage,75.4,resolved,21
+LaserShip,2026-03-15,damage,28.97,pending,19
+LaserShip,2026-01-20,late,14.39,resolved,9
+LaserShip,2026-03-22,loss,41.73,denied,9
+LaserShip,2026-02-20,late,19.25,denied,6
+LaserShip,2026-02-06,late,20.99,denied,9
+LaserShip,2026-03-30,damage,48.16,resolved,5
+LaserShip,2026-02-10,loss,46.17,pending,18
+LaserShip,2026-04-05,late,23.37,pending,28
+LaserShip,2026-03-30,late,15.49,pending,20
+LaserShip,2026-02-03,late,8.5,resolved,19
+LaserShip,2026-02-06,damage,27.55,resolved,2
+LaserShip,2026-04-12,late,19.35,resolved,20
+LaserShip,2026-03-04,late,13.86,resolved,18
+LaserShip,2026-02-11,loss,22.75,pending,17
+LaserShip,2026-02-28,damage,8.13,resolved,3
+LaserShip,2026-02-22,damage,9.44,resolved,17
+LaserShip,2026-04-04,damage,77.36,resolved,7
+LaserShip,2026-03-31,damage,37.77,pending,10
+LaserShip,2026-01-30,damage,19.42,resolved,10
+LaserShip,2026-03-27,late,10.65,denied,11
+LaserShip,2026-04-03,late,13.7,denied,6
+LaserShip,2026-02-01,damage,66.0,resolved,5
+LaserShip,2026-02-16,loss,39.58,resolved,17
+LaserShip,2026-04-12,late,8.43,resolved,18
+LaserShip,2026-03-21,damage,32.54,denied,6
+LaserShip,2026-02-02,damage,16.1,denied,13
+LaserShip,2026-02-08,damage,15.95,resolved,15
+LaserShip,2026-03-29,late,10.17,pending,22
+LaserShip,2026-02-14,damage,68.97,resolved,18
+LaserShip,2026-04-05,damage,28.35,pending,28
+LaserShip,2026-04-08,damage,45.24,resolved,16
+LaserShip,2026-02-07,late,18.05,resolved,7
+LaserShip,2026-02-22,loss,94.81,resolved,17
+LaserShip,2026-04-09,loss,26.27,resolved,17
+LaserShip,2026-02-25,late,15.92,resolved,9
+LaserShip,2026-04-08,late,5.91,pending,29
+LaserShip,2026-01-22,loss,19.95,resolved,2
+LaserShip,2026-02-01,damage,23.54,denied,10
+LaserShip,2026-04-12,late,6.26,resolved,16
+LaserShip,2026-04-05,late,15.8,resolved,17
+LaserShip,2026-02-27,late,11.67,resolved,21
+LaserShip,2026-03-13,damage,74.13,resolved,19
+LaserShip,2026-02-24,late,16.46,denied,14
+LaserShip,2026-03-19,loss,103.24,pending,11
+LaserShip,2026-01-20,loss,87.71,resolved,9
+LaserShip,2026-03-13,loss,74.22,resolved,13
+LaserShip,2026-03-04,damage,65.9,resolved,2
+LaserShip,2026-02-06,late,21.39,resolved,21
+LaserShip,2026-04-03,damage,36.81,pending,22
+LaserShip,2026-02-24,damage,48.75,pending,19
+LaserShip,2026-01-24,late,10.94,denied,14
+LaserShip,2026-04-09,damage,60.81,denied,3
+LaserShip,2026-03-12,damage,50.08,resolved,17
+LaserShip,2026-02-01,late,18.08,denied,4
+LaserShip,2026-01-27,late,12.71,pending,16
+LaserShip,2026-02-12,damage,23.38,resolved,13
+LaserShip,2026-03-06,late,21.38,pending,27
+LaserShip,2026-02-10,late,13.6,resolved,6
+LaserShip,2026-03-15,loss,98.15,denied,3
+LaserShip,2026-04-11,damage,39.96,resolved,12
+LaserShip,2026-02-27,damage,27.48,resolved,5
+LaserShip,2026-04-12,damage,84.08,resolved,3
+LaserShip,2026-01-31,late,16.32,resolved,16
+LaserShip,2026-01-19,damage,83.07,pending,23
+LaserShip,2026-01-20,late,18.14,pending,17
+LaserShip,2026-02-10,damage,9.59,pending,16
+LaserShip,2026-04-10,loss,29.21,denied,10
+LaserShip,2026-03-13,damage,70.4,pending,30
+LaserShip,2026-03-18,damage,44.56,pending,26
+LaserShip,2026-01-26,late,20.14,pending,24
+LaserShip,2026-03-04,loss,118.43,resolved,14
+LaserShip,2026-04-07,late,17.7,resolved,8
+LaserShip,2026-02-25,damage,84.36,resolved,19
+LaserShip,2026-03-16,late,5.15,resolved,21
+LaserShip,2026-02-08,damage,42.75,pending,7
+LaserShip,2026-02-24,loss,30.09,resolved,18
+LaserShip,2026-04-04,late,20.39,resolved,16
+LaserShip,2026-02-13,damage,31.31,resolved,7
+LaserShip,2026-01-25,late,10.28,pending,29
+LaserShip,2026-03-13,late,11.51,resolved,14
+LaserShip,2026-01-27,damage,45.42,resolved,12
+LaserShip,2026-03-16,late,14.49,resolved,16
+LaserShip,2026-02-04,damage,56.7,resolved,7
+LaserShip,2026-02-19,damage,49.44,resolved,3
+LaserShip,2026-04-07,late,10.37,resolved,4
+LaserShip,2026-02-09,loss,54.86,resolved,2
+LaserShip,2026-03-28,damage,47.01,resolved,18
+LaserShip,2026-01-29,loss,119.96,resolved,20
+LaserShip,2026-02-28,loss,104.56,resolved,18
+DHL eCommerce,2026-03-17,damage,63.18,denied,7
+DHL eCommerce,2026-02-24,damage,38.84,pending,21
+DHL eCommerce,2026-02-15,damage,75.46,pending,29
+DHL eCommerce,2026-04-01,damage,11.23,denied,14
+DHL eCommerce,2026-03-09,damage,68.42,resolved,15
+DHL eCommerce,2026-02-08,late,17.94,resolved,17
+DHL eCommerce,2026-03-13,late,5.35,resolved,8
+DHL eCommerce,2026-02-18,late,20.95,resolved,12
+DHL eCommerce,2026-02-07,damage,69.69,denied,14
+DHL eCommerce,2026-04-11,late,22.74,resolved,8
+DHL eCommerce,2026-02-21,loss,32.93,pending,30
+DHL eCommerce,2026-02-11,late,18.68,resolved,12
+DHL eCommerce,2026-04-01,loss,65.3,pending,21
+DHL eCommerce,2026-01-19,late,23.73,resolved,5
+DHL eCommerce,2026-01-24,late,15.67,resolved,17
+DHL eCommerce,2026-02-17,late,13.05,resolved,20
+DHL eCommerce,2026-02-03,late,9.56,pending,10
+DHL eCommerce,2026-02-08,damage,73.04,resolved,19
+DHL eCommerce,2026-02-25,loss,47.49,resolved,18
+DHL eCommerce,2026-02-28,late,5.42,denied,10
+DHL eCommerce,2026-03-11,damage,33.65,resolved,4
+DHL eCommerce,2026-03-09,damage,35.01,pending,24
+DHL eCommerce,2026-03-12,damage,41.25,resolved,11
+DHL eCommerce,2026-04-03,damage,25.7,resolved,2
+DHL eCommerce,2026-02-03,late,9.45,resolved,14
+DHL eCommerce,2026-03-12,late,14.76,resolved,10
+DHL eCommerce,2026-03-07,damage,77.7,resolved,6
+DHL eCommerce,2026-01-19,loss,96.63,denied,9
+DHL eCommerce,2026-02-04,damage,47.1,denied,6
+DHL eCommerce,2026-04-11,late,20.38,resolved,11
+DHL eCommerce,2026-03-14,loss,106.06,denied,13
+DHL eCommerce,2026-02-28,loss,111.4,resolved,16
+DHL eCommerce,2026-03-14,damage,26.5,resolved,4
+DHL eCommerce,2026-03-27,damage,60.56,pending,18
+DHL eCommerce,2026-02-07,loss,54.67,resolved,10
+DHL eCommerce,2026-02-01,late,11.78,pending,22
+DHL eCommerce,2026-01-30,damage,29.63,pending,18
+DHL eCommerce,2026-03-11,loss,112.18,resolved,19
+DHL eCommerce,2026-03-12,loss,92.82,resolved,18
+DHL eCommerce,2026-04-05,loss,66.89,denied,12
+DHL eCommerce,2026-01-21,damage,73.59,resolved,8
+DHL eCommerce,2026-03-06,late,5.91,resolved,16
+DHL eCommerce,2026-04-03,loss,73.06,pending,20
+DHL eCommerce,2026-04-08,loss,36.49,resolved,5
+DHL eCommerce,2026-02-01,damage,8.16,pending,23
+DHL eCommerce,2026-02-07,damage,64.53,resolved,18
+DHL eCommerce,2026-02-05,loss,45.89,resolved,6
+DHL eCommerce,2026-02-05,loss,85.81,resolved,17
+DHL eCommerce,2026-01-31,damage,70.77,resolved,18
+DHL eCommerce,2026-02-08,damage,81.83,resolved,11
+DHL eCommerce,2026-01-20,loss,112.13,denied,7
+Amazon Shipping,2026-02-06,damage,9.63,pending,17
+Amazon Shipping,2026-02-09,late,20.45,pending,30
+Amazon Shipping,2026-04-01,damage,23.24,pending,28
+Amazon Shipping,2026-03-02,damage,31.57,resolved,10
+Amazon Shipping,2026-02-04,damage,63.1,denied,11
+Amazon Shipping,2026-03-03,late,22.05,pending,23
+Amazon Shipping,2026-03-21,damage,16.15,resolved,21
+Amazon Shipping,2026-03-05,loss,108.15,resolved,14
+Amazon Shipping,2026-03-09,loss,90.2,resolved,8
+Amazon Shipping,2026-01-27,late,16.56,resolved,4
+Amazon Shipping,2026-01-24,damage,63.62,resolved,3
+Amazon Shipping,2026-02-28,damage,29.12,pending,18
+Amazon Shipping,2026-03-26,late,13.77,resolved,12
+Amazon Shipping,2026-03-12,late,23.76,pending,28
+Amazon Shipping,2026-03-16,loss,53.64,resolved,6
+Amazon Shipping,2026-04-11,late,7.25,pending,6
+Veho,2026-03-17,damage,62.67,resolved,3
+Veho,2026-01-28,damage,26.71,resolved,18
+Veho,2026-03-06,damage,42.03,resolved,20
+Veho,2026-03-12,late,11.9,pending,12
+Veho,2026-03-28,late,13.08,resolved,5
+Veho,2026-02-08,late,13.65,resolved,10
+Veho,2026-02-14,late,10.95,resolved,19
+Veho,2026-03-12,late,9.37,resolved,5
+Veho,2026-02-13,loss,60.44,resolved,15
+Veho,2026-03-18,late,23.01,denied,7
+Veho,2026-03-22,damage,79.21,pending,19
+Veho,2026-03-22,damage,18.38,denied,12
+Veho,2026-01-25,late,11.56,denied,3
+Veho,2026-02-15,damage,24.52,denied,12
+Veho,2026-02-21,late,6.18,resolved,9
+Veho,2026-02-01,damage,42.98,pending,23
+Veho,2026-03-24,damage,58.14,resolved,18
+Veho,2026-04-09,late,7.31,pending,5
+Veho,2026-02-27,damage,23.26,resolved,4
+Veho,2026-03-20,loss,82.24,resolved,20
+Veho,2026-01-26,damage,72.23,resolved,20
+Veho,2026-01-29,loss,75.79,resolved,2
+Veho,2026-03-01,damage,11.82,resolved,17
+Veho,2026-03-20,loss,51.34,pending,30
+Veho,2026-02-21,damage,56.07,resolved,19
+Veho,2026-03-11,damage,46.46,resolved,16
+Veho,2026-04-06,late,19.06,resolved,7
+Veho,2026-03-29,late,21.48,resolved,18
+Veho,2026-02-18,late,10.27,pending,25
+Veho,2026-04-02,late,14.68,pending,21
+Veho,2026-03-22,late,24.11,denied,9
+Veho,2026-02-11,damage,78.12,resolved,6
+Veho,2026-02-06,damage,53.88,resolved,8
+Veho,2026-03-23,damage,77.02,denied,4
+Veho,2026-02-15,damage,56.78,pending,22
+Veho,2026-02-02,loss,106.06,resolved,6
+Veho,2026-02-17,damage,12.34,resolved,12
+Veho,2026-02-22,damage,21.57,resolved,18
+Veho,2026-02-22,late,22.13,pending,11
+Veho,2026-03-11,damage,28.38,resolved,2
+Veho,2026-02-12,damage,37.83,resolved,12
+Veho,2026-03-26,late,12.48,resolved,16
+Veho,2026-02-01,damage,24.62,pending,13
+Veho,2026-02-21,loss,53.76,resolved,9
+Veho,2026-02-20,late,15.39,pending,15
+Veho,2026-03-04,loss,53.81,pending,25
+Veho,2026-02-28,loss,44.68,pending,13
+Veho,2026-01-29,damage,25.05,resolved,13
+Veho,2026-04-01,damage,40.65,resolved,17

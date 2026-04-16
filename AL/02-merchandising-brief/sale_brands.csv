@@ -1,0 +1,81 @@
+brand_id,brand_name,category,subcategory,product_count,avg_price,member_favorite,new_to_thrive,dietary_tags,margin_tier
+B001,Purely Rooted,Pantry,Nut Butters,6,11.99,Yes,No,"keto, paleo, vegan",High
+B002,GreenVale Foods,Pantry,Pasta Sauce,8,6.49,Yes,No,"vegan, gluten-free",Medium
+B003,NutraHarvest,Snacks,Bars,12,2.99,No,No,"high-protein",Low
+B004,Coastal Kelp Co,Snacks,Seaweed,4,4.29,No,Yes,"keto, vegan, GLP-1",High
+B005,Heritage Mills,Breakfast,Baking Mixes,5,7.99,Yes,No,"organic",Medium
+B006,Sage Creek Ranch,Meat & Seafood,Jerky,4,8.99,Yes,No,"paleo, keto, GLP-1",High
+B007,BrightLeaf Teas,Beverages,Tea,10,6.99,No,No,"organic, vegan",Medium
+B008,Terra Grains,Snacks,Crackers,6,4.99,No,No,"organic, vegan",Medium
+B009,Pacific Bloom,Dairy Alternatives,Yogurt,5,5.49,No,Yes,"vegan, paleo",Medium
+B010,Golden Spoon,Pantry,Broths,4,8.49,Yes,No,"paleo, keto, GLP-1",High
+B011,Wild Basin Farms,Produce,Fresh Greens,8,4.99,No,Yes,"organic, vegan, GLP-1",Low
+B012,Suncoast Naturals,Supplements,Vitamins,15,18.99,Yes,No,"vegan",High
+B013,Mesa Verde Snacks,Snacks,Chips,7,3.99,Yes,No,"gluten-free, vegan",Medium
+B014,Northwind Oats,Breakfast,Cereal,5,6.49,No,No,"organic, vegan",Low
+B015,Copper Kettle,Beverages,Kombucha,6,3.49,Yes,No,"vegan, GLP-1",Medium
+B016,Honeytree Farm,Pantry,Honey & Sweeteners,4,12.99,No,No,"organic, paleo",High
+B017,Fieldstone Bakery,Bakery,Bread,5,5.99,No,Yes,"organic, vegan",Low
+B018,Primal Provisions,Meat & Seafood,Frozen Meat,6,14.99,Yes,No,"paleo, keto, GLP-1",High
+B019,Clearwater Springs,Beverages,Water,3,1.99,No,No,"",Low
+B020,Jade Mountain,Pantry,Asian Sauces,8,5.99,No,Yes,"vegan, gluten-free",Medium
+B021,Blue Heron Farms,Produce,Frozen Fruit,6,5.99,No,No,"organic, vegan, paleo",Medium
+B022,Sunridge Collective,Snacks,Trail Mix,5,7.99,Yes,No,"keto, paleo, vegan",High
+B023,Verdant Kitchen,Pantry,Cooking Oils,4,9.99,No,No,"organic, vegan, keto",High
+B024,Silver Creek Dairy,Dairy,Cheese,8,6.99,Yes,No,"keto",Medium
+B025,Nourish & Bloom,Baby & Kids,Baby Food,10,3.49,No,Yes,"organic, vegan",Medium
+B026,Canyon Crest,Snacks,Nuts & Seeds,6,8.99,Yes,No,"keto, paleo, vegan, GLP-1",High
+B027,Ember & Oak,Household,Cleaning,8,5.99,No,No,"",Medium
+B028,Redwood Wellness,Supplements,Protein Powder,4,29.99,No,No,"keto, paleo, vegan",High
+B029,Tidepool Foods,Pantry,Canned Fish,5,4.99,No,No,"paleo, keto, GLP-1",Medium
+B030,Harvest Moon,Dairy Alternatives,Milk,4,4.99,Yes,No,"vegan, GLP-1",Medium
+B031,Pineridge Granola,Breakfast,Granola,6,7.49,Yes,No,"organic, vegan",Medium
+B032,Good Earth Pasta,Pantry,Pasta,5,3.99,No,No,"organic, vegan",Low
+B033,Meadowlark Farms,Produce,Fresh Vegetables,10,3.99,No,Yes,"organic, vegan, GLP-1",Low
+B034,River Birch,Personal Care,Skincare,12,14.99,No,No,"vegan, clean-beauty",High
+B035,Solstice Foods,Frozen,Frozen Meals,8,6.99,No,Yes,"vegan, gluten-free, GLP-1",Medium
+B036,Wildflower Honey Co,Pantry,Honey & Sweeteners,3,15.99,No,No,"organic, paleo",High
+B037,Stone & Sage,Household,Candles,4,12.99,No,No,"",High
+B038,Desert Bloom,Personal Care,Body Care,8,9.99,No,No,"vegan, clean-beauty",Medium
+B039,Morning Glory,Breakfast,Oatmeal,5,5.49,No,No,"organic, vegan, GLP-1",Low
+B040,Coastline Catch,Meat & Seafood,Frozen Seafood,6,12.99,Yes,No,"paleo, keto, GLP-1",High
+B041,Roots & Wings,Baby & Kids,Kids Snacks,8,4.49,No,No,"organic, vegan",Medium
+B042,Pinecone Pantry,Pantry,Condiments,10,4.99,No,No,"vegan, gluten-free",Medium
+B043,Summit Protein,Snacks,Bars,5,2.79,No,Yes,"keto, paleo, GLP-1",Medium
+B044,Wild Sage Beauty,Personal Care,Hair Care,6,11.99,No,No,"vegan, clean-beauty",High
+B045,Copper Canyon Coffee,Beverages,Coffee,5,12.99,Yes,No,"organic",High
+B046,Bright Roots,Produce,Root Vegetables,4,3.49,No,Yes,"organic, vegan, GLP-1",Low
+B047,Haven Home,Household,Paper Products,5,6.99,No,No,"",Low
+B048,Fireside Foods,Pantry,Soups,6,4.99,No,No,"vegan, gluten-free",Medium
+B049,Alpine Meadow,Dairy,Butter & Ghee,3,8.99,No,No,"keto, paleo",High
+B050,Green Thread,Household,Laundry,4,9.99,No,No,"",Medium
+B051,Luna Bay,Beverages,Sparkling Water,4,5.99,No,Yes,"GLP-1",Medium
+B052,Thornberry Farms,Pantry,Jams & Preserves,5,6.99,No,No,"organic, vegan",Medium
+B053,Vital Ground,Supplements,Probiotics,4,24.99,Yes,No,"vegan, GLP-1",High
+B054,Oakwood Snacks,Snacks,Popcorn,4,3.99,No,No,"vegan, gluten-free",Low
+B055,Cedar & Sage,Personal Care,Deodorant,3,8.99,No,No,"vegan, clean-beauty",High
+B056,Prairie Wind,Pantry,Flour & Baking,6,5.99,No,No,"organic, gluten-free",Medium
+B057,Blue Ridge Farms,Meat & Seafood,Deli Meat,4,7.99,No,No,"paleo, keto",Medium
+B058,Mossy Creek,Beverages,Juice,5,4.99,No,No,"organic, vegan",Low
+B059,Stone Hollow,Pantry,Vinegars,4,7.99,No,No,"organic, vegan, keto",Medium
+B060,Kindred Kitchen,Frozen,Frozen Snacks,6,5.99,No,Yes,"vegan, gluten-free",Medium
+B061,Sage & Citrus,Personal Care,Oral Care,4,6.99,No,No,"vegan",Medium
+B062,Bison Ridge,Meat & Seafood,Snack Sticks,4,6.99,No,No,"paleo, keto, GLP-1",High
+B063,Elderberry Lane,Supplements,Immunity,5,16.99,No,No,"vegan",High
+B064,Foothills Farm,Dairy,Milk,3,5.49,No,No,"organic",Low
+B065,Canopy Greens,Produce,Salad Kits,5,6.99,No,Yes,"organic, vegan, GLP-1",Medium
+B066,River Stone,Pantry,Rice & Grains,6,4.49,No,No,"organic, vegan, gluten-free",Low
+B067,Twilight Farms,Frozen,Ice Cream,4,6.99,Yes,No,"vegan",Medium
+B068,Dewdrop Naturals,Baby & Kids,Diapers,3,12.99,No,No,"",Medium
+B069,Ironwood,Household,Dish Soap,3,4.99,No,No,"",Low
+B070,Lantern Light,Beverages,Functional Drinks,6,3.49,No,Yes,"vegan, GLP-1",Medium
+B071,Briar Rose,Personal Care,Face Masks,4,8.99,No,No,"vegan, clean-beauty",High
+B072,High Plains Jerky,Meat & Seafood,Jerky,3,9.49,No,Yes,"paleo, keto, GLP-1",High
+B073,Valley Mist,Dairy Alternatives,Creamer,4,4.99,No,No,"vegan, keto",Medium
+B074,Goldenrod Farms,Pantry,Spices,12,4.99,No,No,"organic, vegan",Medium
+B075,Featherstone,Snacks,Dried Fruit,5,5.99,No,No,"vegan, paleo",Medium
+B076,Clover Hill,Dairy,Eggs,2,6.99,Yes,No,"organic, pasture-raised",Low
+B077,Wild Plum,Pantry,Nut Milks,4,5.49,No,No,"vegan, keto",Medium
+B078,Bramble & Bee,Pantry,Spreads,5,7.99,No,Yes,"organic, vegan",Medium
+B079,Northern Lights,Frozen,Frozen Vegetables,6,3.99,No,No,"organic, vegan, GLP-1",Low
+B080,Sunrise Wellness,Supplements,Collagen,3,22.99,No,No,"keto, paleo",High

@@ -1,0 +1,110 @@
+[
+  {
+    "task_id": "PT-001",
+    "title": "Complete Q1 safety audit report for OSHA filing",
+    "priority": "Critical",
+    "due_date": "2026-04-14",
+    "owner": "Safety Lead \u2014 Marcus J.",
+    "status": "Overdue",
+    "notes": "Was due Apr 11. OSHA filing deadline is Apr 16. Must be completed and submitted by end of day tomorrow at latest. Requires sign-off from FC Director."
+  },
+  {
+    "task_id": "PT-002",
+    "title": "Deliver performance feedback to 6 associates (30-day reviews)",
+    "priority": "High",
+    "due_date": "2026-04-14",
+    "owner": "Shift Lead \u2014 Tony M.",
+    "status": "In Progress",
+    "notes": "4 of 6 completed. Remaining 2 associates are on Day shift tomorrow (Maria G. and Kevin P.). Both are new hires in Pick \u2014 feedback relates to accuracy and speed ramp."
+  },
+  {
+    "task_id": "PT-003",
+    "title": "Conveyor B3 roller bearing full replacement",
+    "priority": "High",
+    "due_date": "2026-04-15",
+    "owner": "Maintenance \u2014 Dave R.",
+    "status": "Parts Ordered",
+    "notes": "Bearing ordered from supplier \u2014 expected delivery by 2pm Apr 15. Repair requires 2-hour window with conveyor offline. Recommend scheduling during Night shift low-volume window (2am-4am)."
+  },
+  {
+    "task_id": "PT-004",
+    "title": "Forklift certification renewal \u2014 3 operators",
+    "priority": "Medium",
+    "due_date": "2026-04-16",
+    "owner": "Training Coord \u2014 Lisa W.",
+    "status": "Scheduled",
+    "notes": "Certification class scheduled Apr 16 8am-12pm. Operators: Jake T., Maria S., Robert L. Need coverage for their normal roles during training window."
+  },
+  {
+    "task_id": "PT-005",
+    "title": "Calibrate all pack station scales (monthly)",
+    "priority": "Medium",
+    "due_date": "2026-04-15",
+    "owner": "Quality Mgr \u2014 Priya S.",
+    "status": "Not Started",
+    "notes": "Monthly scale calibration. Last done Mar 15. The weight discrepancy flags from today's shift make this more urgent \u2014 possible drift on Station P2 and P5."
+  },
+  {
+    "task_id": "PT-006",
+    "title": "Submit PTO requests for Memorial Day staffing plan",
+    "priority": "Low",
+    "due_date": "2026-04-18",
+    "owner": "HR \u2014 Rachel B.",
+    "status": "In Progress",
+    "notes": "Need all PTO requests submitted by Apr 18 to finalize Memorial Day weekend staffing. Currently at 60% submission rate. Reminder sent to all associates."
+  },
+  {
+    "task_id": "PT-007",
+    "title": "Dock door 3 dehumidifier inspection/repair",
+    "priority": "Medium",
+    "due_date": "2026-04-15",
+    "owner": "Facilities \u2014 Tom H.",
+    "status": "Open",
+    "notes": "Related to this morning's slip incident. Dehumidifier in dock 3 area may be failing \u2014 floor condensation has been reported 3 times this week. Need facilities to inspect before it causes an actual injury."
+  },
+  {
+    "task_id": "PT-008",
+    "title": "Zone A2 associate retraining \u2014 pick accuracy",
+    "priority": "High",
+    "due_date": "2026-04-15",
+    "owner": "Training Coord \u2014 Lisa W.",
+    "status": "Open",
+    "notes": "4 mispicks from A2 today. Associates are week-2 new hires. Need targeted retraining on variant identification (flavor/size) before next shift. 30-min training module available."
+  },
+  {
+    "task_id": "PT-009",
+    "title": "Investigate promo insert error \u2014 Spring Clean Eating",
+    "priority": "Medium",
+    "due_date": "2026-04-14",
+    "owner": "Pack Supervisor \u2014 Amy L.",
+    "status": "In Progress",
+    "notes": "12 orders potentially received wrong promo inserts. Spot check needed to confirm scope. If broader issue, may need to pull batch for correction before ship cutoff at 6pm."
+  },
+  {
+    "task_id": "PT-010",
+    "title": "IT post-mortem on WMS slowdown",
+    "priority": "High",
+    "due_date": "2026-04-15",
+    "owner": "IT \u2014 Jordan K.",
+    "status": "Scheduled",
+    "notes": "15-min WMS outage during peak hours cost ~40% throughput for that window. IT applied a fix but wants to run post-mortem to prevent recurrence. Meeting scheduled Apr 15 at 9am."
+  },
+  {
+    "task_id": "PT-011",
+    "title": "Update temperature log for cold chain compliance (Frozen zone)",
+    "priority": "Critical",
+    "due_date": "2026-04-14",
+    "owner": "Quality Mgr \u2014 Priya S.",
+    "status": "Overdue",
+    "notes": "Daily temperature log for frozen zone not submitted for Apr 13 or Apr 14. FDA compliance requirement. Must be completed before end of shift or documented as exception with root cause."
+  },
+  {
+    "task_id": "PT-012",
+    "title": "Forklift near-miss incident report filing",
+    "priority": "High",
+    "due_date": "2026-04-14",
+    "owner": "Safety Lead \u2014 Marcus J.",
+    "status": "Open",
+    "notes": "Incident at 15:00 today. OSHA-reportable near-miss requires documentation within 24 hours. Need statements from forklift operator and pedestrian associate. Retraining must be scheduled within 48 hours."
+  }
+]

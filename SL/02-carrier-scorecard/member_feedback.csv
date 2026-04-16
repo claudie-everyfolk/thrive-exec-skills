@@ -1,0 +1,470 @@
+carrier,delivery_rating_1_5,comment_text,delivery_date,region
+FedEx Ground,4,Package arrived in perfect condition,2026-04-03,Southwest
+FedEx Ground,5,Smooth delivery experience,2026-03-15,Northeast
+FedEx Ground,3,Okay experience overall,2026-03-26,Northeast
+FedEx Ground,5,Driver was careful with the package,2026-02-21,Southeast
+FedEx Ground,4,Package arrived in perfect condition,2026-02-05,Southwest
+FedEx Ground,3,Package was fine but took a while,2026-01-20,Northeast
+FedEx Ground,5,No complaints at all,2026-02-02,Southwest
+FedEx Ground,4,Driver was careful with the package,2026-03-17,Midwest
+FedEx Ground,5,Love the speed,2026-03-16,Southwest
+FedEx Ground,3,"Delivery was fine, nothing special",2026-03-18,West
+FedEx Ground,4,Arrived earlier than expected,2026-01-20,Southwest
+FedEx Ground,3,Package was fine but took a while,2026-04-04,Southwest
+FedEx Ground,4,Driver was careful with the package,2026-03-11,Midwest
+FedEx Ground,4,"Great packaging, nothing damaged",2026-01-22,Northeast
+FedEx Ground,3,Package was fine but took a while,2026-02-20,Southeast
+FedEx Ground,4,Excellent as always,2026-03-29,Southwest
+FedEx Ground,2,Package left in the rain,2026-01-19,Southwest
+FedEx Ground,4,"Great packaging, nothing damaged",2026-02-13,Southwest
+FedEx Ground,3,Okay experience overall,2026-04-10,Southeast
+FedEx Ground,2,Took way too long to arrive,2026-02-23,Midwest
+FedEx Ground,4,Always reliable with this carrier,2026-02-07,Southwest
+FedEx Ground,3,"Standard delivery, no issues",2026-03-26,Midwest
+FedEx Ground,4,Arrived earlier than expected,2026-03-13,Midwest
+FedEx Ground,3,"Standard delivery, no issues",2026-01-25,Northeast
+FedEx Ground,4,"Fast delivery, very happy",2026-04-03,Northeast
+FedEx Ground,4,Excellent as always,2026-02-14,Southwest
+FedEx Ground,3,Arrived on time,2026-02-16,Southeast
+FedEx Ground,4,Arrived earlier than expected,2026-03-21,Northeast
+FedEx Ground,3,Arrived on time,2026-03-25,West
+FedEx Ground,4,"Great packaging, nothing damaged",2026-03-08,Midwest
+FedEx Ground,4,Arrived earlier than expected,2026-02-19,Midwest
+FedEx Ground,3,"Standard delivery, no issues",2026-01-26,Midwest
+FedEx Ground,3,Package was fine but took a while,2026-03-24,West
+FedEx Ground,2,Delivery was 3 days late,2026-03-06,Midwest
+FedEx Ground,4,Excellent as always,2026-02-16,Southeast
+FedEx Ground,3,Package was fine but took a while,2026-03-19,West
+FedEx Ground,4,Love the speed,2026-03-21,Southwest
+FedEx Ground,2,Had to call to find my package,2026-02-06,Midwest
+FedEx Ground,4,"Great packaging, nothing damaged",2026-03-13,Southwest
+FedEx Ground,5,No complaints at all,2026-04-08,West
+FedEx Ground,4,Love the speed,2026-02-21,Southwest
+FedEx Ground,5,Excellent as always,2026-03-21,West
+UPS Ground,5,Driver was careful with the package,2026-03-04,West
+UPS Ground,4,Always reliable with this carrier,2026-02-07,Southwest
+UPS Ground,3,Got it when expected,2026-02-09,Southeast
+UPS Ground,5,Excellent as always,2026-01-20,Southeast
+UPS Ground,3,Okay experience overall,2026-04-09,Midwest
+UPS Ground,4,Always reliable with this carrier,2026-03-26,Southwest
+UPS Ground,4,"Fast delivery, very happy",2026-03-08,West
+UPS Ground,4,Package arrived in perfect condition,2026-03-01,Midwest
+UPS Ground,4,Arrived earlier than expected,2026-04-09,Southeast
+UPS Ground,2,Driver didnt ring the bell,2026-02-13,Southwest
+UPS Ground,3,Okay experience overall,2026-04-05,West
+UPS Ground,4,Smooth delivery experience,2026-02-20,West
+UPS Ground,4,Smooth delivery experience,2026-03-23,West
+UPS Ground,4,Package arrived in perfect condition,2026-03-29,Northeast
+UPS Ground,4,Arrived earlier than expected,2026-04-07,West
+UPS Ground,4,"Great packaging, nothing damaged",2026-01-26,Southeast
+UPS Ground,4,"Fast delivery, very happy",2026-02-12,Northeast
+UPS Ground,4,Package arrived in perfect condition,2026-01-28,Southwest
+UPS Ground,5,Smooth delivery experience,2026-01-28,Midwest
+UPS Ground,5,Smooth delivery experience,2026-01-27,Southeast
+UPS Ground,3,Arrived on time,2026-02-25,Midwest
+UPS Ground,5,Love the speed,2026-03-11,Northeast
+UPS Ground,5,Always reliable with this carrier,2026-01-20,Southeast
+UPS Ground,3,Okay experience overall,2026-01-29,Southwest
+UPS Ground,3,Arrived on time,2026-03-07,West
+UPS Ground,4,"Great packaging, nothing damaged",2026-02-23,West
+UPS Ground,5,Arrived earlier than expected,2026-01-24,Southeast
+UPS Ground,3,Okay experience overall,2026-01-24,West
+UPS Ground,4,Always reliable with this carrier,2026-04-11,Midwest
+UPS Ground,3,Package was fine but took a while,2026-02-20,Southwest
+UPS Ground,4,No complaints at all,2026-02-01,Southwest
+UPS Ground,3,Okay experience overall,2026-02-20,West
+UPS Ground,5,Love the speed,2026-01-21,West
+UPS Ground,5,Love the speed,2026-02-27,Southeast
+UPS Ground,5,Always reliable with this carrier,2026-03-10,West
+UPS Ground,3,Got it when expected,2026-02-04,Southwest
+UPS Ground,4,Excellent as always,2026-02-26,Southeast
+UPS Ground,4,Driver was careful with the package,2026-02-19,Southwest
+UPS Ground,4,Package arrived in perfect condition,2026-03-16,Midwest
+UPS Ground,3,Got it when expected,2026-02-21,Northeast
+UPS Ground,4,Driver was careful with the package,2026-02-03,Midwest
+UPS Ground,4,Excellent as always,2026-03-07,Midwest
+UPS Ground,5,Driver was careful with the package,2026-03-18,Midwest
+UPS Ground,5,Always reliable with this carrier,2026-02-10,Southwest
+UPS Ground,5,Driver was careful with the package,2026-01-21,Southwest
+UPS Ground,4,"Great packaging, nothing damaged",2026-03-07,West
+UPS Ground,4,Package arrived in perfect condition,2026-02-16,Northeast
+UPS Ground,4,Always reliable with this carrier,2026-02-04,West
+UPS Ground,4,Always reliable with this carrier,2026-04-05,Southeast
+UPS Ground,5,Always reliable with this carrier,2026-01-20,Southeast
+UPS Ground,5,Love the speed,2026-03-05,Southeast
+USPS Priority,5,"Great packaging, nothing damaged",2026-03-27,West
+USPS Priority,2,Delivery was 3 days late,2026-02-01,Midwest
+USPS Priority,2,Items were damaged inside,2026-03-29,Southeast
+USPS Priority,2,Items were damaged inside,2026-02-24,Southwest
+USPS Priority,4,Arrived earlier than expected,2026-02-26,Midwest
+USPS Priority,2,Driver didnt ring the bell,2026-03-09,West
+USPS Priority,3,Package was fine but took a while,2026-04-11,Southeast
+USPS Priority,3,Arrived on time,2026-04-08,Northeast
+USPS Priority,2,Took way too long to arrive,2026-03-14,Southeast
+USPS Priority,4,Package arrived in perfect condition,2026-02-23,Southeast
+USPS Priority,2,Delivery was 3 days late,2026-02-02,Midwest
+USPS Priority,2,Very slow compared to other orders,2026-02-02,Southeast
+USPS Priority,3,Got it when expected,2026-03-21,West
+USPS Priority,5,"Fast delivery, very happy",2026-03-16,Southwest
+USPS Priority,3,Okay experience overall,2026-02-15,Southeast
+USPS Priority,2,Had to call to find my package,2026-03-24,West
+USPS Priority,3,Got it when expected,2026-03-28,Midwest
+USPS Priority,3,Package was fine but took a while,2026-04-09,Southwest
+USPS Priority,2,Delivery was 3 days late,2026-02-05,Southwest
+USPS Priority,3,Okay experience overall,2026-03-12,Northeast
+USPS Priority,3,Okay experience overall,2026-01-30,West
+USPS Priority,3,Arrived on time,2026-03-18,Northeast
+USPS Priority,3,Got it when expected,2026-02-11,Southeast
+USPS Priority,2,No delivery notification received,2026-01-20,West
+USPS Priority,3,Arrived on time,2026-02-08,Southeast
+USPS Priority,3,Package was fine but took a while,2026-01-26,Midwest
+USPS Priority,3,Got it when expected,2026-01-27,Midwest
+USPS Priority,3,Okay experience overall,2026-01-25,Midwest
+USPS Priority,1,Package looked like it was thrown,2026-03-03,Midwest
+USPS Priority,3,Package was fine but took a while,2026-03-30,Northeast
+USPS Priority,3,Got it when expected,2026-03-26,Midwest
+USPS Priority,3,Package was fine but took a while,2026-04-04,Southeast
+USPS Priority,4,Love the speed,2026-01-26,West
+USPS Priority,3,Package was fine but took a while,2026-03-25,Midwest
+USPS Priority,5,Smooth delivery experience,2026-03-22,West
+USPS Priority,5,"Great packaging, nothing damaged",2026-03-06,Southeast
+USPS Priority,3,Arrived on time,2026-03-08,Southeast
+USPS Priority,3,"Standard delivery, no issues",2026-03-19,Southwest
+USPS Priority,3,Package was fine but took a while,2026-02-24,Midwest
+USPS Priority,4,"Fast delivery, very happy",2026-02-08,Midwest
+USPS Priority,3,Arrived on time,2026-01-30,Southwest
+USPS Priority,3,Arrived on time,2026-03-17,Southeast
+USPS Priority,3,"Delivery was fine, nothing special",2026-01-19,Southeast
+USPS Priority,3,Got it when expected,2026-02-17,Northeast
+USPS Priority,3,"Standard delivery, no issues",2026-03-05,West
+USPS Priority,2,Package left in the rain,2026-03-28,Southeast
+USPS Priority,5,Driver was careful with the package,2026-02-13,Midwest
+USPS Priority,3,Okay experience overall,2026-01-22,West
+USPS Priority,4,Love the speed,2026-03-15,Southwest
+USPS Priority,4,Excellent as always,2026-04-02,Southeast
+USPS Priority,4,Love the speed,2026-03-23,Southeast
+USPS Priority,3,Okay experience overall,2026-03-05,Midwest
+USPS Priority,4,"Great packaging, nothing damaged",2026-03-02,Southwest
+USPS Priority,3,Package was fine but took a while,2026-04-04,Southeast
+USPS Priority,2,Delivery was 3 days late,2026-01-30,Southwest
+USPS Priority,3,Package was fine but took a while,2026-01-21,Southeast
+USPS Priority,4,No complaints at all,2026-04-08,Southeast
+USPS Priority,3,Got it when expected,2026-02-13,Northeast
+USPS Priority,3,Okay experience overall,2026-03-14,Southwest
+USPS Priority,3,Arrived on time,2026-02-16,West
+USPS Priority,3,Arrived on time,2026-04-11,Southwest
+USPS Priority,3,Okay experience overall,2026-03-02,Southwest
+OnTrac,4,Smooth delivery experience,2026-02-18,Midwest
+OnTrac,3,Okay experience overall,2026-04-01,West
+OnTrac,3,"Standard delivery, no issues",2026-03-12,West
+OnTrac,3,Package was fine but took a while,2026-01-31,Southeast
+OnTrac,3,Got it when expected,2026-04-11,Midwest
+OnTrac,3,Package was fine but took a while,2026-04-11,Southwest
+OnTrac,3,Okay experience overall,2026-02-01,Southeast
+OnTrac,3,Okay experience overall,2026-01-30,Southeast
+OnTrac,2,Took way too long to arrive,2026-03-22,Midwest
+OnTrac,5,Always reliable with this carrier,2026-03-13,West
+OnTrac,3,"Delivery was fine, nothing special",2026-02-06,Midwest
+OnTrac,2,Package was wet when delivered,2026-02-17,Midwest
+OnTrac,3,Got it when expected,2026-04-02,Southeast
+OnTrac,4,Always reliable with this carrier,2026-02-13,Southeast
+OnTrac,3,"Delivery was fine, nothing special",2026-02-20,Southwest
+OnTrac,2,Left at wrong address initially,2026-03-31,Northeast
+OnTrac,4,Love the speed,2026-03-17,Southwest
+OnTrac,3,Got it when expected,2026-03-08,Midwest
+OnTrac,2,Package left in the rain,2026-03-18,Midwest
+OnTrac,4,Excellent as always,2026-02-13,West
+OnTrac,4,Smooth delivery experience,2026-01-19,Southeast
+OnTrac,5,Arrived earlier than expected,2026-02-05,Southeast
+OnTrac,3,Arrived on time,2026-02-06,Northeast
+OnTrac,5,Arrived earlier than expected,2026-02-12,Midwest
+OnTrac,3,"Standard delivery, no issues",2026-02-11,Midwest
+OnTrac,3,Okay experience overall,2026-03-01,Southeast
+OnTrac,4,"Fast delivery, very happy",2026-01-21,Southeast
+OnTrac,3,"Delivery was fine, nothing special",2026-04-10,Midwest
+OnTrac,3,Okay experience overall,2026-03-04,Northeast
+OnTrac,3,Arrived on time,2026-03-06,West
+OnTrac,4,Package arrived in perfect condition,2026-02-21,Northeast
+OnTrac,4,Package arrived in perfect condition,2026-02-14,Southeast
+OnTrac,4,No complaints at all,2026-02-05,Midwest
+OnTrac,4,"Great packaging, nothing damaged",2026-02-17,Southwest
+OnTrac,3,Okay experience overall,2026-04-09,Northeast
+OnTrac,4,No complaints at all,2026-04-12,Southwest
+OnTrac,5,Arrived earlier than expected,2026-03-22,Southwest
+OnTrac,4,Smooth delivery experience,2026-04-02,Southwest
+OnTrac,4,Smooth delivery experience,2026-02-26,West
+OnTrac,2,No delivery notification received,2026-01-19,West
+OnTrac,4,No complaints at all,2026-03-19,Northeast
+OnTrac,3,Okay experience overall,2026-01-20,Midwest
+OnTrac,5,Always reliable with this carrier,2026-02-02,Midwest
+OnTrac,4,"Great packaging, nothing damaged",2026-01-23,Southwest
+OnTrac,4,No complaints at all,2026-03-03,Southeast
+OnTrac,4,Package arrived in perfect condition,2026-02-19,Southeast
+OnTrac,4,Always reliable with this carrier,2026-04-09,Southwest
+OnTrac,2,Package looked like it was thrown,2026-03-11,Southeast
+OnTrac,4,Excellent as always,2026-04-04,Southeast
+OnTrac,3,"Standard delivery, no issues",2026-02-05,Southeast
+OnTrac,3,Arrived on time,2026-01-25,Midwest
+OnTrac,3,Okay experience overall,2026-03-31,Midwest
+OnTrac,3,Package was fine but took a while,2026-02-02,West
+OnTrac,2,No delivery notification received,2026-01-26,Southwest
+OnTrac,3,Got it when expected,2026-02-18,Northeast
+OnTrac,3,Package was fine but took a while,2026-03-16,Southwest
+OnTrac,4,Smooth delivery experience,2026-01-30,West
+OnTrac,4,Always reliable with this carrier,2026-03-28,Southeast
+OnTrac,2,Took way too long to arrive,2026-01-28,Midwest
+OnTrac,4,Driver was careful with the package,2026-02-24,Southeast
+OnTrac,3,Arrived on time,2026-01-29,West
+OnTrac,3,"Delivery was fine, nothing special",2026-02-03,West
+OnTrac,4,Smooth delivery experience,2026-02-09,Midwest
+OnTrac,3,Arrived on time,2026-04-06,Southwest
+OnTrac,3,Got it when expected,2026-03-15,Midwest
+OnTrac,4,No complaints at all,2026-04-01,West
+OnTrac,3,"Delivery was fine, nothing special",2026-02-20,Midwest
+OnTrac,4,Smooth delivery experience,2026-01-19,Midwest
+OnTrac,3,Arrived on time,2026-03-29,Midwest
+OnTrac,4,Smooth delivery experience,2026-03-29,Northeast
+OnTrac,3,Got it when expected,2026-03-12,Midwest
+OnTrac,4,No complaints at all,2026-01-21,West
+OnTrac,3,"Standard delivery, no issues",2026-02-01,Southeast
+OnTrac,3,Okay experience overall,2026-01-22,Southeast
+OnTrac,4,Love the speed,2026-01-19,Midwest
+LaserShip,1,Delivery was 3 days late,2026-03-02,Southwest
+LaserShip,3,"Delivery was fine, nothing special",2026-03-29,Midwest
+LaserShip,2,Very slow compared to other orders,2026-01-21,Midwest
+LaserShip,2,Items were damaged inside,2026-02-05,Southeast
+LaserShip,3,Arrived on time,2026-02-24,West
+LaserShip,2,Package looked like it was thrown,2026-02-02,Midwest
+LaserShip,1,Took way too long to arrive,2026-03-29,Midwest
+LaserShip,3,Okay experience overall,2026-02-15,Midwest
+LaserShip,2,Items were damaged inside,2026-03-26,Northeast
+LaserShip,2,Took way too long to arrive,2026-03-20,Midwest
+LaserShip,4,Smooth delivery experience,2026-02-20,Northeast
+LaserShip,3,"Delivery was fine, nothing special",2026-02-08,Northeast
+LaserShip,2,Left at wrong address initially,2026-02-02,Midwest
+LaserShip,4,"Great packaging, nothing damaged",2026-03-03,West
+LaserShip,3,"Standard delivery, no issues",2026-02-04,Midwest
+LaserShip,2,Package left in the rain,2026-02-08,Northeast
+LaserShip,2,Very slow compared to other orders,2026-02-20,Southeast
+LaserShip,3,"Delivery was fine, nothing special",2026-02-08,Southeast
+LaserShip,2,Delivery was 3 days late,2026-01-30,Midwest
+LaserShip,3,Arrived on time,2026-02-11,West
+LaserShip,4,No complaints at all,2026-01-28,Southeast
+LaserShip,2,Package looked like it was thrown,2026-03-03,Southwest
+LaserShip,2,Driver didnt ring the bell,2026-02-22,Midwest
+LaserShip,1,Very slow compared to other orders,2026-02-14,Southwest
+LaserShip,3,Package was fine but took a while,2026-01-23,Southeast
+LaserShip,4,"Fast delivery, very happy",2026-01-20,Midwest
+LaserShip,2,Package was wet when delivered,2026-02-18,Southwest
+LaserShip,2,Items were damaged inside,2026-02-27,Midwest
+LaserShip,3,"Delivery was fine, nothing special",2026-02-11,Northeast
+LaserShip,4,Love the speed,2026-04-04,West
+LaserShip,2,Package was wet when delivered,2026-02-05,Southwest
+LaserShip,2,Package left in the rain,2026-02-02,Northeast
+LaserShip,4,Arrived earlier than expected,2026-03-03,Northeast
+LaserShip,1,Left at wrong address initially,2026-01-30,Southwest
+LaserShip,2,Package left in the rain,2026-03-10,Southwest
+LaserShip,3,Okay experience overall,2026-01-23,Midwest
+LaserShip,4,Arrived earlier than expected,2026-02-06,Northeast
+LaserShip,4,Smooth delivery experience,2026-04-07,Southwest
+LaserShip,2,No delivery notification received,2026-01-31,Southeast
+LaserShip,2,Items were damaged inside,2026-03-01,Midwest
+LaserShip,4,Always reliable with this carrier,2026-02-02,West
+LaserShip,3,Got it when expected,2026-04-09,Northeast
+LaserShip,3,Arrived on time,2026-04-08,Southwest
+LaserShip,3,Package was fine but took a while,2026-02-24,Southeast
+LaserShip,2,Left at wrong address initially,2026-02-23,Southeast
+LaserShip,3,"Delivery was fine, nothing special",2026-02-10,Northeast
+LaserShip,4,Arrived earlier than expected,2026-02-11,Southwest
+LaserShip,2,Very slow compared to other orders,2026-01-31,Northeast
+LaserShip,4,Arrived earlier than expected,2026-02-27,Southeast
+LaserShip,3,"Standard delivery, no issues",2026-03-24,Northeast
+LaserShip,3,Arrived on time,2026-04-08,Midwest
+LaserShip,2,Delivery was 3 days late,2026-01-26,Southeast
+LaserShip,2,Had to call to find my package,2026-03-10,Southwest
+LaserShip,2,Had to call to find my package,2026-01-22,Southwest
+LaserShip,2,Package looked like it was thrown,2026-03-06,Midwest
+LaserShip,2,Took way too long to arrive,2026-04-09,West
+LaserShip,3,Got it when expected,2026-03-06,Midwest
+LaserShip,2,Items were damaged inside,2026-03-01,Southwest
+LaserShip,3,Got it when expected,2026-04-11,Southwest
+LaserShip,4,Always reliable with this carrier,2026-02-14,Southeast
+LaserShip,2,Package was wet when delivered,2026-01-21,Midwest
+LaserShip,1,Box was crushed when it arrived,2026-02-17,West
+LaserShip,3,"Standard delivery, no issues",2026-03-28,West
+LaserShip,3,Arrived on time,2026-03-04,Southeast
+LaserShip,1,Left at wrong address initially,2026-04-01,Southwest
+LaserShip,2,Had to call to find my package,2026-02-12,Midwest
+LaserShip,1,Took way too long to arrive,2026-02-22,Southwest
+LaserShip,4,No complaints at all,2026-02-27,Southeast
+DHL eCommerce,4,Always reliable with this carrier,2026-03-21,Northeast
+DHL eCommerce,3,Package was fine but took a while,2026-02-14,Southeast
+DHL eCommerce,3,Got it when expected,2026-03-03,West
+DHL eCommerce,2,Package looked like it was thrown,2026-03-04,Southeast
+DHL eCommerce,3,Arrived on time,2026-01-31,Southeast
+DHL eCommerce,5,Driver was careful with the package,2026-02-17,Northeast
+DHL eCommerce,4,"Great packaging, nothing damaged",2026-02-24,West
+DHL eCommerce,4,Smooth delivery experience,2026-02-07,Southeast
+DHL eCommerce,3,"Standard delivery, no issues",2026-02-02,Southwest
+DHL eCommerce,3,Okay experience overall,2026-02-02,Northeast
+DHL eCommerce,3,Okay experience overall,2026-03-06,Northeast
+DHL eCommerce,3,Got it when expected,2026-02-16,Midwest
+DHL eCommerce,5,No complaints at all,2026-04-02,Southeast
+DHL eCommerce,4,Love the speed,2026-04-03,Midwest
+DHL eCommerce,3,Arrived on time,2026-03-10,Southwest
+DHL eCommerce,4,Package arrived in perfect condition,2026-03-10,Southeast
+DHL eCommerce,4,Smooth delivery experience,2026-03-18,Southeast
+DHL eCommerce,3,Arrived on time,2026-03-01,Southwest
+DHL eCommerce,4,"Fast delivery, very happy",2026-03-21,Midwest
+DHL eCommerce,3,Okay experience overall,2026-03-29,Southwest
+DHL eCommerce,3,Package was fine but took a while,2026-02-13,Southeast
+DHL eCommerce,5,Smooth delivery experience,2026-03-12,Midwest
+DHL eCommerce,4,Arrived earlier than expected,2026-03-13,Southeast
+DHL eCommerce,4,Love the speed,2026-02-08,Midwest
+DHL eCommerce,4,Smooth delivery experience,2026-03-27,Northeast
+DHL eCommerce,3,Arrived on time,2026-02-02,Midwest
+DHL eCommerce,5,Excellent as always,2026-04-05,Southwest
+DHL eCommerce,4,Arrived earlier than expected,2026-02-14,West
+DHL eCommerce,5,Love the speed,2026-03-27,Midwest
+DHL eCommerce,3,"Standard delivery, no issues",2026-04-10,West
+DHL eCommerce,2,Delivery was 3 days late,2026-01-31,Midwest
+DHL eCommerce,3,"Standard delivery, no issues",2026-03-11,Northeast
+DHL eCommerce,4,Smooth delivery experience,2026-03-15,Midwest
+DHL eCommerce,3,Okay experience overall,2026-02-11,West
+DHL eCommerce,4,Excellent as always,2026-02-28,Northeast
+DHL eCommerce,4,No complaints at all,2026-04-09,Northeast
+DHL eCommerce,4,"Great packaging, nothing damaged",2026-04-11,Northeast
+DHL eCommerce,4,Love the speed,2026-03-21,Southeast
+DHL eCommerce,3,Package was fine but took a while,2026-02-06,Midwest
+DHL eCommerce,3,"Standard delivery, no issues",2026-02-18,Midwest
+DHL eCommerce,4,Smooth delivery experience,2026-01-25,Midwest
+DHL eCommerce,4,Smooth delivery experience,2026-03-25,Northeast
+DHL eCommerce,3,Okay experience overall,2026-02-27,Northeast
+DHL eCommerce,5,Smooth delivery experience,2026-04-10,Southwest
+DHL eCommerce,4,Arrived earlier than expected,2026-04-11,Southeast
+DHL eCommerce,4,Smooth delivery experience,2026-03-30,West
+DHL eCommerce,3,Arrived on time,2026-03-18,West
+DHL eCommerce,4,No complaints at all,2026-02-22,Southwest
+Amazon Shipping,3,Okay experience overall,2026-01-29,Midwest
+Amazon Shipping,5,Package arrived in perfect condition,2026-01-21,Northeast
+Amazon Shipping,3,"Delivery was fine, nothing special",2026-04-04,Southeast
+Amazon Shipping,5,Arrived earlier than expected,2026-02-24,Northeast
+Amazon Shipping,5,Always reliable with this carrier,2026-02-19,West
+Amazon Shipping,5,Smooth delivery experience,2026-03-14,Midwest
+Amazon Shipping,3,Okay experience overall,2026-02-25,Midwest
+Amazon Shipping,5,Smooth delivery experience,2026-03-11,Northeast
+Amazon Shipping,4,No complaints at all,2026-03-17,Southwest
+Amazon Shipping,5,"Great packaging, nothing damaged",2026-01-29,Midwest
+Amazon Shipping,4,Excellent as always,2026-02-21,Northeast
+Amazon Shipping,3,Got it when expected,2026-02-25,Northeast
+Amazon Shipping,5,Smooth delivery experience,2026-01-22,West
+Amazon Shipping,4,Arrived earlier than expected,2026-03-08,Midwest
+Amazon Shipping,5,No complaints at all,2026-02-17,Northeast
+Amazon Shipping,4,Love the speed,2026-03-08,Southeast
+Amazon Shipping,4,"Great packaging, nothing damaged",2026-03-15,Southeast
+Amazon Shipping,4,Always reliable with this carrier,2026-02-28,Midwest
+Amazon Shipping,5,"Great packaging, nothing damaged",2026-04-05,Midwest
+Amazon Shipping,5,No complaints at all,2026-02-06,Northeast
+Amazon Shipping,4,Arrived earlier than expected,2026-03-15,Midwest
+Amazon Shipping,4,Package arrived in perfect condition,2026-03-13,Southeast
+Amazon Shipping,4,No complaints at all,2026-03-23,Northeast
+Amazon Shipping,5,Driver was careful with the package,2026-03-01,Midwest
+Amazon Shipping,5,Package arrived in perfect condition,2026-03-19,Southeast
+Amazon Shipping,3,Okay experience overall,2026-01-28,West
+Amazon Shipping,4,Love the speed,2026-04-06,Northeast
+Amazon Shipping,5,Smooth delivery experience,2026-04-09,Southwest
+Amazon Shipping,5,Always reliable with this carrier,2026-02-17,Southeast
+Amazon Shipping,5,Driver was careful with the package,2026-02-05,Southwest
+Amazon Shipping,3,Got it when expected,2026-02-15,Midwest
+Amazon Shipping,3,Got it when expected,2026-03-16,West
+Amazon Shipping,5,Driver was careful with the package,2026-02-04,Southeast
+Amazon Shipping,4,Arrived earlier than expected,2026-02-11,Southwest
+Amazon Shipping,5,Love the speed,2026-02-14,West
+Amazon Shipping,5,"Fast delivery, very happy",2026-01-31,Northeast
+Amazon Shipping,5,Driver was careful with the package,2026-02-12,Southeast
+Amazon Shipping,4,Smooth delivery experience,2026-02-01,Southwest
+Amazon Shipping,4,Driver was careful with the package,2026-02-06,Midwest
+Amazon Shipping,4,Package arrived in perfect condition,2026-01-30,Midwest
+Amazon Shipping,3,Arrived on time,2026-02-03,Southwest
+Amazon Shipping,4,Driver was careful with the package,2026-01-24,Southeast
+Amazon Shipping,5,Always reliable with this carrier,2026-01-31,Southwest
+Amazon Shipping,5,No complaints at all,2026-02-23,West
+Amazon Shipping,4,Arrived earlier than expected,2026-04-10,Midwest
+Amazon Shipping,3,Package was fine but took a while,2026-03-28,West
+Amazon Shipping,4,No complaints at all,2026-02-25,Midwest
+Amazon Shipping,5,"Great packaging, nothing damaged",2026-02-24,Midwest
+Amazon Shipping,5,Smooth delivery experience,2026-03-22,Midwest
+Amazon Shipping,5,"Great packaging, nothing damaged",2026-04-11,Midwest
+Amazon Shipping,5,"Fast delivery, very happy",2026-01-31,Midwest
+Amazon Shipping,4,Always reliable with this carrier,2026-03-26,Southeast
+Amazon Shipping,4,Always reliable with this carrier,2026-02-19,Southeast
+Amazon Shipping,4,Package arrived in perfect condition,2026-03-10,West
+Amazon Shipping,5,Excellent as always,2026-02-22,West
+Amazon Shipping,5,Smooth delivery experience,2026-04-10,Northeast
+Amazon Shipping,3,"Standard delivery, no issues",2026-03-04,Northeast
+Amazon Shipping,5,Package arrived in perfect condition,2026-03-15,Southwest
+Amazon Shipping,4,Always reliable with this carrier,2026-01-30,Northeast
+Amazon Shipping,4,Driver was careful with the package,2026-03-14,Southeast
+Amazon Shipping,5,"Great packaging, nothing damaged",2026-02-25,West
+Amazon Shipping,4,No complaints at all,2026-02-10,Southwest
+Amazon Shipping,4,Excellent as always,2026-01-30,Northeast
+Amazon Shipping,4,No complaints at all,2026-03-20,Southwest
+Amazon Shipping,5,Arrived earlier than expected,2026-03-06,West
+Amazon Shipping,5,"Great packaging, nothing damaged",2026-03-03,Southeast
+Amazon Shipping,4,"Fast delivery, very happy",2026-01-21,West
+Veho,3,Got it when expected,2026-02-08,West
+Veho,3,"Delivery was fine, nothing special",2026-02-17,Midwest
+Veho,3,Okay experience overall,2026-03-02,West
+Veho,4,Driver was careful with the package,2026-04-10,Southeast
+Veho,4,Smooth delivery experience,2026-02-25,Southwest
+Veho,2,Driver didnt ring the bell,2026-03-16,West
+Veho,4,Smooth delivery experience,2026-02-09,Southwest
+Veho,5,No complaints at all,2026-03-17,Southwest
+Veho,5,"Great packaging, nothing damaged",2026-02-07,Southwest
+Veho,4,Driver was careful with the package,2026-03-16,Northeast
+Veho,4,Arrived earlier than expected,2026-03-29,West
+Veho,5,"Great packaging, nothing damaged",2026-02-17,Southwest
+Veho,5,Arrived earlier than expected,2026-04-03,Southwest
+Veho,4,Arrived earlier than expected,2026-04-04,Southeast
+Veho,5,Love the speed,2026-02-06,Southwest
+Veho,4,"Great packaging, nothing damaged",2026-04-07,Midwest
+Veho,3,Got it when expected,2026-02-17,Southwest
+Veho,4,Love the speed,2026-01-20,Southwest
+Veho,4,Always reliable with this carrier,2026-02-24,West
+Veho,4,No complaints at all,2026-04-12,Northeast
+Veho,4,Driver was careful with the package,2026-02-23,Southwest
+Veho,5,Package arrived in perfect condition,2026-04-10,Southeast
+Veho,4,Excellent as always,2026-01-20,West
+Veho,4,Excellent as always,2026-04-08,Southwest
+Veho,3,Package was fine but took a while,2026-04-05,Northeast
+Veho,4,Package arrived in perfect condition,2026-02-23,Midwest
+Veho,5,Excellent as always,2026-02-28,Southwest
+Veho,3,Package was fine but took a while,2026-02-10,Midwest
+Veho,3,"Standard delivery, no issues",2026-03-30,Northeast
+Veho,4,No complaints at all,2026-02-02,Northeast
+Veho,2,No delivery notification received,2026-03-02,Southwest
+Veho,3,Package was fine but took a while,2026-04-01,Northeast
+Veho,3,Got it when expected,2026-04-04,Northeast
+Veho,5,Arrived earlier than expected,2026-02-08,Southwest
+Veho,4,Excellent as always,2026-02-25,Southwest
+Veho,4,"Fast delivery, very happy",2026-03-01,Southwest
+Veho,4,Excellent as always,2026-03-30,Southwest
+Veho,4,Smooth delivery experience,2026-03-22,Southwest
+Veho,5,Love the speed,2026-02-22,Southeast
+Veho,5,Always reliable with this carrier,2026-04-03,Southwest
+Veho,3,Okay experience overall,2026-02-05,Northeast
+Veho,3,Package was fine but took a while,2026-01-20,Midwest
+Veho,4,Package arrived in perfect condition,2026-03-14,Northeast
+Veho,3,Arrived on time,2026-04-07,Northeast
+Veho,4,Package arrived in perfect condition,2026-03-17,West
+Veho,4,Package arrived in perfect condition,2026-02-23,Southeast
+Veho,3,Package was fine but took a while,2026-02-19,Southeast
+Veho,4,"Fast delivery, very happy",2026-03-01,Midwest
+Veho,3,Arrived on time,2026-03-04,Northeast
+Veho,3,Got it when expected,2026-01-26,Midwest
+Veho,4,Love the speed,2026-03-05,Southeast
+Veho,3,Got it when expected,2026-02-10,West
+Veho,4,Arrived earlier than expected,2026-02-27,Northeast
+Veho,4,Arrived earlier than expected,2026-02-26,Southeast
+Veho,3,Arrived on time,2026-02-05,Northeast
+Veho,2,Items were damaged inside,2026-02-21,Southeast
